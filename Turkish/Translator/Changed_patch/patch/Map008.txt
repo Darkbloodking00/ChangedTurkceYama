@@ -1,0 +1,119 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+夕阳映照着下方的垮塌的建筑，这是一座高塔，是你未
+在任何新闻、书籍上见过的
+> CONTEXT: Map008/events/4/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+很陌生，前所未见，成片的废墟，矗立的高塔，这儿究
+竟是哪？
+> CONTEXT: Map008/events/4/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看着这座塔下边的残垣断壁，你有些慌……
+> CONTEXT: Map008/events/4/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这里是什么城市遗迹吗……
+> CONTEXT: Map008/events/4/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+似乎求救是不太可能了……
+> CONTEXT: Map008/events/4/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+下面尽是些废墟一样的建筑物…那或许确确实实就是废
+墟…
+> CONTEXT: Map008/events/4/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你醉心于风景，完全没有注意到有一只狸猫悄悄地从旁
+边溜了上来
+> CONTEXT: Map008/events/12/pages/1/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那是一只……绝对不一般的狸猫，那是一只…胶兽狸猫
+> CONTEXT: Map008/events/12/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你被这只“狸猫”扑倒在地，屁股重重的摔在地上
+> CONTEXT: Map008/events/12/pages/1/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你无暇顾及这是一只怎样品种的狸猫…你只知道你可能
+有些…危险了
+> CONTEXT: Map008/events/12/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨大的人形狸猫冲你舔嘴巴，然后摆出了一个标准的猫
+科动物都会摆出的攻击架势：弓起腰，撅高屁股
+> CONTEXT: Map008/events/12/pages/1/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+他看着你，你看着他，时间仿佛凝固
+> CONTEXT: Map008/events/12/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你还没来得及伸手，这只猫就发起了攻击，但你没想到
+的是你没有被撕碎，这只狸猫变成了一股粘液覆盖了你
+的全身
+> CONTEXT: Map008/events/12/pages/1/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黏糊又温暖的感觉传遍全身，你感到身体紧绷了起来，
+这是你身上的黏液在收缩
+> CONTEXT: Map008/events/12/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的思想也模糊起来，你和猫的记忆混在了一起
+> CONTEXT: Map008/events/12/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你已经被这只粘液狸猫覆盖、同化，脑中浮现的是猫的
+想法，你舔了舔嘴巴，非常满足
+> CONTEXT: Map008/events/12/pages/1/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看着自己全新的身体，你居然开始有点开心了，或许，
+不久之后，你便会忘记你曾是人类
+> CONTEXT: Map008/events/12/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的冒险，到此为止了
+> CONTEXT: Map008/events/12/pages/1/47/Dialogue < UNTRANSLATED
+
+> END STRING

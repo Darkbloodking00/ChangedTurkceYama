@@ -1,0 +1,269 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…你简直是飞毛腿！
+> CONTEXT: Map078/events/1/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…好优秀啊人类，和当初被尾巴追的时候完
+全不一样啊！
+> CONTEXT: Map078/events/1/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你也有成长了啊……
+> CONTEXT: Map078/events/1/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你的脸色好差，太累了吗…辛苦你了…
+> CONTEXT: Map078/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…现在，一起走吧，我记得前面就是出口！
+> CONTEXT: Map078/events/1/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我有点…有点……发抖啊
+> CONTEXT: Map078/events/1/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…太激动了
+> CONTEXT: Map078/events/1/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我已经准备好迎接未来啦！
+> CONTEXT: Map078/events/1/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…之后你也可以好好休息了，人类！
+> CONTEXT: Map078/events/1/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出口就在咫尺之遥了
+> CONTEXT: Map078/events/2/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/3/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类
+> CONTEXT: Map078/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/5/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/6/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/7/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/69/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/76/pages/0/45/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…谢谢你
+> CONTEXT: Map078/events/4/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/5/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/6/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/7/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/8/pages/0/6/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/9/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…谢谢你的坚持，谢谢你的努力
+> CONTEXT: Map078/events/4/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/5/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/6/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/7/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/8/pages/0/8/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/9/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果没有你，我也不可能有勇气到这里
+> CONTEXT: Map078/events/4/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/5/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/6/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/7/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/8/pages/0/10/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/9/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…真的，非常感谢你
+> CONTEXT: Map078/events/4/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/5/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/6/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/7/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/8/pages/0/12/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/9/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小小的结晶
+> CONTEXT: Map078/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/13/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/18/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/19/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map080/events/126/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map080/events/146/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map080/events/147/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map080/events/148/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map080/events/151/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map080/events/152/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/16/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/20/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/21/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/6/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/25/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/29/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/39/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/17/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/41/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/28/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/46/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/43/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/49/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/48/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/50/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/59/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/67/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/51/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/89/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/54/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/98/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/114/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/59/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/137/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/60/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/150/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/61/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/161/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/63/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/64/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/163/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/78/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/82/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/84/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/261/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/85/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/264/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/87/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/267/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/90/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/276/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/93/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/281/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/96/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/99/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/102/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/306/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/103/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/107/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map076/events/337/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/110/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/118/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/121/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/131/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/132/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/141/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/142/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/143/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/144/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/145/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map077/events/147/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/5/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/18/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/19/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/23/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map074/events/24/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/18/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/57/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/77/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/88/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/89/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/116/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/133/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/168/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/169/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/170/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/172/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/174/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/177/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map075/events/178/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+清洁用具
+> CONTEXT: Map078/events/15/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/16/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/17/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map069/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/24/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/33/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/42/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我们的研究，就是最后的希望！
+> CONTEXT: Map078/events/22/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+振作！牺牲代表了进步！
+> CONTEXT: Map078/events/22/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我们终将成功！
+> CONTEXT: Map078/events/22/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+啊，是小箱子
+> CONTEXT: Map078/events/23/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/24/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/35/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一串弹孔……
+> CONTEXT: Map078/events/25/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map078/events/34/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

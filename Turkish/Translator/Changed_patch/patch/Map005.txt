@@ -1,0 +1,80 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+合金外壳，钢制
+> CONTEXT: Map005/events/1/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/9/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+里面灌满了浓厚的白色胶液，在这个管状舱室内涌动
+> CONTEXT: Map005/events/10/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的后背发凉
+> CONTEXT: Map005/events/10/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这个房间很危险
+> CONTEXT: Map005/events/16/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/37/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/42/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/51/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/53/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/59/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+所以还是不要在翻找箱子里的垃圾上面浪费时间了
+> CONTEXT: Map005/events/16/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/37/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/42/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/51/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/53/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map005/events/59/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一个星型的装饰塑料片，没有任何用处
+> CONTEXT: Map005/events/21/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+为什么你会想要拿着这个东西呢？这只是块垃圾，更何
+况你连裤兜都没有
+> CONTEXT: Map005/events/21/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一个星型的装饰塑料片，没有任何用处，别白费力气了
+> CONTEXT: Map005/events/21/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+究竟是什么吸引着你？
+> CONTEXT: Map005/events/21/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+深邃的下水道
+> CONTEXT: Map005/events/35/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map004/events/35/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+皱纸上面扭扭曲曲的写着“偶尔会出现…被追捕…情况
+…不要使用存储…机器…避免死档…”
+> CONTEXT: Map005/events/47/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

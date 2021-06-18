@@ -1,0 +1,128 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+这个看起来很有智慧的生物似乎肯定了你对于求生的渴望
+> CONTEXT: Map018/events/1/pages/6/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+他点了点头，但你并不知道是什么意思
+> CONTEXT: Map018/events/1/pages/6/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+很久 没见过 人类了
+> CONTEXT: Map018/events/1/pages/7/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你 决心
+> CONTEXT: Map018/events/1/pages/7/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+允许你 通过
+> CONTEXT: Map018/events/1/pages/7/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你是什么？
+> CONTEXT: Map018/events/1/pages/7/16/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+发生什么了？
+> CONTEXT: Map018/events/1/pages/7/16/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+离开
+> CONTEXT: Map018/events/1/pages/7/16/Choice/2 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/7/24/Choice/2 < UNTRANSLATED
+> CONTEXT: Map018/events/1/pages/7/50/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+是 怪物
+> CONTEXT: Map018/events/1/pages/7/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+什么是怪物？
+> CONTEXT: Map018/events/1/pages/7/24/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+其他人类呢？
+> CONTEXT: Map018/events/1/pages/7/24/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+动物 混杂 基因
+> CONTEXT: Map018/events/1/pages/7/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+争抢 治疗 自相残杀
+> CONTEXT: Map018/events/1/pages/7/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大 瘟疫 避难
+> CONTEXT: Map018/events/1/pages/7/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+瘟疫的事情？
+> CONTEXT: Map018/events/1/pages/7/50/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+避难的事情？
+> CONTEXT: Map018/events/1/pages/7/50/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+病毒 死掉 从北方来的
+> CONTEXT: Map018/events/1/pages/7/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+学者 汇聚 挽救
+> CONTEXT: Map018/events/1/pages/7/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+趁他改变主意之前，赶快离开
+> CONTEXT: Map018/events/37/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/38/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/53/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/55/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/56/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/57/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/58/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/59/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/60/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/61/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/62/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/63/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map018/events/64/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING

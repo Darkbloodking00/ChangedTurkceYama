@@ -1,0 +1,3591 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+"Graphics/Animations/"
+> CONTEXT: Scripts/Cache/16:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Battlers/"
+> CONTEXT: Scripts/Cache/24:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Characters/"
+> CONTEXT: Scripts/Cache/31:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Faces/"
+> CONTEXT: Scripts/Cache/38:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Parallaxes/"
+> CONTEXT: Scripts/Cache/45:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/Pictures/"
+> CONTEXT: Scripts/Cache/52:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/System/"
+> CONTEXT: Scripts/Cache/59:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"购买"
+> CONTEXT: Scripts/Vocab/10:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"贩卖"
+> CONTEXT: Scripts/Vocab/11:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"取消"
+> CONTEXT: Scripts/Vocab/12:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"拥有数量"
+> CONTEXT: Scripts/Vocab/13:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"当前经验"
+> CONTEXT: Scripts/Vocab/16:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"下一%s"
+> CONTEXT: Scripts/Vocab/17:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"储存到第几个档位？"
+> CONTEXT: Scripts/Vocab/20:21 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/60:18 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/101:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"从第几个档位载入？"
+> CONTEXT: Scripts/Vocab/21:21 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/61:18 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/102:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"档案"
+> CONTEXT: Scripts/Vocab/22:21 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/62:25 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/103:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s的队伍"
+> CONTEXT: Scripts/Vocab/26:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 出现！"
+> CONTEXT: Scripts/Vocab/29:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 先下手为强！"
+> CONTEXT: Scripts/Vocab/30:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 被偷袭！"
+> CONTEXT: Scripts/Vocab/31:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 准备逃跑！"
+> CONTEXT: Scripts/Vocab/32:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"但是，逃跑失败！"
+> CONTEXT: Scripts/Vocab/33:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 胜利"
+> CONTEXT: Scripts/Vocab/36:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 被击败了。"
+> CONTEXT: Scripts/Vocab/37:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"获得%s 点经验值"
+> CONTEXT: Scripts/Vocab/38:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"获得%s%s 的金钱！"
+> CONTEXT: Scripts/Vocab/39:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"找到%s ！"
+> CONTEXT: Scripts/Vocab/40:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 已经是 %s %s！"
+> CONTEXT: Scripts/Vocab/41:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"领悟%s ！"
+> CONTEXT: Scripts/Vocab/42:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 出手攻击！"
+> CONTEXT: Scripts/Vocab/45:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 护住身上弱点。"
+> CONTEXT: Scripts/Vocab/46:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 逃跑了。"
+> CONTEXT: Scripts/Vocab/47:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 正在等待时机。"
+> CONTEXT: Scripts/Vocab/48:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 使用了 %s！"
+> CONTEXT: Scripts/Vocab/49:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"会心一击！！"
+> CONTEXT: Scripts/Vocab/52:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"痛恨一击！！"
+> CONTEXT: Scripts/Vocab/53:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 受到 %s 点伤害！"
+> CONTEXT: Scripts/Vocab/60:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/69:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%1$s 失去了 %3$s 点的 %2$s！"
+> CONTEXT: Scripts/Vocab/61:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/70:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%1$s 的 %3$s 被吸收了%2$s点！"
+> CONTEXT: Scripts/Vocab/62:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/71:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 毫发无伤！"
+> CONTEXT: Scripts/Vocab/63:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/72:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"攻击落空! %s 毫发无伤！"
+> CONTEXT: Scripts/Vocab/64:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/73:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%s 闪开了攻击！"
+> CONTEXT: Scripts/Vocab/65:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/74:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%1$s 的 %2$s 回复了%3$s点！"
+> CONTEXT: Scripts/Vocab/66:21 < UNTRANSLATED
+> CONTEXT: Scripts/Vocab/75:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"对%s 无效！"
+> CONTEXT: Scripts/Vocab/78:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"map"
+> CONTEXT: Scripts/Game_System/72:33 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1636:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/655:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+""
+> CONTEXT: Scripts/Game_Message/40:18 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Message/63:19 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Picture/29:13 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Picture/130:13 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler/35:21 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Battler/530:12 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Event/90:25 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Player/234:25 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Character/40:23 < UNTRANSLATED
+> CONTEXT: Scripts/Sprite_Picture/34:27 < UNTRANSLATED
+> CONTEXT: Scripts/Sprite_Picture/38:25 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/201:28 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Skill/65:42 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Item/84:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Equip/55:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_ShopBuy/67:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/25:13 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/49:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/62:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/75:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_DebugRight/52:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/169:13 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/283:36 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/83:18 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Name/48:33 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Name/50:35 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Name/60:40 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Shop/137:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Shop/168:29 < UNTRANSLATED
+> CONTEXT: Scripts/Save/13:12 < UNTRANSLATED
+> CONTEXT: Scripts/Save/347:13 < UNTRANSLATED
+> CONTEXT: Scripts/Main/16:44 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/1108:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/458:33 < UNTRANSLATED
+> CONTEXT: Scripts/Super/476:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Audio/lang.txt"
+> CONTEXT: Scripts/Game_Temp/49:23 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/54:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Audio/"
+> CONTEXT: Scripts/Game_Temp/50:28 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Map/37:30 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/80:30 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/37:30 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/128:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"lang.txt"
+> CONTEXT: Scripts/Game_Temp/50:37 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Map/37:39 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/80:39 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/37:39 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/128:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"w+"
+> CONTEXT: Scripts/Game_Temp/50:49 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/128:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"1"
+> CONTEXT: Scripts/Game_Temp/51:18 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Event/101:31 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Map/39:20 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/82:20 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/42:13 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/66:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"r"
+> CONTEXT: Scripts/Game_Temp/54:37 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Map/37:51 < UNTRANSLATED
+> CONTEXT: Scripts/Window_SaveFile/36:35 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/80:51 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/37:51 < UNTRANSLATED
+> CONTEXT: Scripts/Save/98:44 < UNTRANSLATED
+> CONTEXT: Scripts/Save/108:46 < UNTRANSLATED
+> CONTEXT: Scripts/Save/429:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"儲存到第幾個檔位？"
+> CONTEXT: Scripts/Game_Temp/64:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"從第幾個檔位載入？"
+> CONTEXT: Scripts/Game_Temp/65:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"檔案"
+> CONTEXT: Scripts/Game_Temp/66:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Try to stay hopeful."
+> CONTEXT: Scripts/Game_Temp/68:18 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/97:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"There is no point in reliving the past."
+> CONTEXT: Scripts/Game_Temp/69:18 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/98:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Experience"
+> CONTEXT: Scripts/Game_Temp/70:25 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Temp/99:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"セーブするファイルを選択してください。"
+> CONTEXT: Scripts/Game_Temp/72:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"呼び出すファイルを選択してください。"
+> CONTEXT: Scripts/Game_Temp/73:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"データ"
+> CONTEXT: Scripts/Game_Temp/74:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"몇번 위치에 저장할까요?"
+> CONTEXT: Scripts/Game_Temp/76:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"몇번 위치를 로드할까요?"
+> CONTEXT: Scripts/Game_Temp/77:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"파일"
+> CONTEXT: Scripts/Game_Temp/78:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Tente manter a esperança."
+> CONTEXT: Scripts/Game_Temp/80:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Não há sentido em reviver o passado."
+> CONTEXT: Scripts/Game_Temp/81:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Experiência"
+> CONTEXT: Scripts/Game_Temp/82:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Не теряй надежды."
+> CONTEXT: Scripts/Game_Temp/84:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Нет смысла жить прошлым."
+> CONTEXT: Scripts/Game_Temp/85:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Образец"
+> CONTEXT: Scripts/Game_Temp/86:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Intenta mantener la esperanza."
+> CONTEXT: Scripts/Game_Temp/88:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"No tiene sentido revivir el pasado."
+> CONTEXT: Scripts/Game_Temp/89:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Experiencia"
+> CONTEXT: Scripts/Game_Temp/90:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"บันทึกความหวัง"
+> CONTEXT: Scripts/Game_Temp/92:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"พยายามที่จะมีความหวัง"
+> CONTEXT: Scripts/Game_Temp/93:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"บันทึกเหตุการณ์"
+> CONTEXT: Scripts/Game_Temp/94:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"67"
+> CONTEXT: Scripts/Game_Picture/62:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"68"
+> CONTEXT: Scripts/Game_Picture/62:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"_"
+> CONTEXT: Scripts/Game_Picture/63:22 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Event/104:60 < UNTRANSLATED
+> CONTEXT: Scripts/Super/106:30 < UNTRANSLATED
+> CONTEXT: Scripts/Super/128:30 < UNTRANSLATED
+> CONTEXT: Scripts/Super/147:26 < UNTRANSLATED
+> CONTEXT: Scripts/Super/159:26 < UNTRANSLATED
+> CONTEXT: Scripts/Super/171:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"-------"
+> CONTEXT: Scripts/Game_Actor/404:45 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Actor/410:60 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Actor/417:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+''
+> CONTEXT: Scripts/Game_Enemy/29:15 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Enemy/204:17 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Party/77:14 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:43 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:46 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:43 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:46 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:37 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/35:58 < UNTRANSLATED
+> CONTEXT: Scripts/steam/87:94 < UNTRANSLATED
+> CONTEXT: Scripts/steam/88:94 < UNTRANSLATED
+> CONTEXT: Scripts/steam/384:76 < UNTRANSLATED
+> CONTEXT: Scripts/steam/385:84 < UNTRANSLATED
+> CONTEXT: Scripts/steam/386:92 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'一'
+> CONTEXT: Scripts/Game_Troop/12:20 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'二'
+> CONTEXT: Scripts/Game_Troop/12:24 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'三'
+> CONTEXT: Scripts/Game_Troop/12:28 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'四'
+> CONTEXT: Scripts/Game_Troop/12:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'五'
+> CONTEXT: Scripts/Game_Troop/12:36 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/11:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'六'
+> CONTEXT: Scripts/Game_Troop/12:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'七'
+> CONTEXT: Scripts/Game_Troop/12:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'八'
+> CONTEXT: Scripts/Game_Troop/12:48 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'九'
+> CONTEXT: Scripts/Game_Troop/12:52 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十'
+> CONTEXT: Scripts/Game_Troop/12:56 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/12:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十一'
+> CONTEXT: Scripts/Game_Troop/13:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十二'
+> CONTEXT: Scripts/Game_Troop/13:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十三'
+> CONTEXT: Scripts/Game_Troop/13:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十四'
+> CONTEXT: Scripts/Game_Troop/13:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十五'
+> CONTEXT: Scripts/Game_Troop/13:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十六'
+> CONTEXT: Scripts/Game_Troop/13:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十七'
+> CONTEXT: Scripts/Game_Troop/13:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十八'
+> CONTEXT: Scripts/Game_Troop/14:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'十九'
+> CONTEXT: Scripts/Game_Troop/14:25 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' 二十'
+> CONTEXT: Scripts/Game_Troop/14:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'二十一'
+> CONTEXT: Scripts/Game_Troop/14:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'二十二'
+> CONTEXT: Scripts/Game_Troop/14:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'二十三'
+> CONTEXT: Scripts/Game_Troop/14:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'二十四'
+> CONTEXT: Scripts/Game_Troop/15:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'二十五'
+> CONTEXT: Scripts/Game_Troop/15:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'二十六'
+> CONTEXT: Scripts/Game_Troop/15:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"$!03"
+> CONTEXT: Scripts/Game_Event/100:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"$!07"
+> CONTEXT: Scripts/Game_Event/100:84 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"$!13"
+> CONTEXT: Scripts/Game_Event/100:126 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"$!14"
+> CONTEXT: Scripts/Game_Event/100:168 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"$!15"
+> CONTEXT: Scripts/Game_Event/100:210 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"$!16"
+> CONTEXT: Scripts/Game_Event/100:252 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"$!19"
+> CONTEXT: Scripts/Game_Event/100:294 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Map%03d.rvdata"
+> CONTEXT: Scripts/Game_Map/40:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/Data"
+> CONTEXT: Scripts/Game_Map/42:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Map%03d.rvdata"
+> CONTEXT: Scripts/Game_Map/42:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'!'
+> CONTEXT: Scripts/Game_Character/234:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileB"
+> CONTEXT: Scripts/Sprite_Character/66:25 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/42:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/743:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileC"
+> CONTEXT: Scripts/Sprite_Character/67:25 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/43:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/744:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileD"
+> CONTEXT: Scripts/Sprite_Character/68:25 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/44:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/745:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileE"
+> CONTEXT: Scripts/Sprite_Character/69:25 < UNTRANSLATED
+> CONTEXT: Scripts/Spriteset_Map/45:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/746:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/^[\\!\\$]./
+> CONTEXT: Scripts/Sprite_Character/91:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/189:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'$'
+> CONTEXT: Scripts/Sprite_Character/92:42 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/190:38 < UNTRANSLATED
+> CONTEXT: Scripts/Super/351:35 < UNTRANSLATED
+> CONTEXT: Scripts/Super/399:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Balloon"
+> CONTEXT: Scripts/Sprite_Character/123:43 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Arial"
+> CONTEXT: Scripts/Sprite_Timer/15:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d"
+> CONTEXT: Scripts/Sprite_Timer/40:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA1"
+> CONTEXT: Scripts/Spriteset_Map/37:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/738:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA2"
+> CONTEXT: Scripts/Spriteset_Map/38:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/739:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA3"
+> CONTEXT: Scripts/Spriteset_Map/39:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/740:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA4"
+> CONTEXT: Scripts/Spriteset_Map/40:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/741:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"TileA5"
+> CONTEXT: Scripts/Spriteset_Map/41:40 < UNTRANSLATED
+> CONTEXT: Scripts/Super/742:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Shadow"
+> CONTEXT: Scripts/Spriteset_Map/76:42 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"BattleFloor"
+> CONTEXT: Scripts/Spriteset_Battle/54:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"已经调用过多公共事件。"
+> CONTEXT: Scripts/Game_Interpreter/18:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"menu"
+> CONTEXT: Scripts/Game_Interpreter/57:43 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1644:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/155:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/178:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"battle"
+> CONTEXT: Scripts/Game_Interpreter/1294:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/125:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/172:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"shop"
+> CONTEXT: Scripts/Game_Interpreter/1333:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/174:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"name"
+> CONTEXT: Scripts/Game_Interpreter/1350:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/176:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"gameover"
+> CONTEXT: Scripts/Game_Interpreter/1372:31 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1661:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/184:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/657:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"save"
+> CONTEXT: Scripts/Game_Interpreter/1653:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/180:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"title"
+> CONTEXT: Scripts/Game_Interpreter/1668:29 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/186:10 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/659:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\n"
+> CONTEXT: Scripts/Game_Interpreter/1675:44 < UNTRANSLATED
+> CONTEXT: Scripts/Game_Interpreter/1678:51 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Window"
+> CONTEXT: Scripts/Window_Base/21:36 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Iconset"
+> CONTEXT: Scripts/Window_Base/157:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/"
+> CONTEXT: Scripts/Window_Base/303:52 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Base/340:52 < UNTRANSLATED
+> CONTEXT: Scripts/Save/179:22 < UNTRANSLATED
+> CONTEXT: Scripts/Save/182:34 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+":%2d"
+> CONTEXT: Scripts/Window_Item/77:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\>"
+> CONTEXT: Scripts/Window_EquipStatus/92:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+" \#{@file_index + 1}"
+> CONTEXT: Scripts/Window_SaveFile/61:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%02d:%02d:%02d"
+> CONTEXT: Scripts/Window_SaveFile/92:27 < UNTRANSLATED
+> CONTEXT: Scripts/Save/225:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"×"
+> CONTEXT: Scripts/Window_ShopNumber/44:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%+d"
+> CONTEXT: Scripts/Window_ShopStatus/65:55 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+//
+> CONTEXT: Scripts/Window_NameEdit/24:30 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/40:26 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/61:32 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameEdit/89:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'_'
+> CONTEXT: Scripts/Window_NameEdit/92:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%0*d"
+> CONTEXT: Scripts/Window_NumberInput/105:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'K'
+> CONTEXT: Scripts/Window_NameInput/13:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'L'
+> CONTEXT: Scripts/Window_NameInput/13:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:19 < UNTRANSLATED
+> CONTEXT: Scripts/steam/310:70 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'M'
+> CONTEXT: Scripts/Window_NameInput/13:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'N'
+> CONTEXT: Scripts/Window_NameInput/13:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'O'
+> CONTEXT: Scripts/Window_NameInput/13:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'k'
+> CONTEXT: Scripts/Window_NameInput/13:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'l'
+> CONTEXT: Scripts/Window_NameInput/13:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'m'
+> CONTEXT: Scripts/Window_NameInput/13:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'n'
+> CONTEXT: Scripts/Window_NameInput/13:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'o'
+> CONTEXT: Scripts/Window_NameInput/13:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/22:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/31:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/40:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'P'
+> CONTEXT: Scripts/Window_NameInput/14:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:15 < UNTRANSLATED
+> CONTEXT: Scripts/steam/89:108 < UNTRANSLATED
+> CONTEXT: Scripts/steam/387:138 < UNTRANSLATED
+> CONTEXT: Scripts/steam/397:167 < UNTRANSLATED
+> CONTEXT: Scripts/steam/398:136 < UNTRANSLATED
+> CONTEXT: Scripts/steam/399:142 < UNTRANSLATED
+> CONTEXT: Scripts/steam/400:120 < UNTRANSLATED
+> CONTEXT: Scripts/steam/402:116 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Q'
+> CONTEXT: Scripts/Window_NameInput/14:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'R'
+> CONTEXT: Scripts/Window_NameInput/14:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'S'
+> CONTEXT: Scripts/Window_NameInput/14:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'T'
+> CONTEXT: Scripts/Window_NameInput/14:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'p'
+> CONTEXT: Scripts/Window_NameInput/14:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'q'
+> CONTEXT: Scripts/Window_NameInput/14:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'r'
+> CONTEXT: Scripts/Window_NameInput/14:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'s'
+> CONTEXT: Scripts/Window_NameInput/14:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'t'
+> CONTEXT: Scripts/Window_NameInput/14:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/23:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/32:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/41:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'U'
+> CONTEXT: Scripts/Window_NameInput/15:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'V'
+> CONTEXT: Scripts/Window_NameInput/15:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:19 < UNTRANSLATED
+> CONTEXT: Scripts/steam/385:88 < UNTRANSLATED
+> CONTEXT: Scripts/steam/386:96 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'W'
+> CONTEXT: Scripts/Window_NameInput/15:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'X'
+> CONTEXT: Scripts/Window_NameInput/15:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Y'
+> CONTEXT: Scripts/Window_NameInput/15:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'u'
+> CONTEXT: Scripts/Window_NameInput/15:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'v'
+> CONTEXT: Scripts/Window_NameInput/15:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'w'
+> CONTEXT: Scripts/Window_NameInput/15:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'x'
+> CONTEXT: Scripts/Window_NameInput/15:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'y'
+> CONTEXT: Scripts/Window_NameInput/15:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/24:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/33:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/42:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Z'
+> CONTEXT: Scripts/Window_NameInput/16:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+' '
+> CONTEXT: Scripts/Window_NameInput/16:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/16:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/16:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/16:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/16:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/16:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/16:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/16:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/17:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/18:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/18:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/18:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/18:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/18:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/19:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/19:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/19:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/19:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/26:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/35:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/44:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/46:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/46:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/46:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/46:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/46:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/46:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/46:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/52:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:40 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:44 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:48 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/53:52 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/54:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:49 < UNTRANSLATED
+> CONTEXT: Scripts/steam/197:13 < UNTRANSLATED
+> CONTEXT: Scripts/steam/211:13 < UNTRANSLATED
+> CONTEXT: Scripts/steam/263:13 < UNTRANSLATED
+> CONTEXT: Scripts/steam/307:18 < UNTRANSLATED
+> CONTEXT: Scripts/steam/308:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'z'
+> CONTEXT: Scripts/Window_NameInput/16:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/25:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/34:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/43:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'1'
+> CONTEXT: Scripts/Window_NameInput/18:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:15 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/97:68 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/99:60 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/109:54 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'2'
+> CONTEXT: Scripts/Window_NameInput/18:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'3'
+> CONTEXT: Scripts/Window_NameInput/18:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'4'
+> CONTEXT: Scripts/Window_NameInput/18:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'5'
+> CONTEXT: Scripts/Window_NameInput/18:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/27:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/36:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'6'
+> CONTEXT: Scripts/Window_NameInput/19:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'7'
+> CONTEXT: Scripts/Window_NameInput/19:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'8'
+> CONTEXT: Scripts/Window_NameInput/19:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'9'
+> CONTEXT: Scripts/Window_NameInput/19:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'0'
+> CONTEXT: Scripts/Window_NameInput/19:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/45:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/51:53 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/97:60 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/98:60 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/109:60 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'确认'
+> CONTEXT: Scripts/Window_NameInput/19:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/28:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/37:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/46:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/55:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'A'
+> CONTEXT: Scripts/Window_NameInput/20:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'B'
+> CONTEXT: Scripts/Window_NameInput/20:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'C'
+> CONTEXT: Scripts/Window_NameInput/20:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:23 < UNTRANSLATED
+> CONTEXT: Scripts/steam/265:23 < UNTRANSLATED
+> CONTEXT: Scripts/steam/310:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'D'
+> CONTEXT: Scripts/Window_NameInput/20:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'E'
+> CONTEXT: Scripts/Window_NameInput/20:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'a'
+> CONTEXT: Scripts/Window_NameInput/20:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'b'
+> CONTEXT: Scripts/Window_NameInput/20:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'c'
+> CONTEXT: Scripts/Window_NameInput/20:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'d'
+> CONTEXT: Scripts/Window_NameInput/20:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:49 < UNTRANSLATED
+> CONTEXT: Scripts/steam/415:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'e'
+> CONTEXT: Scripts/Window_NameInput/20:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/29:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/38:53 < UNTRANSLATED
+> CONTEXT: Scripts/steam/409:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'F'
+> CONTEXT: Scripts/Window_NameInput/21:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:15 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'G'
+> CONTEXT: Scripts/Window_NameInput/21:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:19 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'H'
+> CONTEXT: Scripts/Window_NameInput/21:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:23 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'I'
+> CONTEXT: Scripts/Window_NameInput/21:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:27 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:27 < UNTRANSLATED
+> CONTEXT: Scripts/steam/87:98 < UNTRANSLATED
+> CONTEXT: Scripts/steam/88:98 < UNTRANSLATED
+> CONTEXT: Scripts/steam/89:113 < UNTRANSLATED
+> CONTEXT: Scripts/steam/90:138 < UNTRANSLATED
+> CONTEXT: Scripts/steam/91:128 < UNTRANSLATED
+> CONTEXT: Scripts/steam/199:23 < UNTRANSLATED
+> CONTEXT: Scripts/steam/383:110 < UNTRANSLATED
+> CONTEXT: Scripts/steam/383:115 < UNTRANSLATED
+> CONTEXT: Scripts/steam/384:80 < UNTRANSLATED
+> CONTEXT: Scripts/steam/387:143 < UNTRANSLATED
+> CONTEXT: Scripts/steam/388:121 < UNTRANSLATED
+> CONTEXT: Scripts/steam/389:123 < UNTRANSLATED
+> CONTEXT: Scripts/steam/390:121 < UNTRANSLATED
+> CONTEXT: Scripts/steam/391:123 < UNTRANSLATED
+> CONTEXT: Scripts/steam/392:143 < UNTRANSLATED
+> CONTEXT: Scripts/steam/393:135 < UNTRANSLATED
+> CONTEXT: Scripts/steam/394:134 < UNTRANSLATED
+> CONTEXT: Scripts/steam/395:138 < UNTRANSLATED
+> CONTEXT: Scripts/steam/396:162 < UNTRANSLATED
+> CONTEXT: Scripts/steam/398:141 < UNTRANSLATED
+> CONTEXT: Scripts/steam/400:125 < UNTRANSLATED
+> CONTEXT: Scripts/steam/401:132 < UNTRANSLATED
+> CONTEXT: Scripts/steam/402:121 < UNTRANSLATED
+> CONTEXT: Scripts/steam/403:126 < UNTRANSLATED
+> CONTEXT: Scripts/steam/410:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'J'
+> CONTEXT: Scripts/Window_NameInput/21:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:31 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'f'
+> CONTEXT: Scripts/Window_NameInput/21:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:37 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:37 < UNTRANSLATED
+> CONTEXT: Scripts/steam/213:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'g'
+> CONTEXT: Scripts/Window_NameInput/21:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:41 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'h'
+> CONTEXT: Scripts/Window_NameInput/21:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:45 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'i'
+> CONTEXT: Scripts/Window_NameInput/21:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:49 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:49 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/14:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/15:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/16:85 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/16:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/17:85 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/17:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/18:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/19:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/20:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/21:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/22:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/23:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/24:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/25:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/26:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/27:85 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/27:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/28:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/29:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/30:85 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/30:101 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/31:85 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/31:101 < UNTRANSLATED
+> CONTEXT: Scripts/Save/26:71 < UNTRANSLATED
+> CONTEXT: Scripts/Save/27:71 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'j'
+> CONTEXT: Scripts/Window_NameInput/21:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/30:53 < UNTRANSLATED
+> CONTEXT: Scripts/Window_NameInput/39:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'英'
+> CONTEXT: Scripts/Window_NameInput/46:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'数'
+> CONTEXT: Scripts/Window_NameInput/46:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'！'
+> CONTEXT: Scripts/Window_NameInput/47:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'？'
+> CONTEXT: Scripts/Window_NameInput/47:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'˙'
+> CONTEXT: Scripts/Window_NameInput/47:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＃'
+> CONTEXT: Scripts/Window_NameInput/47:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＆'
+> CONTEXT: Scripts/Window_NameInput/47:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＊'
+> CONTEXT: Scripts/Window_NameInput/47:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'※'
+> CONTEXT: Scripts/Window_NameInput/47:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'§'
+> CONTEXT: Scripts/Window_NameInput/47:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'○'
+> CONTEXT: Scripts/Window_NameInput/47:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'●'
+> CONTEXT: Scripts/Window_NameInput/47:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'△'
+> CONTEXT: Scripts/Window_NameInput/48:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'▽'
+> CONTEXT: Scripts/Window_NameInput/48:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'▼'
+> CONTEXT: Scripts/Window_NameInput/48:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'▲'
+> CONTEXT: Scripts/Window_NameInput/48:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'■'
+> CONTEXT: Scripts/Window_NameInput/48:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'□'
+> CONTEXT: Scripts/Window_NameInput/48:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'◇'
+> CONTEXT: Scripts/Window_NameInput/48:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'◆'
+> CONTEXT: Scripts/Window_NameInput/48:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'♀'
+> CONTEXT: Scripts/Window_NameInput/48:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'♂'
+> CONTEXT: Scripts/Window_NameInput/48:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'☆'
+> CONTEXT: Scripts/Window_NameInput/49:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'★'
+> CONTEXT: Scripts/Window_NameInput/49:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'◎'
+> CONTEXT: Scripts/Window_NameInput/49:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'⊙'
+> CONTEXT: Scripts/Window_NameInput/49:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'〤'
+> CONTEXT: Scripts/Window_NameInput/49:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'，'
+> CONTEXT: Scripts/Window_NameInput/49:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'；'
+> CONTEXT: Scripts/Window_NameInput/49:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'：'
+> CONTEXT: Scripts/Window_NameInput/49:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'『'
+> CONTEXT: Scripts/Window_NameInput/49:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'』'
+> CONTEXT: Scripts/Window_NameInput/49:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'↑'
+> CONTEXT: Scripts/Window_NameInput/50:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'↓'
+> CONTEXT: Scripts/Window_NameInput/50:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'←'
+> CONTEXT: Scripts/Window_NameInput/50:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'→'
+> CONTEXT: Scripts/Window_NameInput/50:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'↖'
+> CONTEXT: Scripts/Window_NameInput/50:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'↗'
+> CONTEXT: Scripts/Window_NameInput/50:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'↙'
+> CONTEXT: Scripts/Window_NameInput/50:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'↘'
+> CONTEXT: Scripts/Window_NameInput/50:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'「'
+> CONTEXT: Scripts/Window_NameInput/50:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'」'
+> CONTEXT: Scripts/Window_NameInput/50:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'｜'
+> CONTEXT: Scripts/Window_NameInput/52:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'…'
+> CONTEXT: Scripts/Window_NameInput/52:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'．'
+> CONTEXT: Scripts/Window_NameInput/52:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'、'
+> CONTEXT: Scripts/Window_NameInput/52:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'－'
+> CONTEXT: Scripts/Window_NameInput/52:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'（'
+> CONTEXT: Scripts/Window_NameInput/52:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'）'
+> CONTEXT: Scripts/Window_NameInput/52:41 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'〔'
+> CONTEXT: Scripts/Window_NameInput/52:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'〕'
+> CONTEXT: Scripts/Window_NameInput/52:49 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'+'
+> CONTEXT: Scripts/Window_NameInput/53:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'-'
+> CONTEXT: Scripts/Window_NameInput/53:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'*'
+> CONTEXT: Scripts/Window_NameInput/53:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'/'
+> CONTEXT: Scripts/Window_NameInput/53:27 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'＼'
+> CONTEXT: Scripts/Window_NameInput/53:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'符'
+> CONTEXT: Scripts/Window_NameInput/55:31 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'号'
+> CONTEXT: Scripts/Window_NameInput/55:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"开 [%04d-%04d]"
+> CONTEXT: Scripts/Window_DebugLeft/37:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"变 [%04d-%04d]"
+> CONTEXT: Scripts/Window_DebugLeft/40:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%04d:"
+> CONTEXT: Scripts/Window_DebugRight/42:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[开]"
+> CONTEXT: Scripts/Window_DebugRight/46:45 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"[关]"
+> CONTEXT: Scripts/Window_DebugRight/46:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MessageBack"
+> CONTEXT: Scripts/Window_Message/95:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"    "
+> CONTEXT: Scripts/Window_Message/171:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x00"
+> CONTEXT: Scripts/Window_Message/172:47 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/274:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\V\\[([0-9]+)\\]/
+> CONTEXT: Scripts/Window_Message/216:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\N\\[([0-9]+)\\]/
+> CONTEXT: Scripts/Window_Message/217:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\C\\[([0-9]+)\\]/
+> CONTEXT: Scripts/Window_Message/218:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x01[\#{$1}]"
+> CONTEXT: Scripts/Window_Message/218:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\G/
+> CONTEXT: Scripts/Window_Message/219:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x02"
+> CONTEXT: Scripts/Window_Message/219:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/286:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\\./
+> CONTEXT: Scripts/Window_Message/220:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x03"
+> CONTEXT: Scripts/Window_Message/220:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/289:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\\|/
+> CONTEXT: Scripts/Window_Message/221:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x04"
+> CONTEXT: Scripts/Window_Message/221:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/292:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\!/
+> CONTEXT: Scripts/Window_Message/222:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x05"
+> CONTEXT: Scripts/Window_Message/222:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/295:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\>/
+> CONTEXT: Scripts/Window_Message/223:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x06"
+> CONTEXT: Scripts/Window_Message/223:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/298:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\</
+> CONTEXT: Scripts/Window_Message/224:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x07"
+> CONTEXT: Scripts/Window_Message/224:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/300:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\\^/
+> CONTEXT: Scripts/Window_Message/225:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x08"
+> CONTEXT: Scripts/Window_Message/225:39 < UNTRANSLATED
+> CONTEXT: Scripts/Window_Message/302:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\\\\\\\/
+> CONTEXT: Scripts/Window_Message/226:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\\\"
+> CONTEXT: Scripts/Window_Message/226:39 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/./
+> CONTEXT: Scripts/Window_Message/269:24 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\x01"
+> CONTEXT: Scripts/Window_Message/282:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/\\[([0-9]+)\\]/
+> CONTEXT: Scripts/Window_Message/283:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Data"
+> CONTEXT: Scripts/Scene_Title/85:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data"
+> CONTEXT: Scripts/Scene_Title/87:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/88:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/89:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/90:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/91:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/92:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/93:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/94:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/95:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/96:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/97:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/98:37 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title/99:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Actors.rvdata"
+> CONTEXT: Scripts/Scene_Title/87:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Classes.rvdata"
+> CONTEXT: Scripts/Scene_Title/88:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Skills.rvdata"
+> CONTEXT: Scripts/Scene_Title/89:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Items.rvdata"
+> CONTEXT: Scripts/Scene_Title/90:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Weapons.rvdata"
+> CONTEXT: Scripts/Scene_Title/91:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Armors.rvdata"
+> CONTEXT: Scripts/Scene_Title/92:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Enemies.rvdata"
+> CONTEXT: Scripts/Scene_Title/93:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Troops.rvdata"
+> CONTEXT: Scripts/Scene_Title/94:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/States.rvdata"
+> CONTEXT: Scripts/Scene_Title/95:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Animations.rvdata"
+> CONTEXT: Scripts/Scene_Title/96:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/CommonEvents.rvdata"
+> CONTEXT: Scripts/Scene_Title/97:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/System.rvdata"
+> CONTEXT: Scripts/Scene_Title/98:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"/Areas.rvdata"
+> CONTEXT: Scripts/Scene_Title/99:57 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Actors.rvdata"
+> CONTEXT: Scripts/Scene_Title/106:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Classes.rvdata"
+> CONTEXT: Scripts/Scene_Title/107:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Skills.rvdata"
+> CONTEXT: Scripts/Scene_Title/108:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Items.rvdata"
+> CONTEXT: Scripts/Scene_Title/109:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Weapons.rvdata"
+> CONTEXT: Scripts/Scene_Title/110:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Armors.rvdata"
+> CONTEXT: Scripts/Scene_Title/111:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Enemies.rvdata"
+> CONTEXT: Scripts/Scene_Title/112:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Troops.rvdata"
+> CONTEXT: Scripts/Scene_Title/113:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_States.rvdata"
+> CONTEXT: Scripts/Scene_Title/114:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_Animations.rvdata"
+> CONTEXT: Scripts/Scene_Title/115:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_CommonEvents.rvdata"
+> CONTEXT: Scripts/Scene_Title/116:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Data/BT_System.rvdata"
+> CONTEXT: Scripts/Scene_Title/117:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Save*.rvdata'
+> CONTEXT: Scripts/Scene_Title/139:35 < UNTRANSLATED
+> CONTEXT: Scripts/Save/270:46 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Title"
+> CONTEXT: Scripts/Scene_Title/146:35 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Guide/62:35 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/69:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"主角初始位置未设定。"
+> CONTEXT: Scripts/Scene_Title/212:13 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"debug"
+> CONTEXT: Scripts/Scene_Map/163:31 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Map/182:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Graphics/System/BattleStart"
+> CONTEXT: Scripts/Scene_Map/268:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Save\#{file_index + 1}.rvdata"
+> CONTEXT: Scripts/Scene_File/158:12 < UNTRANSLATED
+> CONTEXT: Scripts/Save/195:12 < UNTRANSLATED
+> CONTEXT: Scripts/Save/418:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"wb"
+> CONTEXT: Scripts/Scene_File/178:58 < UNTRANSLATED
+> CONTEXT: Scripts/Save/443:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"rb"
+> CONTEXT: Scripts/Scene_File/187:58 < UNTRANSLATED
+> CONTEXT: Scripts/Save/456:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"GameOver"
+> CONTEXT: Scripts/Scene_Gameover/49:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"C键 (回车) : 开 / 关"
+> CONTEXT: Scripts/Scene_Debug/63:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"← (左)       :  -1"
+> CONTEXT: Scripts/Scene_Debug/66:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"→ (右)       :  +1"
+> CONTEXT: Scripts/Scene_Debug/67:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"L  (Pageup)   : -10"
+> CONTEXT: Scripts/Scene_Debug/68:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"R  (Pagedown) : +10"
+> CONTEXT: Scripts/Scene_Debug/69:17 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Audio/SE/book"
+> CONTEXT: Scripts/Scene_Guide/60:19 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Guide/77:19 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Guide"
+> CONTEXT: Scripts/Scene_Guide/64:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"explorer steam://rungameid/1069790"
+> CONTEXT: Scripts/Scene_Title(2)/26:14 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"操作指南"
+> CONTEXT: Scripts/Scene_Title(2)/43:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/45:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"2"
+> CONTEXT: Scripts/Scene_Title(2)/44:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/68:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"3"
+> CONTEXT: Scripts/Scene_Title(2)/46:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/70:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"OPERATION GUIDE"
+> CONTEXT: Scripts/Scene_Title(2)/47:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/63:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"4"
+> CONTEXT: Scripts/Scene_Title(2)/48:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/72:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"操作ガイド"
+> CONTEXT: Scripts/Scene_Title(2)/49:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"5"
+> CONTEXT: Scripts/Scene_Title(2)/50:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/74:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"조작 가이드"
+> CONTEXT: Scripts/Scene_Title(2)/51:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"6"
+> CONTEXT: Scripts/Scene_Title(2)/52:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/76:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"GUIA DE OPERAÇÃO"
+> CONTEXT: Scripts/Scene_Title(2)/53:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"7"
+> CONTEXT: Scripts/Scene_Title(2)/54:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/78:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"руководство"
+> CONTEXT: Scripts/Scene_Title(2)/55:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"8"
+> CONTEXT: Scripts/Scene_Title(2)/56:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/80:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"MANUAL DE OPERACIONES"
+> CONTEXT: Scripts/Scene_Title(2)/57:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"9"
+> CONTEXT: Scripts/Scene_Title(2)/58:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/82:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"แนวทางการดำเนินงาน"
+> CONTEXT: Scripts/Scene_Title(2)/59:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"10"
+> CONTEXT: Scripts/Scene_Title(2)/60:16 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Title(2)/84:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"GUIDE D'OPÉRATION"
+> CONTEXT: Scripts/Scene_Title(2)/61:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Changed-Special"
+> CONTEXT: Scripts/Scene_Title(2)/65:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"简体中文"
+> CONTEXT: Scripts/Scene_Title(2)/67:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/82:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"繁體中文"
+> CONTEXT: Scripts/Scene_Title(2)/69:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/83:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ENGLISH"
+> CONTEXT: Scripts/Scene_Title(2)/71:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/84:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"日本語"
+> CONTEXT: Scripts/Scene_Title(2)/73:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/85:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"한국어"
+> CONTEXT: Scripts/Scene_Title(2)/75:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/86:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"PORTUGUÊS"
+> CONTEXT: Scripts/Scene_Title(2)/77:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/87:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"РУССКИЙ"
+> CONTEXT: Scripts/Scene_Title(2)/79:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/88:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ESPAÑOL"
+> CONTEXT: Scripts/Scene_Title(2)/81:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/89:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"ไทย"
+> CONTEXT: Scripts/Scene_Title(2)/83:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/90:10 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"FRANÇAIS"
+> CONTEXT: Scripts/Scene_Title(2)/85:12 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Lang/91:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"LANGUAGE"
+> CONTEXT: Scripts/Scene_Title(2)/87:12 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'user32'
+> CONTEXT: Scripts/Screen/14:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/15:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/16:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/17:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/18:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/19:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/20:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/21:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/22:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/23:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/24:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/25:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/26:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/27:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CreateWindowEx'
+> CONTEXT: Scripts/Screen/14:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ippiiiiiiiii'
+> CONTEXT: Scripts/Screen/14:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetClientRect'
+> CONTEXT: Scripts/Screen/15:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ip'
+> CONTEXT: Scripts/Screen/15:85 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/18:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetDC'
+> CONTEXT: Scripts/Screen/16:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetSystemMetrics'
+> CONTEXT: Scripts/Screen/17:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetWindowRect'
+> CONTEXT: Scripts/Screen/18:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'FillRect'
+> CONTEXT: Scripts/Screen/19:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ipi'
+> CONTEXT: Scripts/Screen/19:85 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/22:85 < UNTRANSLATED
+> CONTEXT: Scripts/Save/27:64 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'FindWindow'
+> CONTEXT: Scripts/Screen/20:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pp'
+> CONTEXT: Scripts/Screen/20:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ReleaseDC'
+> CONTEXT: Scripts/Screen/21:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ii'
+> CONTEXT: Scripts/Screen/21:85 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/25:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SendInput'
+> CONTEXT: Scripts/Screen/22:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SetWindowLong'
+> CONTEXT: Scripts/Screen/23:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'iii'
+> CONTEXT: Scripts/Screen/23:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SetWindowPos'
+> CONTEXT: Scripts/Screen/24:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'iiiiiii'
+> CONTEXT: Scripts/Screen/24:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ShowWindow'
+> CONTEXT: Scripts/Screen/25:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SystemParametersInfo'
+> CONTEXT: Scripts/Screen/26:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'iipi'
+> CONTEXT: Scripts/Screen/26:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'UpdateWindow'
+> CONTEXT: Scripts/Screen/27:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'kernel32'
+> CONTEXT: Scripts/Screen/28:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/29:44 < UNTRANSLATED
+> CONTEXT: Scripts/Save/26:35 < UNTRANSLATED
+> CONTEXT: Scripts/Save/27:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'GetPrivateProfileString'
+> CONTEXT: Scripts/Screen/28:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'ppppip'
+> CONTEXT: Scripts/Screen/28:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'WritePrivateProfileString'
+> CONTEXT: Scripts/Screen/29:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pppp'
+> CONTEXT: Scripts/Screen/29:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'gdi32'
+> CONTEXT: Scripts/Screen/30:44 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/31:44 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'CreateSolidBrush'
+> CONTEXT: Scripts/Screen/30:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'DeleteObject'
+> CONTEXT: Scripts/Screen/31:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'RGSS Player'
+> CONTEXT: Scripts/Screen/34:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Static'
+> CONTEXT: Scripts/Screen/35:48 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'l4'
+> CONTEXT: Scripts/Screen/46:56 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/47:56 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/48:33 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/48:53 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/55:65 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/56:24 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/66:74 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/2, (@fullscreen_rect.height-h)/
+> CONTEXT: Scripts/Screen/74:43 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'LSx2Lx16'
+> CONTEXT: Scripts/Screen/85:46 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/125:52 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'x256'
+> CONTEXT: Scripts/Screen/90:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Fullscreen++'
+> CONTEXT: Scripts/Screen/91:15 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/104:15 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'./Game.ini'
+> CONTEXT: Scripts/Screen/92:16 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/105:16 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'Fullscreen'
+> CONTEXT: Scripts/Screen/97:41 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/109:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'FullscreenRatio'
+> CONTEXT: Scripts/Screen/98:41 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/110:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'WindowedRatio'
+> CONTEXT: Scripts/Screen/99:41 < UNTRANSLATED
+> CONTEXT: Scripts/Screen/111:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'RtlMoveMemory'
+> CONTEXT: Scripts/Save/26:47 < UNTRANSLATED
+> CONTEXT: Scripts/Save/27:47 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'pii'
+> CONTEXT: Scripts/Save/26:64 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"rgba"
+> CONTEXT: Scripts/Save/29:12 < UNTRANSLATED
+> CONTEXT: Scripts/Save/41:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"LLa*"
+> CONTEXT: Scripts/Save/31:55 < UNTRANSLATED
+> CONTEXT: Scripts/Save/34:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"L"
+> CONTEXT: Scripts/Save/43:24 < UNTRANSLATED
+> CONTEXT: Scripts/Save/45:24 < UNTRANSLATED
+> CONTEXT: Scripts/Save/47:26 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"No such file!"
+> CONTEXT: Scripts/Save/152:51 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"."
+> CONTEXT: Scripts/Save/181:21 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Can't find screenshots!"
+> CONTEXT: Scripts/Save/205:51 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"0"
+> CONTEXT: Scripts/Save/348:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"%\#{str_f}d"
+> CONTEXT: Scripts/Save/351:20 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"\\s"
+> CONTEXT: Scripts/Save/352:40 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'cyanic-SteamUserStatsLite'
+> CONTEXT: Scripts/steam/11:11 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamClient017'
+> CONTEXT: Scripts/steam/32:35 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'STEAMUSERSTATS_INTERFACE_VERSION011'
+> CONTEXT: Scripts/steam/33:38 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'STEAMAPPS_INTERFACE_VERSION008'
+> CONTEXT: Scripts/steam/34:33 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+/x64/
+> CONTEXT: Scripts/steam/80:6 < UNTRANSLATED
+> CONTEXT: Scripts/steam/375:6 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'steam_api64'
+> CONTEXT: Scripts/steam/84:37 < UNTRANSLATED
+> CONTEXT: Scripts/steam/379:37 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'steam_api'
+> CONTEXT: Scripts/steam/84:53 < UNTRANSLATED
+> CONTEXT: Scripts/steam/379:53 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_GetHSteamUser'
+> CONTEXT: Scripts/steam/87:68 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_GetHSteamPipe'
+> CONTEXT: Scripts/steam/88:68 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamInternal_CreateInterface'
+> CONTEXT: Scripts/steam/89:75 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamClient_GetISteamUserStats'
+> CONTEXT: Scripts/steam/90:86 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'IIIP'
+> CONTEXT: Scripts/steam/90:130 < UNTRANSLATED
+> CONTEXT: Scripts/steam/91:120 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamClient_GetISteamApps'
+> CONTEXT: Scripts/steam/91:81 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"steam_api.dll"
+> CONTEXT: Scripts/steam/105:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_RestartAppIfNecessary'
+> CONTEXT: Scripts/steam/383:76 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_Init'
+> CONTEXT: Scripts/steam/384:59 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_Shutdown'
+> CONTEXT: Scripts/steam/385:63 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_RunCallbacks'
+> CONTEXT: Scripts/steam/386:67 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_RequestCurrentStats'
+> CONTEXT: Scripts/steam/387:90 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_GetStat'
+> CONTEXT: Scripts/steam/388:78 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'PPP'
+> CONTEXT: Scripts/steam/388:114 < UNTRANSLATED
+> CONTEXT: Scripts/steam/389:116 < UNTRANSLATED
+> CONTEXT: Scripts/steam/393:128 < UNTRANSLATED
+> CONTEXT: Scripts/steam/397:160 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_GetStat0'
+> CONTEXT: Scripts/steam/389:79 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_SetStat'
+> CONTEXT: Scripts/steam/390:78 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'PPL'
+> CONTEXT: Scripts/steam/390:114 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_SetStat0'
+> CONTEXT: Scripts/steam/391:79 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'PPI'
+> CONTEXT: Scripts/steam/391:116 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_UpdateAvgRateStat'
+> CONTEXT: Scripts/steam/392:88 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'PPIII'
+> CONTEXT: Scripts/steam/392:134 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_GetAchievement'
+> CONTEXT: Scripts/steam/393:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_SetAchievement'
+> CONTEXT: Scripts/steam/394:85 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'PP'
+> CONTEXT: Scripts/steam/394:128 < UNTRANSLATED
+> CONTEXT: Scripts/steam/395:132 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_ClearAchievement'
+> CONTEXT: Scripts/steam/395:87 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_GetAchievementAndUnlockTime'
+> CONTEXT: Scripts/steam/396:98 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'PPPP'
+> CONTEXT: Scripts/steam/396:154 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_GetAchievementDisplayAttribute'
+> CONTEXT: Scripts/steam/397:101 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_GetNumAchievements'
+> CONTEXT: Scripts/steam/398:89 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_GetAchievementName'
+> CONTEXT: Scripts/steam/399:89 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'PI'
+> CONTEXT: Scripts/steam/399:136 < UNTRANSLATED
+> CONTEXT: Scripts/steam/401:126 < UNTRANSLATED
+> CONTEXT: Scripts/steam/403:120 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_StoreStats'
+> CONTEXT: Scripts/steam/400:81 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamUserStats_ResetAllStats'
+> CONTEXT: Scripts/steam/401:84 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamApps_BIsSubscribed'
+> CONTEXT: Scripts/steam/402:79 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'SteamAPI_ISteamApps_BIsDlcInstalled'
+> CONTEXT: Scripts/steam/403:81 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'II'
+> CONTEXT: Scripts/steam/416:18 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Source Han Sans K Normal"
+> CONTEXT: Scripts/Main/8:22 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"黑体"
+> CONTEXT: Scripts/Main/8:50 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"DFKai-SB"
+> CONTEXT: Scripts/Main/8:56 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"標楷體"
+> CONTEXT: Scripts/Main/8:68 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Verdana"
+> CONTEXT: Scripts/Main/8:75 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"Arial Unicode MS"
+> CONTEXT: Scripts/Main/8:86 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"无此文件或文件夹 - "
+> CONTEXT: Scripts/Main/16:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"无法找到文件 \#{filename}."
+> CONTEXT: Scripts/Main/17:9 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'\\.'
+> CONTEXT: Scripts/Scene_Battle/573:32 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/607:32 < UNTRANSLATED
+> CONTEXT: Scripts/Scene_Battle/611:32 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'\\|'
+> CONTEXT: Scripts/Scene_Battle/604:30 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"VX"
+> CONTEXT: Scripts/Super/79:25 < UNTRANSLATED
+> CONTEXT: Scripts/Super/479:66 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"IGNORE"
+> CONTEXT: Scripts/Super/453:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"DOSPRITE"
+> CONTEXT: Scripts/Super/497:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"DOLOC"
+> CONTEXT: Scripts/Super/500:29 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+"DOUPDATE"
+> CONTEXT: Scripts/Super/503:29 < UNTRANSLATED
+
+> END STRING

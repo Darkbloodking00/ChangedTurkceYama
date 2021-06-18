@@ -1,0 +1,114 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+一个不大的沟，很深，上宽下窄
+> CONTEXT: Map035/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/4/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/27/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/27/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/140/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/65/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/65/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+跳过去不难，但这狭小的通风管里实在没有空间可以供
+你起跳
+> CONTEXT: Map035/events/4/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/4/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/27/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/27/pages/1/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/140/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/65/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/65/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+或许你该推个箱子把这儿堵住…
+> CONTEXT: Map035/events/4/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/4/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/27/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/27/pages/1/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/65/pages/0/5/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/65/pages/1/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看不见这写了什么……
+> CONTEXT: Map035/events/29/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/75/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/82/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/203/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/222/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小小的箱子堆
+> CONTEXT: Map035/events/43/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/171/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/172/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+箱子……
+> CONTEXT: Map035/events/44/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/45/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/46/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/47/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/48/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/49/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+像是被人强行安装在这里的，已经破破烂烂的了
+> CONTEXT: Map035/events/50/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……似乎已经彻底坏了
+> CONTEXT: Map035/events/50/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/50/pages/2/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+→→↑↑←←↓↓
+> CONTEXT: Map035/events/88/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+过于昏暗，你不小心绊倒了
+> CONTEXT: Map035/events/155/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+有什么东西闻声向你冲来了！
+> CONTEXT: Map035/events/155/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…？只是墙壁
+> CONTEXT: Map035/events/176/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+普罗在这里面？！
+> CONTEXT: Map035/events/218/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…别瞅我了呀！快跑呀！
+> CONTEXT: Map035/events/218/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,29 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+顾名思义啊，你并没有走出那栋建筑，普罗
+把你同化掉了
+> CONTEXT: Map048/events/89/pages/0/34/Dialogue < UNTRANSLATED
+> CONTEXT: Map048/events/89/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+如果你在路途中多关照他一下的话，结果或
+许会不一样呢
+> CONTEXT: Map048/events/89/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+如果下次尝试一下普通模式，说不定游戏就
+能进行下去了哦
+> CONTEXT: Map048/events/89/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+美好的未来是努力的人才配拥有的，请你下
+次努力吧
+> CONTEXT: Map048/events/89/pages/1/43/Dialogue < UNTRANSLATED
+
+> END STRING

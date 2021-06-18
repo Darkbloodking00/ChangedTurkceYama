@@ -1,0 +1,450 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+合金外壳，结实、可靠
+> CONTEXT: Map002/events/1/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/9/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你好奇的看向这台奇怪舱室的里面，之前你似乎在里面
+呆了相当长的时间
+> CONTEXT: Map002/events/10/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+底部有浅浅的一层液体，你下意识的觉得那东西应该是
+甜的……
+> CONTEXT: Map002/events/10/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+睡梦之中你似乎喝了不少这东西了……
+> CONTEXT: Map002/events/10/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你在这里不是孤独的，或许有些其他的什么也在这周围
+徘徊着，还是赶快出去吧
+> CONTEXT: Map002/events/10/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你向里望了望，随后放弃了爬进去的想法
+> CONTEXT: Map002/events/15/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+里面传出好像有东西在被拖拽着滑动的声音
+> CONTEXT: Map002/events/15/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+还是不要靠近了吧……
+> CONTEXT: Map002/events/15/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+有窸窸窣窣爬动的声音
+> CONTEXT: Map002/events/15/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你有点害怕
+> CONTEXT: Map002/events/15/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+里面深处有一个紧急制动开关
+> CONTEXT: Map002/events/15/pages/3/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你吃力的把手伸进这个管道与电缆错综复杂的通风管里
+，终于，你按到了那个按钮
+> CONTEXT: Map002/events/15/pages/3/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+里面的开关已经按下了
+> CONTEXT: Map002/events/15/pages/4/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+想起刚才的遭遇，还是不要再往里张望了
+> CONTEXT: Map002/events/15/pages/4/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不要节外生枝
+> CONTEXT: Map002/events/15/pages/4/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你真的要碰一碰吗？
+> CONTEXT: Map002/events/26/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你好奇的沾了一点点这奇妙的液体在手上
+> CONTEXT: Map002/events/26/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+然后你很快就后悔了
+> CONTEXT: Map002/events/26/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+指尖上的液体扩散开来，你的手指开始融化，变成和墙
+上粘液相同的材质
+> CONTEXT: Map002/events/26/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你试着抹掉，却已经于事无补，因为你发现身体的其他
+部位也都发生了这样的状况
+> CONTEXT: Map002/events/26/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+越来越多的地方开始像冰激凌一样的融化掉，但并不痛，
+你觉得内脏开始在身体里流动起来了……
+> CONTEXT: Map002/events/26/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+渐渐地，大股的液体从你的身上淌下
+> CONTEXT: Map002/events/26/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那些都是你原本身体的一部分，这些粘液大滴落地，然
+后又堆回你的脚边
+> CONTEXT: Map002/events/26/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+身体变得奇怪了……
+> CONTEXT: Map002/events/26/pages/0/37/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好像…自身的一切都混到了一起…变成了浆糊，你变成
+了一坨浆糊堆成的人
+> CONTEXT: Map002/events/26/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+而且身体变得很轻盈…
+> CONTEXT: Map002/events/26/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+异变逐渐停止，你打量起自己的身躯
+> CONTEXT: Map002/events/26/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你变成了一个果冻人，或者…胶液人
+> CONTEXT: Map002/events/26/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你伸展了一下新的身体，比以前的更加灵活，更加完美
+> CONTEXT: Map002/events/26/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+也许…这样也不赖吧…
+> CONTEXT: Map002/events/26/pages/0/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+奇怪的胶液溅到了墙上
+> CONTEXT: Map002/events/26/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+考虑到现在的状况，还是不要触碰为好
+> CONTEXT: Map002/events/26/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+已经干了的不明物体沉积在试管底部
+> CONTEXT: Map002/events/27/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你很饿，但绝对不会想吃这个
+> CONTEXT: Map002/events/27/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+锁了，没有找到任何开关
+> CONTEXT: Map002/events/28/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/61/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/63/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+显示器已经不工作了
+> CONTEXT: Map002/events/33/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你注意到显示器上全是灰
+> CONTEXT: Map002/events/33/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+进入简单模式
+> CONTEXT: Map002/events/36/pages/0/13/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+进入普通模式
+> CONTEXT: Map002/events/36/pages/0/13/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+简单模式适于希望轻松地体验游戏的玩家，但不能完整
+的体验到游戏全部内容
+> CONTEXT: Map002/events/36/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+普通难度更有挑战性，并可体验原汁原味的全部游戏内
+容，开始你的冒险吧
+> CONTEXT: Map002/events/36/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+强光刺得你睁不开眼，但你还是奋力的眯着眼看了看自
+己目前的所在
+> CONTEXT: Map002/events/36/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+透过蒙胧的眼，你发觉自己在一个非常陌生的房间
+> CONTEXT: Map002/events/36/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的手脚无力，脑袋昏沉，最重要的是，你觉得自己饿
+到好似数年都没吃东西了
+> CONTEXT: Map002/events/36/pages/0/67/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你一无所有，身上只穿了一条小短裤，就这样莫名其妙
+的出现在这里
+> CONTEXT: Map002/events/36/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+很明显，你是被绑架了，你在昏迷之前最后的模糊记忆
+也验证了这点，你被一群人袭击，之后带来了这里
+> CONTEXT: Map002/events/36/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你很迷茫，但你清楚的明白最首要的事情是从这个房间
+里逃出去
+> CONTEXT: Map002/events/36/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好吧，你只有这一个选择了
+> CONTEXT: Map002/events/36/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+开始吧，你的冒险
+> CONTEXT: Map002/events/36/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'1/0'
+> CONTEXT: Map002/events/36/pages/0/85/InlineScript/2:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我不知道这舱室的密码是什么，我只能期待你能醒来，
+看看这笔记！！
+> CONTEXT: Map002/events/38/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这篇笔记的笔迹很潦草，而且…从内容上看不像是绑架
+者能写出来的
+> CONTEXT: Map002/events/38/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+黏性物质、样本、化学品请不要倾倒
+> CONTEXT: Map002/events/38/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+尤其是样本
+> CONTEXT: Map002/events/38/pages/0/39/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+墙体的里面布满了钢管、电线和支撑架
+> CONTEXT: Map002/events/41/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+里面很深，很暗
+> CONTEXT: Map002/events/41/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+当然，钻不进去
+> CONTEXT: Map002/events/41/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+有一点点温度的中空钢管，不知道有什么用处
+> CONTEXT: Map002/events/47/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+似乎是控制了旁边舱室的机器，已经关掉了
+> CONTEXT: Map002/events/48/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上面的灰很厚，没有人操作的痕迹，那究竟是谁关掉的
+呢……
+> CONTEXT: Map002/events/48/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一个下水道，可以把废物冲走
+> CONTEXT: Map002/events/50/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看不清下面…但应该把那个东西给冲走了吧…
+> CONTEXT: Map002/events/50/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那是什么？
+> CONTEXT: Map002/events/52/pages/5/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一团能移动的牛奶布丁？
+> CONTEXT: Map002/events/52/pages/5/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不管怎样，这里已经不安全了
+> CONTEXT: Map002/events/52/pages/5/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+现在并不是思考这种事的最佳时机
+> CONTEXT: Map002/events/52/pages/5/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+皱纸上面扭扭曲曲的写着“按住Shift移动”
+> CONTEXT: Map002/events/54/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+没有反应
+> CONTEXT: Map002/events/55/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真的没有反应
+> CONTEXT: Map002/events/55/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你敢肯定，这个真的绝对没有反应
+> CONTEXT: Map002/events/55/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+箱，内容物主要由空气和碎纸组成
+> CONTEXT: Map002/events/56/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/57/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map002/events/58/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,189 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…嗯？你要去哪儿啊？不继续前进了吗？
+> CONTEXT: Map040/events/1/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map040/events/2/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map040/events/3/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+空空荡荡
+> CONTEXT: Map040/events/6/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+地板上，天花板上，四周的墙壁上，全部都是白色的黏
+液
+> CONTEXT: Map040/events/6/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…虽然很危险，但是我跟着来了
+> CONTEXT: Map040/events/6/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这儿就是白胶的巢穴吧…或许只是一片小
+领地也说不准
+> CONTEXT: Map040/events/6/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这儿真的非常危险…小心谨慎一点
+> CONTEXT: Map040/events/6/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们脚下踩着的，可都是活生生的……
+> CONTEXT: Map040/events/6/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…他们若是醒来，就麻烦了
+> CONTEXT: Map040/events/6/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…他们可以溶解黑胶兽的结晶，可以把我们
+身躯当做食物吸收掉
+> CONTEXT: Map040/events/6/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我、我有点腿软
+> CONTEXT: Map040/events/6/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我有点不敢动弹了
+> CONTEXT: Map040/events/6/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我有不太好的预感……
+> CONTEXT: Map040/events/7/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类，调查一下就赶快离开…这里这么平
+静绝对不正常
+> CONTEXT: Map040/events/7/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…赶快离开这里吧
+> CONTEXT: Map040/events/7/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…什么啊，这奇怪的胶液森林？
+> CONTEXT: Map040/events/218/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…白胶现在连植物都可以模拟了吗
+> CONTEXT: Map040/events/218/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果你撞在这上面，就会被缠住，强制的
+在肚脐上被插上一根营养输送管
+> CONTEXT: Map040/events/218/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这东西会一直控制你，直到你全身都被转
+化完毕…
+> CONTEXT: Map040/events/218/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…为什么我会知道？因为我亲眼看过有别的
+小动物遭殃，那次之后我就再也没来这里了
+> CONTEXT: Map040/events/218/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那个…人类，对不起……
+> CONTEXT: Map040/events/218/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我被墙挡住了，没办法去帮你
+> CONTEXT: Map040/events/218/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那个时候只能看着你
+> CONTEXT: Map040/events/218/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我还是没能起什么作用呢…我真没用…
+> CONTEXT: Map040/events/218/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…抱歉，我多言了
+> CONTEXT: Map040/events/218/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…走吧，人类
+> CONTEXT: Map040/events/218/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你不知道我有多开心
+> CONTEXT: Map040/events/218/pages/2/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…唔，人类…谢谢你等我
+> CONTEXT: Map040/events/219/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这黏糊糊的地面让我无论如何也走不快…
+> CONTEXT: Map040/events/219/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但是看到你能等我，很开心
+> CONTEXT: Map040/events/219/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类是真的把我当做同伴了呢
+> CONTEXT: Map040/events/219/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING

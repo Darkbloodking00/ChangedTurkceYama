@@ -1,0 +1,344 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+你不渴，而且清楚地知道这个深度，下去了就很难再上
+来了
+> CONTEXT: Map043/events/1/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/3/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/32/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/33/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/34/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/35/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/36/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/37/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/38/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/39/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…别踩尾巴……疼！
+> CONTEXT: Map043/events/2/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/79/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+焊死了
+> CONTEXT: Map043/events/22/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/22/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…打不开的，我试过了，这种密闭门连缝都
+没有的
+> CONTEXT: Map043/events/22/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我已经尽力了，挣扎、呐喊、竭尽全力，即使如此也什
+么都不会改变。最终什么都没有眷顾我，什么都没有。
+> CONTEXT: Map043/events/43/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…好吧，我猜是水导致了停电
+> CONTEXT: Map043/events/73/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这里似乎离关着你的仓库蛮近的
+> CONTEXT: Map043/events/73/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果是我，兜了这么大一个圈子一定会很
+生气的
+> CONTEXT: Map043/events/73/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这个建筑，虽然和外面的世界与世隔绝，
+但内部也在不停的发生一些变化呢
+> CONTEXT: Map043/events/73/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这里估计是因为漏水而逐渐的变成这样子了
+> CONTEXT: Map043/events/73/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这里水好多
+> CONTEXT: Map043/events/73/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…也很潮湿
+> CONTEXT: Map043/events/73/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…之前不是这样子的，刚开始只是天花板上
+一点点的有水滴落下来
+> CONTEXT: Map043/events/73/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…时间过得越来越久，水滴慢慢变成了水流
+> CONTEXT: Map043/events/73/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…前些日子这里还只有些小水洼
+> CONTEXT: Map043/events/73/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这里往下的楼层又会怎样呢？也被水淹了
+吗？
+> CONTEXT: Map043/events/73/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过，淹不到图书馆就好
+> CONTEXT: Map043/events/73/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…水是生命起源，对所生命都有益
+> CONTEXT: Map043/events/73/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…以前我常到这里打水喝
+> CONTEXT: Map043/events/73/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但是实在太远了，再加上路途上可能有各
+种危险
+> CONTEXT: Map043/events/73/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…所以之后就没再来了，现在我收集雨水饮
+用
+> CONTEXT: Map043/events/73/pages/0/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我有时会来抓鱼吃
+> CONTEXT: Map043/events/73/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…他们要是静静地趴在水底，我可是一丁点
+都看不到的
+> CONTEXT: Map043/events/73/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…而且明明瞅准了那个位置，一伸手，位置
+就错了
+> CONTEXT: Map043/events/73/pages/0/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…鱼好难抓
+> CONTEXT: Map043/events/73/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那些鱼当然是基因改造过的鱼啊，这里怎
+么可能会有正常生物
+> CONTEXT: Map043/events/73/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我的构成体比水稍微重一点
+> CONTEXT: Map043/events/73/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…溺水的话，很难浮上来
+> CONTEXT: Map043/events/73/pages/0/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…所以我还是最好不要下水了吧……
+> CONTEXT: Map043/events/73/pages/0/83/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我会找别的路的跟上你的，人类
+> CONTEXT: Map043/events/73/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那个，抱歉突然就和你说了这么严肃的
+话题
+> CONTEXT: Map043/events/73/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你走了我的宿主问题就彻底没了解决办法
+了
+> CONTEXT: Map043/events/73/pages/1/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那个…我刚才说的你别在意
+> CONTEXT: Map043/events/73/pages/1/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+发电室可以保障这栋建筑即使无法与外界联系也能自给
+自足相当长的一段时间
+> CONTEXT: Map043/events/76/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+如果外界切断了所有的电力供应，这里的电力系统就会
+立即开启，维持这里的电力
+> CONTEXT: Map043/events/76/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+虽然我根本无法想象会有什么情况能让这里变成那样…
+…
+> CONTEXT: Map043/events/76/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…嘿，人类，等一下
+> CONTEXT: Map043/events/77/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/80/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/84/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…为什么，你一定要从这里出去呢？
+> CONTEXT: Map043/events/77/pages/0/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/80/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/84/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…对我来说，外面的全新世界的确有非常巨
+大的诱惑力
+> CONTEXT: Map043/events/77/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/80/pages/0/16/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/84/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但是对你来说…这个世界已经崩坏，如果
+真的像这里的资料说的那样
+> CONTEXT: Map043/events/77/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/80/pages/0/19/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/84/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你从这里出去的话，如果那种病毒还存在
+，那怎么办
+> CONTEXT: Map043/events/77/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/80/pages/0/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/84/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你好好想想吧
+> CONTEXT: Map043/events/77/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/80/pages/0/25/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/84/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我不太希望一个优秀的人类就这样去送死
+> CONTEXT: Map043/events/77/pages/0/27/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/80/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/84/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这张报纸潮乎乎的，似乎碰一下就要烂掉了
+> CONTEXT: Map043/events/96/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/96/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上面的字模糊不清……
+> CONTEXT: Map043/events/96/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/96/pages/1/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+“动物……基因工程……？”
+> CONTEXT: Map043/events/96/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map043/events/96/pages/1/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…“动物基因收容保护工程”
+> CONTEXT: Map043/events/96/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…一切的开端，正是有了这个工程，我们才
+有机会被创造出来
+> CONTEXT: Map043/events/96/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们的基因都是从那些收容动物身上得到
+的
+> CONTEXT: Map043/events/96/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
