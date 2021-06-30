@@ -1,0 +1,2854 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+堆积成山的书
+> CONTEXT: Map025/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/6/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/7/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/25/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/27/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/38/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/54/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/55/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/56/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/57/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/58/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/59/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/60/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/61/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/62/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/63/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/64/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/65/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/114/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/115/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/116/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/117/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/118/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/119/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/120/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/121/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/122/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/123/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/124/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/125/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/149/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/150/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/151/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/152/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/153/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/154/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/155/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你可以先面对着我吗
+> CONTEXT: Map025/events/51/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/2/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/3/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/4/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…很好，很高兴你没有就此逃走，或用什么
+东西抛向我
+> CONTEXT: Map025/events/51/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如你所见，我是个所谓的“怪物”
+> CONTEXT: Map025/events/51/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…普通的，平平无奇的，执着的追求优秀的
+怪物
+> CONTEXT: Map025/events/51/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过，本质上说的话
+> CONTEXT: Map025/events/51/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…和外面那些会把你寄生的是差不多一样的
+> CONTEXT: Map025/events/51/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你可最好，不要一不小心绊倒进我怀里来
+了哦
+> CONTEXT: Map025/events/51/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…后果可是很严重的
+> CONTEXT: Map025/events/51/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…嗯……自我介绍一下，我叫普罗
+> CONTEXT: Map025/events/51/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…是黑胶怪物呢
+> CONTEXT: Map025/events/51/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果我有性别，那应该是，雄性吧
+> CONTEXT: Map025/events/51/pages/0/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我想，你一定是那个关住的房间里的人
+> CONTEXT: Map025/events/51/pages/0/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…因为我很不擅长写字
+> CONTEXT: Map025/events/51/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…所以我在沿途把能够帮助你了解现状的资
+料
+> CONTEXT: Map025/events/51/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…通通贴在了墙上，并指引你到达这里
+> CONTEXT: Map025/events/51/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…怎么样，你很失望吧，在这里等着你的并
+不是个人类
+> CONTEXT: Map025/events/51/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过，还是得说，人类，不愧是人类呢，
+真是优秀
+> CONTEXT: Map025/events/51/pages/0/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你真的做到了，排除万难来到了图书馆
+> CONTEXT: Map025/events/51/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…抱歉，我没收拾这里，有点乱
+> CONTEXT: Map025/events/51/pages/0/53/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…刚才突然发生的停电，大概让你的舱室开
+启了吧
+> CONTEXT: Map025/events/51/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那个时候我就想到了，是时候了，人类，
+你应该能到达这里的
+> CONTEXT: Map025/events/51/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我从没和别人没真正地对话过，因为这里
+没有人会说话，我的表达能力很差，但我尽
+量解答你的一切疑问
+> CONTEXT: Map025/events/51/pages/0/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…能和一个真正的人类进行对话，真荣幸呢
+> CONTEXT: Map025/events/51/pages/0/66/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我努力的在这里读书，大概可能就是为了
+这一刻
+> CONTEXT: Map025/events/51/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…与一个创造了我们的高等生命交谈，很荣
+幸
+> CONTEXT: Map025/events/51/pages/0/71/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…想问些什么？
+> CONTEXT: Map025/events/51/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+会说话的怪物？
+> CONTEXT: Map025/events/51/pages/0/76/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/16/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自己的事情？
+> CONTEXT: Map025/events/51/pages/0/76/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/16/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这个建筑的相关？
+> CONTEXT: Map025/events/51/pages/0/76/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/16/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+没有想问的
+> CONTEXT: Map025/events/51/pages/0/76/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/106/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/127/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/150/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/265/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/354/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/445/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/465/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/539/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/608/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/704/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/0/779/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/16/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/46/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/67/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/90/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/205/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/294/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/385/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/405/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/479/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/548/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/644/Choice/3 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/719/Choice/3 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不可思议，对吧
+> CONTEXT: Map025/events/51/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我本来也是和你见到的那些同类一样
+> CONTEXT: Map025/events/51/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…直到有一天，我来到这里，这个图书馆
+> CONTEXT: Map025/events/51/pages/0/82/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我开始对这些层层叠叠的很薄的东西产生
+了兴趣
+> CONTEXT: Map025/events/51/pages/0/84/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那时候我突然产生了“学习”的想法
+> CONTEXT: Map025/events/51/pages/0/87/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那之后很久，我都在努力的学习
+> CONTEXT: Map025/events/51/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…其他同伴没有这样的智慧，似乎，只有我
+这一个个体出现了这种情况
+> CONTEXT: Map025/events/51/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…能够学会说话，我自己都觉得不可思议呢
+> CONTEXT: Map025/events/51/pages/0/94/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…总之，学习很艰苦，但是我想变得优秀
+> CONTEXT: Map025/events/51/pages/0/96/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/36/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类的文字、文化、世界深深地吸引了我
+> CONTEXT: Map025/events/51/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果我能够成为一个人类就好了呢
+> CONTEXT: Map025/events/51/pages/0/100/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…至少，不用再因为只有动态视力而苦恼了
+这样看书真的好麻烦
+> CONTEXT: Map025/events/51/pages/0/102/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+优秀的事情？
+> CONTEXT: Map025/events/51/pages/0/106/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/46/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+学习的事情？
+> CONTEXT: Map025/events/51/pages/0/106/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/46/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…嗯，因为一些原因…我们这一族是你们最
+初创造的一批具有缺陷的造物
+> CONTEXT: Map025/events/51/pages/0/108/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/48/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…所以…就非常的弱势，我在阅读了你们的
+书之后注意到人类的祖先也非常的弱小
+> CONTEXT: Map025/events/51/pages/0/111/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你们人类之前，会不会也是因为有了像我
+一样的高智慧个体的存在而快速进化起来了
+呢
+> CONTEXT: Map025/events/51/pages/0/114/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…挺愚蠢的想法
+> CONTEXT: Map025/events/51/pages/0/118/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/58/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但不管结果怎样，我就是想试一试
+> CONTEXT: Map025/events/51/pages/0/120/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我脱离了族群，想让我们族群不再是失败
+品
+> CONTEXT: Map025/events/51/pages/0/122/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/62/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…啊啦啦，好想变得优秀
+> CONTEXT: Map025/events/51/pages/0/125/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/65/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+进化的事情？
+> CONTEXT: Map025/events/51/pages/0/127/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/67/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+人类的事情？
+> CONTEXT: Map025/events/51/pages/0/127/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/67/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+失败品是？
+> CONTEXT: Map025/events/51/pages/0/127/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/67/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我想，你在之前的那片领地已经看到了那
+美丽的结晶
+> CONTEXT: Map025/events/51/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…当我们的寿命到达尽头时，我们的身体会
+消失，只留下头部这个白色的“面具”本体
+> CONTEXT: Map025/events/51/pages/0/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们的本体落地后，会结晶，就是你看到
+的那些
+> CONTEXT: Map025/events/51/pages/0/135/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…结晶在条件适合的时候就会分裂，我们会
+靠这个繁衍
+> CONTEXT: Map025/events/51/pages/0/138/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…偶尔、极少数情况下分裂时会出现不一样
+的个体，我大概就是一种
+> CONTEXT: Map025/events/51/pages/0/141/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/81/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你看到的那些会飞的，还有那位大块头，
+都是成功的个体繁衍之后的样子
+> CONTEXT: Map025/events/51/pages/0/144/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/84/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们这些普普通通的，都是取自狼基因组
+成的造物
+> CONTEXT: Map025/events/51/pages/0/147/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/87/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你要寄生我吗
+> CONTEXT: Map025/events/51/pages/0/150/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/90/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+成功的？
+> CONTEXT: Map025/events/51/pages/0/150/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/90/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的面具？
+> CONTEXT: Map025/events/51/pages/0/150/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/90/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…说实话，我从没见过那个锁住的房间里的
+那个幸存的人类长的是什么样子
+> CONTEXT: Map025/events/51/pages/0/159/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但你真的，很瘦弱，运动能力也很差
+> CONTEXT: Map025/events/51/pages/0/162/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你甚至连跑过我门口的那只尾巴怪都很吃
+力对吧
+> CONTEXT: Map025/events/51/pages/0/164/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/104/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…本来，的确打算将你引到这里，观察一番
+后就寄生
+> CONTEXT: Map025/events/51/pages/0/167/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但是说实话，在我经历了那么长的等待之
+后，却来了这么一位宿主的话，真的是让人
+有点失望
+> CONTEXT: Map025/events/51/pages/0/172/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你看看你的细胳膊细腿，你能过关斩将到
+这儿来真是奇迹，你是怎么侥幸逃过的啊！
+> CONTEXT: Map025/events/51/pages/0/176/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/116/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们寄生宿主后就会和宿主融为一体，所
+以一辈子只有一次机会
+> CONTEXT: Map025/events/51/pages/0/179/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/119/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我想尽可能选一个最优秀的人类个体
+> CONTEXT: Map025/events/51/pages/0/182/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/122/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们是你们最开始创造的一批
+> CONTEXT: Map025/events/51/pages/0/186/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/126/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那些白色的胶液怪物，便是你们创造的下
+一代
+> CONTEXT: Map025/events/51/pages/0/188/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/128/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…更优秀，更聪明
+> CONTEXT: Map025/events/51/pages/0/191/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…很优秀呢
+> CONTEXT: Map025/events/51/pages/0/193/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/133/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+………………………
+> CONTEXT: Map025/events/51/pages/0/195/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过还没有任何白胶能和我对话
+> CONTEXT: Map025/events/51/pages/0/197/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/137/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…还是我们更胜一筹呢，哈！哈！！
+> CONTEXT: Map025/events/51/pages/0/199/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…白胶的构成稳定，没有出现差异个体的可
+能性
+> CONTEXT: Map025/events/51/pages/0/201/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/141/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这么一想我还是挺棒挺幸运的嘛！
+> CONTEXT: Map025/events/51/pages/0/204/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/144/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果我能寄生在一个优秀的人类身上，那
+我就能更优秀了……
+> CONTEXT: Map025/events/51/pages/0/206/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/146/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…对的，这个头部，便是我们的本体
+> CONTEXT: Map025/events/51/pages/0/211/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/151/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果头部受到损伤，这个胶液组成的身躯
+也就无法聚集在一起
+> CONTEXT: Map025/events/51/pages/0/213/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/153/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但是身体受伤的话，因为是胶液，所以并
+不会有任何大碍
+> CONTEXT: Map025/events/51/pages/0/216/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/156/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…头部毁掉就……
+> CONTEXT: Map025/events/51/pages/0/219/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/159/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你看什么看，这块“面具”还是很硬的，
+你不要有可怕的想法
+> CONTEXT: Map025/events/51/pages/0/222/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/162/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…哈，很讽刺的是，人类在创造了我们不久
+之后便悄无声息
+> CONTEXT: Map025/events/51/pages/0/231/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/171/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…或者说，是在这栋建筑周围，悄无声息了
+> CONTEXT: Map025/events/51/pages/0/234/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/174/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我并不知晓这里之外的世界发生了什么
+> CONTEXT: Map025/events/51/pages/0/236/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/176/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这栋建筑本来有优秀的除菌措施和良好的
+隔离环境
+> CONTEXT: Map025/events/51/pages/0/238/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/178/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…瘟疫根本不会杀死这里的人
+> CONTEXT: Map025/events/51/pages/0/241/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/181/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但人会
+> CONTEXT: Map025/events/51/pages/0/243/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/183/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…据说我们这批失败品被集中起来等待处理
+的时候
+> CONTEXT: Map025/events/51/pages/0/246/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/186/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这栋建筑发生了暴动
+> CONTEXT: Map025/events/51/pages/0/249/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/189/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这里正在研发治疗方法的消息走漏了出去
+> CONTEXT: Map025/events/51/pages/0/251/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/191/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你们，那些从外面来的人们，涌入了这里
+> CONTEXT: Map025/events/51/pages/0/253/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/193/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…在这里肆意的打砸，试图找出“血清”或
+“疫苗”一类的东西
+> CONTEXT: Map025/events/51/pages/0/255/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/195/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但在这里的研究实际上只是为了使人类的
+文明不会灭绝而进行的为小部分人服务的
+> CONTEXT: Map025/events/51/pages/0/258/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/198/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…绝望的病患把这里打砸一空，研究无法继
+续下去，这儿不久就被趁乱逃出的胶兽们占
+领了
+> CONTEXT: Map025/events/51/pages/0/261/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/201/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+暴动的事情？
+> CONTEXT: Map025/events/51/pages/0/265/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/205/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+小部分人？
+> CONTEXT: Map025/events/51/pages/0/265/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/205/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胶兽的事情？
+> CONTEXT: Map025/events/51/pages/0/265/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/205/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…求生的病患和研究人员发生了激烈的冲突
+> CONTEXT: Map025/events/51/pages/0/267/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/207/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…虽然对正在研究的治疗方式做出了解释
+> CONTEXT: Map025/events/51/pages/0/269/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/209/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但“使自己被寄生来变成另一种生物来避
+免被感染”这种话无论如何都听起来像天方
+夜谭
+> CONTEXT: Map025/events/51/pages/0/271/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/211/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…纠纷爆发了，人类用能够发出火光的铁棍
+相互攻击
+> CONTEXT: Map025/events/51/pages/0/275/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/215/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那东西真的很强力
+> CONTEXT: Map025/events/51/pages/0/278/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/218/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…最终，也不知道是哪个人，被寄生掉了
+> CONTEXT: Map025/events/51/pages/0/280/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/220/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人群大乱，但是我们已经蔓延到这个建筑
+的每个地方
+> CONTEXT: Map025/events/51/pages/0/282/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/222/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…因为暴乱，我们逃了出来
+> CONTEXT: Map025/events/51/pages/0/285/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/225/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…之后便是因为本能而引发的捕猎狂欢
+> CONTEXT: Map025/events/51/pages/0/287/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/227/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这都是从那个大块头那里听来的，他是超
+级老资历
+> CONTEXT: Map025/events/51/pages/0/289/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/229/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我还是个小年轻呢
+> CONTEXT: Map025/events/51/pages/0/292/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/232/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这里会有人聚起来当然是因为有一小部分
+人拿出了大量的资源
+> CONTEXT: Map025/events/51/pages/0/296/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/236/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…他们雇佣学者研究治疗方法，来让自己保
+命
+> CONTEXT: Map025/events/51/pages/0/299/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/239/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你也不是自愿来的，应该是他们特地调查
+了哪些人有更高的未感染可能性
+> CONTEXT: Map025/events/51/pages/0/302/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/242/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…为了活下去，绑架这种事也能做得出来呢
+> CONTEXT: Map025/events/51/pages/0/305/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/245/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…当然，最后，失败了呢
+> CONTEXT: Map025/events/51/pages/0/307/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/247/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我想你应该知道了，我们是失败品，拥有
+自我意识，被寄生后的人类会失去自我意识
+> CONTEXT: Map025/events/51/pages/0/311/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/251/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这完全不是你们人类所期望的那样
+> CONTEXT: Map025/events/51/pages/0/314/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/254/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…所以，理所应当的，我们被搬到了楼上闲
+置的办公室里
+> CONTEXT: Map025/events/51/pages/0/316/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/256/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…等待被销毁
+> CONTEXT: Map025/events/51/pages/0/319/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/259/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过我们最终还是逃出来啦
+> CONTEXT: Map025/events/51/pages/0/321/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/261/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…想想都后怕死了
+> CONTEXT: Map025/events/51/pages/0/323/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/263/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…其他的新一代们倒是很争气，趁乱从实验
+室里跑出来把这里搅得天翻地覆
+> CONTEXT: Map025/events/51/pages/0/325/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/265/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这里很快就变成胶兽猎场了
+> CONTEXT: Map025/events/51/pages/0/328/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/268/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…虽然我们的确能改变宿主的基因，但实际
+上我们也会使宿主被同化
+> CONTEXT: Map025/events/51/pages/0/336/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/276/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类被同化之后，会失去自我，变成一个
+全新的存在
+> CONTEXT: Map025/events/51/pages/0/339/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/279/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…会理所当然的认为自己是一只黑胶怪物
+> CONTEXT: Map025/events/51/pages/0/342/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/282/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…在人类看来，这与他们所要的结果大相径
+庭，他们只是要改变身体而不是心灵
+> CONTEXT: Map025/events/51/pages/0/344/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/284/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…因此呢
+> CONTEXT: Map025/events/51/pages/0/347/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/287/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不够优秀的我们，因此就成了失败品
+> CONTEXT: Map025/events/51/pages/0/349/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/289/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…当然，还有别的理由就是我们很聪明，不
+愿意听指挥
+> CONTEXT: Map025/events/51/pages/0/351/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/291/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+同化的事情？
+> CONTEXT: Map025/events/51/pages/0/354/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/294/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+基因的事情？
+> CONTEXT: Map025/events/51/pages/0/354/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/294/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+自我的事情？
+> CONTEXT: Map025/events/51/pages/0/354/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/294/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…被我们寄生之后，短时间内你只是失去意
+识
+> CONTEXT: Map025/events/51/pages/0/356/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/296/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们会依赖宿主的体能和代谢，进而成长
+> CONTEXT: Map025/events/51/pages/0/359/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/299/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但是长时间的话，无知觉的宿主自己会发
+生变化
+> CONTEXT: Map025/events/51/pages/0/361/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/301/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这时候，如果能量足够，我们就会释放宿
+主，让他成为新生的同伴
+> CONTEXT: Map025/events/51/pages/0/364/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/304/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…想要提升自己的能力的话，吸收宿主就可
+以了
+> CONTEXT: Map025/events/51/pages/0/367/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/307/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但是会失去自我这方面，我自己并不是很
+明白为什么
+> CONTEXT: Map025/events/51/pages/0/370/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/310/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…也许你可以自己找我的同伴们试试看
+> CONTEXT: Map025/events/51/pages/0/373/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/313/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…只是开个玩笑
+> CONTEXT: Map025/events/51/pages/0/377/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/317/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类已经在食物链的顶端很久了
+> CONTEXT: Map025/events/51/pages/0/381/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/321/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…虽然很优秀，但却只知索取
+> CONTEXT: Map025/events/51/pages/0/383/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/323/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这个病毒，大概就是为了审判你们而出现
+> CONTEXT: Map025/events/51/pages/0/385/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/325/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们虽然寄生人类
+> CONTEXT: Map025/events/51/pages/0/387/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/327/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但人类又何尝不是这个世界的寄生虫
+> CONTEXT: Map025/events/51/pages/0/389/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/329/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过你如果是担心没有了人类我们会灭亡
+那是多余的
+> CONTEXT: Map025/events/51/pages/0/391/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/331/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…动物也一样可以成为宿主
+> CONTEXT: Map025/events/51/pages/0/394/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/334/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…啊？什么？你说你不担心？
+> CONTEXT: Map025/events/51/pages/0/397/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/337/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类被同化后，究竟还是不是自己了呢
+> CONTEXT: Map025/events/51/pages/0/401/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/341/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…只是基因被改变了，其实思想还在，只不
+过会在自我认知上出现改变
+> CONTEXT: Map025/events/51/pages/0/403/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/343/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…身体、头脑。思考方式，全都变了，但又
+不能否认他还是原来的他
+> CONTEXT: Map025/events/51/pages/0/406/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/346/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…真的是很复杂呢
+> CONTEXT: Map025/events/51/pages/0/409/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/349/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…差不多就是“冰化成水了，那他还是冰吗
+”这样的问题
+> CONTEXT: Map025/events/51/pages/0/411/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/351/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这涉及到哲学，我不喜欢哲学
+> CONTEXT: Map025/events/51/pages/0/414/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/354/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…说真的，有些枯燥，但是这真的让我知道
+了很多
+> CONTEXT: Map025/events/51/pages/0/426/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/366/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…学会认字真的很难，很难，但我奇迹般的学
+会了
+> CONTEXT: Map025/events/51/pages/0/429/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/369/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你要感谢这些书，这让我不会饥渴的扑向
+你
+> CONTEXT: Map025/events/51/pages/0/432/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/372/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…为了变得更优秀，我一定要努力
+> CONTEXT: Map025/events/51/pages/0/435/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/375/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…为了优秀，这些知识将会是必然的
+> CONTEXT: Map025/events/51/pages/0/437/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/377/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…为了我们一族能壮大
+> CONTEXT: Map025/events/51/pages/0/439/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/379/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…也为了我自己
+> CONTEXT: Map025/events/51/pages/0/441/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/381/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…之后，从这里出去，去看看外面的世界
+> CONTEXT: Map025/events/51/pages/0/443/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/383/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+知识的事情？
+> CONTEXT: Map025/events/51/pages/0/445/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/385/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+壮大的事情？
+> CONTEXT: Map025/events/51/pages/0/445/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/385/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+出去的事情？
+> CONTEXT: Map025/events/51/pages/0/445/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/385/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…文字是简单的叙述方式，但会带来联想
+> CONTEXT: Map025/events/51/pages/0/447/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/387/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类能发明文字，真是，太优秀了呢
+> CONTEXT: Map025/events/51/pages/0/449/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/389/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…有时，真想反过来，变成人类，而不是把
+人类变成像自己一样
+> CONTEXT: Map025/events/51/pages/0/451/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/391/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…可惜，命运是不能自己选择的
+> CONTEXT: Map025/events/51/pages/0/454/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/394/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…培养皿里出生的怪物有自己的命运
+> CONTEXT: Map025/events/51/pages/0/456/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/396/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………………无法改变
+> CONTEXT: Map025/events/51/pages/0/458/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/398/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…既然如此，反正我只是一只怪物，我就多
+看看书吧
+> CONTEXT: Map025/events/51/pages/0/460/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/400/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…哈哈……
+> CONTEXT: Map025/events/51/pages/0/463/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/403/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+变成人类？
+> CONTEXT: Map025/events/51/pages/0/465/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/405/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+优秀？
+> CONTEXT: Map025/events/51/pages/0/465/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/405/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命运？
+> CONTEXT: Map025/events/51/pages/0/465/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/405/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类有强健的体魄，有聪明的大脑，有免
+疫力，你们什么都有
+> CONTEXT: Map025/events/51/pages/0/467/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/407/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你看看我，全身上下只有一块是硬的，其
+他地方不是软趴趴就是黏糊糊，超级弱小
+> CONTEXT: Map025/events/51/pages/0/470/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/410/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…真想，做一个人啊，人类那么优秀的存在
+……
+> CONTEXT: Map025/events/51/pages/0/473/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/413/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…好憧憬你啊！人类！
+> CONTEXT: Map025/events/51/pages/0/476/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/416/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你不要紧张嘛
+> CONTEXT: Map025/events/51/pages/0/480/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/420/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…优秀、优秀、优秀~
+> CONTEXT: Map025/events/51/pages/0/484/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/424/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我可能提到这个词的次数有点多了
+> CONTEXT: Map025/events/51/pages/0/486/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/426/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我一定、一定要变得优秀
+> CONTEXT: Map025/events/51/pages/0/488/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/428/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…虽然，我现在还是有很多字不认识
+> CONTEXT: Map025/events/51/pages/0/490/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/430/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…最近还迷上了看一种奇怪的，叫“小说”
+的书籍了……
+> CONTEXT: Map025/events/51/pages/0/492/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/432/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…连苦苦等待的你都那么弱小
+> CONTEXT: Map025/events/51/pages/0/495/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/435/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…变优秀的计划要缓一缓了
+> CONTEXT: Map025/events/51/pages/0/497/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/437/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你们的书上经常提到这个，“命运”，奇
+怪的是你们相信命运，又不相信命运
+> CONTEXT: Map025/events/51/pages/0/501/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/441/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…幸运的是，命运让你一路上都没有碰到什
+么危险，轻轻松松的照着我的提示来到了我
+这里
+> CONTEXT: Map025/events/51/pages/0/504/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/444/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…命运还让我们在此刻相遇
+> CONTEXT: Map025/events/51/pages/0/508/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/448/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…命运真是个好东西
+> CONTEXT: Map025/events/51/pages/0/510/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/450/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…很好奇命运会不会带你出去呢！
+> CONTEXT: Map025/events/51/pages/0/512/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/452/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…别看我啊，我是不会带你出去的，我自己
+都出不去
+> CONTEXT: Map025/events/51/pages/0/515/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/455/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们这个种族出现了还不久呢，如果不赶
+快壮大进步，即使到了外面的那个世界，也
+会很难生存的
+> CONTEXT: Map025/events/51/pages/0/524/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/464/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过我一定能超过那些白色种
+> CONTEXT: Map025/events/51/pages/0/528/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/468/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…最近我还拉拢一些同类来看看书，但是他
+们只是把书吃掉……
+> CONTEXT: Map025/events/51/pages/0/530/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/470/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这事儿还是任重而道远呢
+> CONTEXT: Map025/events/51/pages/0/533/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/473/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过哦，能成为第一人我还是很兴奋的
+> CONTEXT: Map025/events/51/pages/0/535/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/475/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这也是我叫“普罗”的原因呢
+> CONTEXT: Map025/events/51/pages/0/537/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/477/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外面的世界？
+> CONTEXT: Map025/events/51/pages/0/539/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/479/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+白色种？
+> CONTEXT: Map025/events/51/pages/0/539/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/479/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你的事情？
+> CONTEXT: Map025/events/51/pages/0/539/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/479/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…书上的描述你应该比我明白才对
+> CONTEXT: Map025/events/51/pages/0/541/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/481/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…然而我至今还没有出去过
+> CONTEXT: Map025/events/51/pages/0/543/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/483/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我是在这个建筑里出生
+> CONTEXT: Map025/events/51/pages/0/545/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/485/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这里差不多就是我们的“星球”
+> CONTEXT: Map025/events/51/pages/0/547/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/487/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…离开母星，到深邃的宇宙里探险是需要极
+大的勇气的
+> CONTEXT: Map025/events/51/pages/0/549/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/489/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…呃，说不定外面有专门吃胶液怪物的生物
+呢
+> CONTEXT: Map025/events/51/pages/0/552/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/492/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…啊？没有？
+> CONTEXT: Map025/events/51/pages/0/556/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/496/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…对啊，门外那些就是，颜色是白色的，和
+我们有很大的区别
+> CONTEXT: Map025/events/51/pages/0/560/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/500/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你刚才还把我的一个不速之客吸引走了，
+你忘了吗
+> CONTEXT: Map025/events/51/pages/0/563/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/503/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…白色种很多地方都比我们优秀，真羡慕啊
+> CONTEXT: Map025/events/51/pages/0/566/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/506/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…所以我要变得优秀起来，超过他们
+> CONTEXT: Map025/events/51/pages/0/568/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/508/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我，普罗，雄性…怎么了吗
+> CONTEXT: Map025/events/51/pages/0/572/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/512/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你不要觉得我长得像狼就觉得能靠撸我肚
+皮就能让我趴在地上打滚了
+> CONTEXT: Map025/events/51/pages/0/574/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/514/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…以及其实性别这事情只是外形上的区别
+> CONTEXT: Map025/events/51/pages/0/577/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/517/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…毕竟我们可以分裂繁殖，还可以靠同化人
+类
+> CONTEXT: Map025/events/51/pages/0/579/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/519/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…公的母的对我们来说并不重要
+> CONTEXT: Map025/events/51/pages/0/582/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/522/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你这是什么眼神啊
+> CONTEXT: Map025/events/51/pages/0/585/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/525/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你，很想出去的吧，的确呢，在这里待着
+指不定什么时候就会被同化，被吃掉了
+> CONTEXT: Map025/events/51/pages/0/593/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/533/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过，还是比较困难的呢，毕竟你不能从
+阳台上跳下去，这里好高的
+> CONTEXT: Map025/events/51/pages/0/596/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/536/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你也钻不进通风口
+> CONTEXT: Map025/events/51/pages/0/599/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/539/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…也跑不过我那些同伴
+> CONTEXT: Map025/events/51/pages/0/601/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/541/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类，你们真弱啊
+> CONTEXT: Map025/events/51/pages/0/603/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/543/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过，你们很聪明呢，
+这也许能成为突破口
+> CONTEXT: Map025/events/51/pages/0/605/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/545/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+跳下去？
+> CONTEXT: Map025/events/51/pages/0/608/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/548/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通风口？
+> CONTEXT: Map025/events/51/pages/0/608/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/548/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+聪明？
+> CONTEXT: Map025/events/51/pages/0/608/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/548/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你已经去过那个阳台了吧
+> CONTEXT: Map025/events/51/pages/0/610/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/550/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…应该知道那里有多高了
+> CONTEXT: Map025/events/51/pages/0/612/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/552/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…即使是我们，也要顾虑一下跳下去会不会
+摔碎头部
+> CONTEXT: Map025/events/51/pages/0/614/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/554/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你要是找到了什么能让你飞起来的东西或许
+还有希望
+> CONTEXT: Map025/events/51/pages/0/617/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/557/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这个建筑是封闭的，大部分房间内部都有
+通风口
+> CONTEXT: Map025/events/51/pages/0/622/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/562/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…对我们来说，那是很方便的通道
+> CONTEXT: Map025/events/51/pages/0/625/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/565/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…虽然有时候头部还是会卡在里面……
+> CONTEXT: Map025/events/51/pages/0/627/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/567/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你要是能缩小，说不定就能行了
+> CONTEXT: Map025/events/51/pages/0/629/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/569/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…按照我的提示，一步步到达了这里，你穿
+过了那个巨大怪物的领地到达这里，难道不
+就是靠的智慧吗
+> CONTEXT: Map025/events/51/pages/0/633/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/573/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那个大块头很敬佩聪明的家伙，因为他自
+己只会磕磕巴巴的说几个单词
+> CONTEXT: Map025/events/51/pages/0/637/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/577/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…啊，你说那个巨大怪物…是那群突变种的
+领袖来着，我之前还去教了他一段时间的语
+言
+> CONTEXT: Map025/events/51/pages/0/640/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/580/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…啊啊，我之前还和他说如果有人类经过请
+留给我的
+> CONTEXT: Map025/events/51/pages/0/644/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/584/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…他能记得真是太好了
+> CONTEXT: Map025/events/51/pages/0/647/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/587/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那是很久以前，我突发奇想去了上层
+> CONTEXT: Map025/events/51/pages/0/663/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/603/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…看到了你所在的那个被锁住的房间
+> CONTEXT: Map025/events/51/pages/0/665/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/605/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…之后找到的资料都指向那里有一个还没有
+投入实验的实验者
+> CONTEXT: Map025/events/51/pages/0/667/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/607/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…之后我在路上留下了能够给予你提示的文
+件，指引你到这里
+> CONTEXT: Map025/events/51/pages/0/670/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/610/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…乱走的话，你就会变成其他同伴的宿主了呢
+> CONTEXT: Map025/events/51/pages/0/673/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/613/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…原计划是把那个顽强地活到最后的人类寄
+生，我就能变得很优秀了
+> CONTEXT: Map025/events/51/pages/0/675/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/615/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你应该是被绑架进来的吧，这样也好，你
+躲过了之后的瘟疫大爆发
+> CONTEXT: Map025/events/51/pages/0/680/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/620/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不知应说是幸运还是不幸呢
+> CONTEXT: Map025/events/51/pages/0/683/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/623/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不过现在可以肯定的是你在这里孤身一人
+> CONTEXT: Map025/events/51/pages/0/685/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/625/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我没有踏出过这栋建筑，外面的世界真的
+不了解呢
+> CONTEXT: Map025/events/51/pages/0/687/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/627/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类都去哪儿了啊
+> CONTEXT: Map025/events/51/pages/0/690/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/630/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你要有最坏的打算
+> CONTEXT: Map025/events/51/pages/0/692/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/632/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我也是
+> CONTEXT: Map025/events/51/pages/0/694/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/634/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我对细胳膊细腿儿的你表示嫌弃，暂时不
+会看中你的，请你放心
+> CONTEXT: Map025/events/51/pages/0/699/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/639/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+绑架？
+> CONTEXT: Map025/events/51/pages/0/704/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/644/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大瘟疫？
+> CONTEXT: Map025/events/51/pages/0/704/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/644/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+看重我？
+> CONTEXT: Map025/events/51/pages/0/704/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/644/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我不太理解“绑架”这个词的含义，但你
+大概不是自愿来的
+> CONTEXT: Map025/events/51/pages/0/706/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/646/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…或许你有什么特别的体质，才会被盯上呢
+> CONTEXT: Map025/events/51/pages/0/709/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/649/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…睡了那么久，只靠那台机器维持生命
+> CONTEXT: Map025/events/51/pages/0/711/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/651/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…真的难为你了
+> CONTEXT: Map025/events/51/pages/0/713/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/653/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我所知道的就是，这种病毒是在远古冰川
+中被释放出来
+> CONTEXT: Map025/events/51/pages/0/717/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/657/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…因为人类的过度开发，导致的病毒蔓延
+> CONTEXT: Map025/events/51/pages/0/720/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/660/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…之后迅速由洋流扩散到各地的海水中，感
+染了鱼类，之后又蔓延到陆地上
+> CONTEXT: Map025/events/51/pages/0/722/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/662/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这种病毒对其他生物无害，动物与人接触
+、人吃下被感染的动物都会被传染，病毒在
+人体潜伏期又很长，所以当第一位发病者出
+现时才被注意
+> CONTEXT: Map025/events/51/pages/0/725/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/665/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…之后就是你所见到的现在这个状况
+> CONTEXT: Map025/events/51/pages/0/730/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/670/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这是个很复杂的话题……
+> CONTEXT: Map025/events/51/pages/0/734/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/674/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我以前从没考虑过这种事情
+> CONTEXT: Map025/events/51/pages/0/736/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/676/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…没有一个有共同语言的伙伴是很寂寞的一
+件事情
+> CONTEXT: Map025/events/51/pages/0/738/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/678/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…没有人能听懂你讲的话更是一件很可怕的
+事情
+> CONTEXT: Map025/events/51/pages/0/741/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/681/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…一开始，我的确是想要把你一路指引到这
+里来，然后趁你不备夺取你的身体
+> CONTEXT: Map025/events/51/pages/0/744/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/684/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…现在嘛，事情有点复杂了
+> CONTEXT: Map025/events/51/pages/0/747/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/687/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我先暂时观察你吧，反正我在这儿待着好
+无聊，我要和你一起走走
+> CONTEXT: Map025/events/51/pages/0/749/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/689/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…研究一下人类，说不定很有趣
+> CONTEXT: Map025/events/51/pages/0/752/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/692/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果你想继续探索这个建筑，到达底层并
+出去的话
+> CONTEXT: Map025/events/51/pages/0/760/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/700/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…一定需要克服很多困难，不过你既然都已
+经到达这里了，就证明你有这个实力
+> CONTEXT: Map025/events/51/pages/0/763/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/703/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…建筑的门很多都被焊死，错综复杂，再加上密码门，
+有些地方我也无法进入
+> CONTEXT: Map025/events/51/pages/0/766/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/706/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…例如你所在的那个房间
+> CONTEXT: Map025/events/51/pages/0/769/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/709/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…继续前进吧
+> CONTEXT: Map025/events/51/pages/0/771/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/711/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……………………………
+> CONTEXT: Map025/events/51/pages/0/773/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/713/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/142/pages/0/9/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…顺带一提，我可是不会带你下去的哦
+> CONTEXT: Map025/events/51/pages/0/775/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/715/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…对于我来说，乱走也仍然是会有危险的啊
+> CONTEXT: Map025/events/51/pages/0/777/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/717/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+底层的事情？
+> CONTEXT: Map025/events/51/pages/0/779/Choice/0 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/719/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+困难是什么？
+> CONTEXT: Map025/events/51/pages/0/779/Choice/1 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/719/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+询问密码门的密码？
+> CONTEXT: Map025/events/51/pages/0/779/Choice/2 < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/719/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…就是连接地面的楼层啊
+> CONTEXT: Map025/events/51/pages/0/781/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/721/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我从没想过要离开这里，所以没有去过
+> CONTEXT: Map025/events/51/pages/0/783/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/723/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…离开自己出生的地方，去一个完全陌生的
+环境，虽然我是怪物…但是我也很怕啊
+> CONTEXT: Map025/events/51/pages/0/785/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/725/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…一些同类勇敢地出去闯荡，但是都没有回
+来的
+> CONTEXT: Map025/events/51/pages/0/788/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/728/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我呢，做一个死宅就好
+> CONTEXT: Map025/events/51/pages/0/791/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/731/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…而且之前我都一直在等着那个舱室里的人
+类苏醒
+> CONTEXT: Map025/events/51/pages/0/793/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/733/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…虽然你和我想象中的还是差的挺多的
+> CONTEXT: Map025/events/51/pages/0/796/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/736/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…最终活下来的唯一一个人类幸存者，身体
+素质却这么差的
+> CONTEXT: Map025/events/51/pages/0/798/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/738/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…嘿嘿，如果你强壮一点，或许我会选择寄
+生你呢
+> CONTEXT: Map025/events/51/pages/0/801/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/741/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…话说回来，底层可是研究区
+> CONTEXT: Map025/events/51/pages/0/804/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/744/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…鱼龙混杂，可怕得很
+> CONTEXT: Map025/events/51/pages/0/806/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/746/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你迄今为止见到的只不过是上层而已，接
+下来你就得穿过实验室等等危险的地区了
+> CONTEXT: Map025/events/51/pages/0/810/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/750/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…同类们喜欢把东西乱摆乱放，所以很多出
+口也堵上了
+> CONTEXT: Map025/events/51/pages/0/813/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/753/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…再加上各种奇奇怪怪的胶兽拦路
+> CONTEXT: Map025/events/51/pages/0/816/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/756/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你一个普普通通的人类能不能出的去还真
+的不好说呢
+> CONTEXT: Map025/events/51/pages/0/818/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/758/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…加油吧
+> CONTEXT: Map025/events/51/pages/0/821/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/761/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…是说下面那扇门吗，果然把你挡住了呢
+> CONTEXT: Map025/events/51/pages/0/825/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/765/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但是你不应该自己去找答案的吗，就这样
+直接来问我真的好吗？
+> CONTEXT: Map025/events/51/pages/0/827/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/767/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…算了，你这真的是很直截了当渗入灵魂的
+问题呢
+> CONTEXT: Map025/events/51/pages/0/830/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/770/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…密码是“11100033”
+> CONTEXT: Map025/events/51/pages/0/833/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/773/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…记住了哦！
+> CONTEXT: Map025/events/51/pages/0/835/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/51/pages/1/775/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你想要被Transfur了吗
+> CONTEXT: Map025/events/51/pages/1/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…呃，没什么，你想问什么？
+> CONTEXT: Map025/events/51/pages/1/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…什么，下边的门被胶液封住了吗
+> CONTEXT: Map025/events/51/pages/2/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…意料之中的结果呢
+> CONTEXT: Map025/events/51/pages/2/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你有试着去找找没有注意到过的通道吗
+> CONTEXT: Map025/events/51/pages/2/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…加油呢，通往成功的路从来都不止一条的
+呢
+> CONTEXT: Map025/events/51/pages/2/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+其他道路？
+> CONTEXT: Map025/events/51/pages/2/21/Choice/0 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+胶液封住的地方？
+> CONTEXT: Map025/events/51/pages/2/21/Choice/1 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+谢谢普罗
+> CONTEXT: Map025/events/51/pages/2/21/Choice/2 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…嗯，你可以去那两间房间找找出路
+> CONTEXT: Map025/events/51/pages/2/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那里的胶兽时常在睡觉，我刚才还去看了
+一眼，应该威胁不到你
+> CONTEXT: Map025/events/51/pages/2/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…加油吧，我不能再给予你更多帮助了
+> CONTEXT: Map025/events/51/pages/2/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…让我见识一下人类的聪明才智吧！！
+> CONTEXT: Map025/events/51/pages/2/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我想你已经见过了我们黑胶兽的领地了吧
+，实际上你看到的那些房间不过是领地中小
+小的一块而已
+> CONTEXT: Map025/events/51/pages/2/34/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…白胶们也是有自己的领地的，我猜，那扇
+门之后说不定就是白胶们的领地了
+> CONTEXT: Map025/events/51/pages/2/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…诶？！我只是让你去看一看而已啊，并没
+有要害你啊！
+> CONTEXT: Map025/events/51/pages/2/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…对不起对不起……
+> CONTEXT: Map025/events/51/pages/2/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…诶什么！！
+> CONTEXT: Map025/events/51/pages/2/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不、不客气的啦……
+> CONTEXT: Map025/events/51/pages/2/52/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…见外啦人类
+> CONTEXT: Map025/events/51/pages/2/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…对怪物道谢诶！真的假的！
+> CONTEXT: Map025/events/51/pages/2/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…啊，你找到出口了吗，真棒呢
+> CONTEXT: Map025/events/51/pages/3/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我没想到会这么快
+> CONTEXT: Map025/events/51/pages/3/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…呃，人类，你走了的话，我就……
+> CONTEXT: Map025/events/51/pages/3/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…嗯……算了，你加油呢
+> CONTEXT: Map025/events/51/pages/3/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我会支持你的
+> CONTEXT: Map025/events/51/pages/3/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…尽管，那个……我……
+> CONTEXT: Map025/events/51/pages/3/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我不想就这么默默无闻的死掉啊……
+> CONTEXT: Map025/events/51/pages/3/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…究竟哪里还能找到优秀的宿主呢……
+> CONTEXT: Map025/events/51/pages/3/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…总是看书的话也是很无聊的
+> CONTEXT: Map025/events/51/pages/4/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…话说了那么多嗓子都要干了
+> CONTEXT: Map025/events/51/pages/4/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果你真的是最后一个人类那要怎么办啊
+> CONTEXT: Map025/events/51/pages/4/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那我说不定真的要到外面的世界去了
+> CONTEXT: Map025/events/51/pages/4/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…好想有一场像小说一样的惊心动魄的大冒
+险啊
+> CONTEXT: Map025/events/51/pages/4/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不会死的那种
+> CONTEXT: Map025/events/51/pages/4/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…最好，还能有一个优秀的人类宿主
+> CONTEXT: Map025/events/51/pages/4/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一本书，很大很厚重
+> CONTEXT: Map025/events/51/pages/5/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+和周围的书比例完全不一样，大的可怕
+> CONTEXT: Map025/events/51/pages/5/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+柔软蓬松的大尾巴…
+> CONTEXT: Map025/events/52/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/53/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们黑胶是有共感的
+> CONTEXT: Map025/events/126/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/127/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/140/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/213/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你踩到那摊从我身上滴落下来的胶液的时
+候，我也是能感受到的
+> CONTEXT: Map025/events/126/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/127/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/140/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/213/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…所以，尊重我一下，不要踩了……
+> CONTEXT: Map025/events/126/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/127/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/140/pages/0/7/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/213/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…诶、哎……啊？！
+> CONTEXT: Map025/events/130/pages/1/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/131/pages/1/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类！！？你认真的吗？！在我的面前？
+> CONTEXT: Map025/events/130/pages/1/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/131/pages/1/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那里面有胶兽呢，你确定要进去？
+> CONTEXT: Map025/events/132/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/217/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/218/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/219/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/220/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/221/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…没有这些书，我大概和外面那些同伴一样
+> CONTEXT: Map025/events/139/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/148/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/206/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/207/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/208/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/209/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/210/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/211/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+书，书，还有书
+> CONTEXT: Map025/events/139/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/148/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/206/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/207/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/208/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/209/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/210/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/211/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……………………！！
+> CONTEXT: Map025/events/142/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你不要怕
+> CONTEXT: Map025/events/142/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我不会同化你的
+> CONTEXT: Map025/events/142/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我，和他们不一样
+> CONTEXT: Map025/events/142/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…请你放心
+> CONTEXT: Map025/events/142/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你一定看到了我沿途贴在墙上的那些提示
+> CONTEXT: Map025/events/142/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我就知道，人类一定都很聪明、优秀
+> CONTEXT: Map025/events/142/pages/0/23/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类的话，一定能轻易的到达这里
+> CONTEXT: Map025/events/142/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…辛苦你了，既然你已经来了
+> CONTEXT: Map025/events/142/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…要休息一会儿
+> CONTEXT: Map025/events/142/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…听听怪物的话吗
+> CONTEXT: Map025/events/142/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+……………突然有点紧张了呢
+> CONTEXT: Map025/events/142/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+其实，你比他更紧张
+> CONTEXT: Map025/events/142/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+但，或许他会知道那个密码的事情？
+> CONTEXT: Map025/events/142/pages/0/43/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+试着和他交流一下吧，这栋建筑的事情
+> CONTEXT: Map025/events/142/pages/0/45/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+画着奇怪的画
+> CONTEXT: Map025/events/165/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/165/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/166/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/166/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/167/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/167/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/199/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/200/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/201/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…求你别看
+> CONTEXT: Map025/events/165/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/166/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/167/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+写着奇怪的字
+> CONTEXT: Map025/events/172/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/172/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…学习…学习是需要过程的……
+> CONTEXT: Map025/events/172/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一棵树，曾经应是个盆栽，上面有零星的几个果子，够
+不到
+> CONTEXT: Map025/events/174/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们也是有代谢需求的
+> CONTEXT: Map025/events/198/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…所以请不要，吃掉我的那份
+> CONTEXT: Map025/events/198/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你想吃的话自己去摘啊
+> CONTEXT: Map025/events/198/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不想吃
+> CONTEXT: Map025/events/198/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+通风口
+> CONTEXT: Map025/events/224/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

@@ -1,0 +1,9 @@
+{
+    "library": "RGSS202E.dll",
+    "scripts": "Data\\Scripts.rvdata",
+    "title": null,
+    "rtp": "",
+    "fullscreen": "1",
+    "fullscreenratio": "0",
+    "windowedratio": "2"
+}

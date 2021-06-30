@@ -1,0 +1,71 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…呼、呼呼、呼……
+> CONTEXT: Map073/events/1/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…刚才真的是千钧一发
+> CONTEXT: Map073/events/1/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…情况紧急，那个时候我没有别的选择，只
+要人类你安全就好了吧，反正我还是能脱身
+的
+> CONTEXT: Map073/events/1/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…就使劲的把你丢出去了…只要你能逃走就
+好…
+> CONTEXT: Map073/events/1/pages/0/19/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…结果他们完全没有理会我，又直直的追你
+去了
+> CONTEXT: Map073/events/1/pages/0/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…抱歉，你没摔坏吧
+> CONTEXT: Map073/events/1/pages/0/25/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…真的没事吗
+> CONTEXT: Map073/events/1/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…那再被包围我就把你丢出去！
+> CONTEXT: Map073/events/1/pages/0/30/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这可是最简单易行的办法呢
+> CONTEXT: Map073/events/1/pages/0/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…留意脚下，环顾四周
+> CONTEXT: Map073/events/1/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你回来做什么啊啊啊啊啊啊？！？！
+> CONTEXT: Map073/events/1/pages/3/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map072/events/3/pages/3/0/Dialogue < UNTRANSLATED
+
+> END STRING

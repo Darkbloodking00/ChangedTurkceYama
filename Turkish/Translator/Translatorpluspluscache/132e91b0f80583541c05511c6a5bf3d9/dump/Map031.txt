@@ -1,0 +1,16 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+遇到困难的话一鼓作气的冲就可以了呢，越是迟疑越有
+可能失去成功的机会，此外，细心观察也是非常好的解
+决问题的方法，总之，生活不是游戏，只有一次机会，
+要好好把握呢
+> CONTEXT: Map031/events/33/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/206/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好像在哪看过
+> CONTEXT: Map031/events/33/pages/0/6/Dialogue < UNTRANSLATED
+
+> END STRING

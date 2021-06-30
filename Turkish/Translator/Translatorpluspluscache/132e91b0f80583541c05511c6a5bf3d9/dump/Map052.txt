@@ -1,0 +1,259 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+发电机的侧面好像贴了什么…
+> CONTEXT: Map052/events/1/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/2/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+回头没有意义，虽然前进也没多少意义了
+> CONTEXT: Map052/events/1/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/2/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+没有电打不开……
+> CONTEXT: Map052/events/3/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/4/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨大机器
+> CONTEXT: Map052/events/7/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/14/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨大机器的显示屏
+> CONTEXT: Map052/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/11/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这儿贴了一张纸，很不显眼
+> CONTEXT: Map052/events/13/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这台机器设计的时候就是为了应急准备的，毕竟这里是
+堡垒，什么都要考虑到
+> CONTEXT: Map052/events/13/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+外面没电的时候，这台大宝贝儿就会立刻开启维持电力，
+直到外部的电力再次恢复供应，再自动关闭
+> CONTEXT: Map052/events/13/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这张纸是为了给新来的维修小子看的，如果你看到了，
+就证明这宝贝儿坏了，打开这宝贝儿看看系统是不是还
+能正常运行
+> CONTEXT: Map052/events/13/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+密码是1234
+> CONTEXT: Map052/events/13/pages/0/16/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+需要密码才能打开发电机
+> CONTEXT: Map052/events/15/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+打开了
+> CONTEXT: Map052/events/15/pages/0/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+密码错误……
+> CONTEXT: Map052/events/15/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/49/pages/0/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+现在发电机正在运转了
+> CONTEXT: Map052/events/15/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+上面好像有信息……
+> CONTEXT: Map052/events/16/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/3/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/3/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+电力系统因受到外力侵蚀，于 *6* 小时前自动关闭
+> CONTEXT: Map052/events/16/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/11/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+请尽快寻找修复方法，排查是否是因 *虫蛀* 、 *老化*
+ 、 *生锈* 、 *接触不良* 而导致此次事故
+> CONTEXT: Map052/events/16/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/14/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+本次电力系统共运行 *1794* 天，故障 *1* 次
+> CONTEXT: Map052/events/16/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+感谢您的使用
+> CONTEXT: Map052/events/16/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/21/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/21/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…………五年了？
+> CONTEXT: Map052/events/16/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/24/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/24/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+五年里，这栋建筑的电力都没恢复……
+> CONTEXT: Map052/events/16/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这五年内，外面究竟怎样了
+> CONTEXT: Map052/events/16/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/28/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+是电缆断了吗，还是这里被遗忘了？
+> CONTEXT: Map052/events/16/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/31/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/31/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+假的吧…为什么会这样…
+> CONTEXT: Map052/events/16/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/33/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+在阳台上见到的废墟，不会是真的吧…外面……
+> CONTEXT: Map052/events/16/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/35/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你其实一直都知道大概会是这样的结果
+> CONTEXT: Map052/events/16/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+只不过自己，不愿相信罢了
+> CONTEXT: Map052/events/16/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/42/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+然而真实，劈头盖脸的砸了过来
+> CONTEXT: Map052/events/16/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/44/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+大家都……
+> CONTEXT: Map052/events/16/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+只剩下自己了……
+> CONTEXT: Map052/events/16/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/51/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/51/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你不知道还能不能走下去，毕竟外面可能真的什么都不
+剩了
+> CONTEXT: Map052/events/16/pages/0/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+当你成为一个孤独的幸运儿，可不是好事
+> CONTEXT: Map052/events/16/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+莫大的空虚，莫大的恐惧，还有莫大的绝望
+> CONTEXT: Map052/events/16/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/59/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/59/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+好迷茫……
+> CONTEXT: Map052/events/16/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/17/pages/0/63/Dialogue < UNTRANSLATED
+> CONTEXT: Map052/events/52/pages/0/63/Dialogue < UNTRANSLATED
+
+> END STRING

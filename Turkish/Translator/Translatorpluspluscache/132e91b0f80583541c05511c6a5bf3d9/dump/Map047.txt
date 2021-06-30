@@ -1,0 +1,158 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+一堆鱼，好吧，现在你被一堆鱼包围了
+> CONTEXT: Map047/events/108/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/151/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你一脚踏入了一片较深的水域
+> CONTEXT: Map047/events/138/pages/1/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/139/pages/1/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/141/pages/1/13/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/142/pages/1/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+水从四面八方涌入你的视线，你不能呼吸，你害怕的挥
+舞着手
+> CONTEXT: Map047/events/138/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/139/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/141/pages/1/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/142/pages/1/15/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+最终你呛了几口水，蹬着底部又浮了上来
+> CONTEXT: Map047/events/138/pages/1/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/139/pages/1/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/141/pages/1/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/142/pages/1/18/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你贪婪的呼吸着，紧接着就发现了
+> CONTEXT: Map047/events/138/pages/1/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/139/pages/1/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/141/pages/1/22/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/142/pages/1/22/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不知何时，你的手上黏上了粘液，是刚才水里的吗？
+> CONTEXT: Map047/events/138/pages/1/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/139/pages/1/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/141/pages/1/26/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/142/pages/1/26/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+来不及思考，这些黏糊的生命已经漫上你的胸口
+> CONTEXT: Map047/events/138/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/139/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/141/pages/1/29/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/142/pages/1/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你无法呼救，你在水里打滚，试图甩掉一些，但这只是
+让你多喝了几口水
+> CONTEXT: Map047/events/138/pages/1/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/139/pages/1/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/141/pages/1/32/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/142/pages/1/32/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+当你站起来，你已经变成了一条鱼
+> CONTEXT: Map047/events/138/pages/1/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/139/pages/1/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/141/pages/1/38/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/142/pages/1/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你摸了几下自己，很滑
+> CONTEXT: Map047/events/138/pages/1/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/139/pages/1/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/141/pages/1/40/Dialogue < UNTRANSLATED
+> CONTEXT: Map047/events/142/pages/1/40/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+碰一碰，一切就能结束了
+> CONTEXT: Map047/events/249/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+没有人见过那种病毒，大家被软禁在这栋建筑里
+> CONTEXT: Map047/events/271/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这里与世隔绝，完全独立，真的是为了保护我们？
+> CONTEXT: Map047/events/271/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+还有避难所的事情，究竟是怎么回事？
+> CONTEXT: Map047/events/271/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+为什么把动植物都收容起来，有什么大事要发生了么
+> CONTEXT: Map047/events/271/pages/0/10/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+命运决定我们得到了什么，即使再努力也不过如此……
+> CONTEXT: Map047/events/277/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+失败、失败、再失败，一直都是如此
+> CONTEXT: Map047/events/277/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+有的、没有的，全都是命中注定，命运不希望我们拥有
+的，无论如何也得不到
+> CONTEXT: Map047/events/277/pages/0/7/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+再努力结果也是一样的……
+> CONTEXT: Map047/events/277/pages/0/11/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+为了做得漂亮一些，拼命的坚持，然而什么作用都不会
+有……
+> CONTEXT: Map047/events/277/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+不如早些放弃……
+> CONTEXT: Map047/events/277/pages/0/18/Dialogue < UNTRANSLATED
+
+> END STRING
