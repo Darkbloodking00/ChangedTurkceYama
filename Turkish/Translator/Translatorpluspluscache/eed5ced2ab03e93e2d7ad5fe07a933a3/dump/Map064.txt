@@ -1,0 +1,450 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+修剪成方形的盆栽
+> CONTEXT: Map064/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/18/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+巨大园艺剪刀
+> CONTEXT: Map064/events/14/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+洒水壶
+> CONTEXT: Map064/events/15/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map062/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/36/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+是否开启廊门权限？
+> CONTEXT: Map064/events/20/pages/0/1/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/35/pages/0/1/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+真的没什么需要操作的了
+> CONTEXT: Map064/events/20/pages/1/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+没有作用
+> CONTEXT: Map064/events/23/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+日记
+> CONTEXT: Map064/events/27/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+内容太多太多了…
+> CONTEXT: Map064/events/27/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+你挑了一些重要的阅读
+> CONTEXT: Map064/events/27/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+XXXX/XX/XX
+受感染者长期内没有症状，晚期会出现面色发白、力竭
+等症状（那是因为血液的构成被潜移默化的改变了），
+发病极快，难以发现，可以靠体液等传播。
+> CONTEXT: Map064/events/27/pages/0/8/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+动植物都可以携带病毒（但不会发作也不会被攻击），
+人食用了这些动植物都会被感染，受感染的人接触纯净
+动植物，动植物也会被感染，动植物与动植物之间也会
+互相传染
+> CONTEXT: Map064/events/27/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+听起来很不科学，很不合理，也很魔幻，但很现实，科
+幻小说里的灭世病毒。最初的爆发出现在极地科考站…
+希望我们还不晚。
+此外上层禁止我们透露相关信息，为什么…
+> CONTEXT: Map064/events/27/pages/0/20/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+XXXX/XX/XX
+这一天还是来了，随着最后一个国家的陷落，世界陷入
+了沉寂。已经结束了，最后的希望也结束了。那个本来
+没有打算使用的避难所现在开始运行，直到那个时候。
+> CONTEXT: Map064/events/27/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+世人还没有意识到严重性…他们还像往常一样的活着，
+浑然不知自己已经感染了致命的病毒，最终，所有人都
+会回归尘土，只有优秀的人活下去。
+> CONTEXT: Map064/events/27/pages/0/33/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我没有那种福分，我将被发配前往边疆的一栋堡垒进行
+研究，我们都知道即使研究出了治疗方法，这个世界也
+完蛋了，所有人和家人分别，一去不返。
+> CONTEXT: Map064/events/27/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+XXXX/XX/XX
+我们都听到了爆炸声，而且无一例外的知道发生什么了，
+堡垒之外围了很多人，很多很多很多人，他们都垂着头，
+没有生气。
+> CONTEXT: Map064/events/27/pages/0/44/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+那些人涌了进来，拼命地撕扯打砸他们看到的所有东西，
+他们挟持了能看到的所有人，逼着他们交出疫苗。
+多么可笑的场景，我理解为何他们没资格能进避难所了。
+> CONTEXT: Map064/events/27/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+又一层楼被攻陷了…他们正向上爬，很快就要到我们这
+里了，同事们尖叫起来…有些头破血流的人正发狂似的
+向上层逃窜。
+而我只是在写日记。
+> CONTEXT: Map064/events/27/pages/0/55/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这或许是我的最后一页，很可惜，这本日记还有大半没
+有写上文字。
+
+不甘。
+> CONTEXT: Map064/events/27/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+XXXX/XX/XX
+我往自己身上注射了那个，今天一觉醒来我发现自己长
+出了尾巴。
+似乎只有我活了下来。
+> CONTEXT: Map064/events/27/pages/0/68/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+同事们被那群持枪暴徒袭击。
+然后不知是哪个疯子放出了胶兽样本们，这些液态的小
+动物无法被枪械伤害，他们四处乱窜，很快，走廊里就
+全部都是披满一身胶液的宿主了。
+> CONTEXT: Map064/events/27/pages/0/74/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+事情已经发展成这样，我没有别的选择…我放弃了我的
+人类身份，我一定要保持自己的意识，带着这样的想法，
+我给自己注射了K型样本……
+> CONTEXT: Map064/events/27/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我一定要活下去…我不能就这样被暴徒杀掉，病死，或
+者被寄生，那太蠢了。病毒夺走了我的一切，暴徒又熄
+灭了最后一点希望之火，如今我只想活着。
+> CONTEXT: Map064/events/27/pages/0/85/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+XXXX/XX/XX
+开始了…爆炸声震耳欲聋。
+各国都私下进行了协商，一旦全灭，各国会派出各自国
+家的无人机进行地毯式轰炸……
+> CONTEXT: Map064/events/27/pages/0/91/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+病毒的特殊性就在于无差别的感染，人，动物，植物，
+全部都能感染。但病毒只攻击人类，他们靠基因识别，
+准确无误，只有人会横遭毒手。
+> CONTEXT: Map064/events/27/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+为了避难所里最后一批人，为了这个文明延续…人类，
+哈哈，自私的决定进行生物灭绝，让病毒根源截断。
+因为自私破坏自然，自然给予了惩罚，但垂死之人最后
+还要彻彻底底毁坏家园，让大家全都无法活下去。
+> CONTEXT: Map064/events/27/pages/0/102/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+太可笑了，所以人类要灭亡。
+> CONTEXT: Map064/events/27/pages/0/108/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+XXXX/XX/XX
+这个世界只有优秀的人能活下去，我不优秀…但其实我
+也不算是个人了…
+> CONTEXT: Map064/events/27/pages/0/112/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我仍无法忘却那群暴徒没有人性的瞳孔，那群庶民…
+> CONTEXT: Map064/events/27/pages/0/117/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+终究还是什么都没能挽救，我连人都不是……
+> CONTEXT: Map064/events/27/pages/0/120/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+XXXX/XX/XX
+事先准备好的那些动物已经放出去了，是的，“收容计
+划”，破坏自然之后的重建，也许会花很长时间。
+我们创造大洪水，又创造诺亚方舟。
+> CONTEXT: Map064/events/27/pages/0/124/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+废墟上逐渐生长起美丽的绿色植物…我往阳台上也种了
+一些，不过我对他们的生长没抱太多希望。一切井然有
+序，这些纯净的、没受过感染的动植物会慢慢恢复起来。
+> CONTEXT: Map064/events/27/pages/0/130/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+几年后这里又会生机勃勃；除非有受感染的动植物仍然
+在某处活着。
+如果这时候跑出来一个感染了的人，这些努力也就白费
+了，但我想并没有感染者能活到那个时候。
+> CONTEXT: Map064/events/27/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+XXXX/XX/XX
+每晚都在做噩梦，孤独感和空虚感让我夜不能眠。
+我快要疯了……
+> CONTEXT: Map064/events/27/pages/0/142/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+我得找些事情来做，避难所方面很久没有发来消息，我
+真的会闲到发霉
+> CONTEXT: Map064/events/27/pages/0/147/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+XXXX/XX/XX
+这究竟是什么！我没有那么多时间去梳自己的毛，但他
+总会掉的到处都是！
+太麻烦了！但这是我自己的毛！！
+> CONTEXT: Map064/events/27/pages/0/152/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+有时看着镜子里的自己，会有很重的陌生感，也不能说
+是讨厌…我从小就喜欢小动物，但是当自己变成动物一
+样，感觉就不太一样了。
+更何况我并不是动物，是个兽人。
+> CONTEXT: Map064/events/27/pages/0/157/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+后面写的都是很无聊的流水账……
+> CONTEXT: Map064/events/27/pages/0/163/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+没值得关心的内容
+> CONTEXT: Map064/events/27/pages/0/165/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一堆关于病毒学的书
+> CONTEXT: Map064/events/34/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/49/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/54/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map057/events/38/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/24/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/52/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/56/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/3/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/14/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/133/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/26/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/28/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/29/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/30/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/31/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/32/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/33/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/34/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/35/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/89/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/99/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/107/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/13/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/25/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/26/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/38/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/53/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/76/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/77/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/78/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/79/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/80/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/81/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/82/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/83/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/84/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/100/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/102/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一堆关于基因学的书
+> CONTEXT: Map064/events/35/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/50/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/51/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map057/events/39/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/25/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/39/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/51/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/1/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/13/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/22/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/23/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/24/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/135/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/36/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/39/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/40/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/41/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/88/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/114/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/14/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/15/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/16/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/21/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/22/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/24/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/41/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/54/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/66/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/67/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/68/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/69/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/70/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/71/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/72/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/73/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/74/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/75/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/96/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/98/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/99/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一堆关于动物学的书
+> CONTEXT: Map064/events/43/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/52/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map064/events/53/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map057/events/40/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/26/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/40/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/41/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/2/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/15/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/16/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/17/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/18/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/19/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/20/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/21/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/37/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/42/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/43/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/87/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/106/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/116/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/17/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/18/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/19/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/20/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/30/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/31/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/32/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map022/events/39/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/55/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/85/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/86/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/87/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/88/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/89/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/90/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/91/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/92/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/93/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/94/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/95/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一盒笔
+> CONTEXT: Map064/events/55/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map054/events/41/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map037/events/27/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/28/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map010/events/189/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING

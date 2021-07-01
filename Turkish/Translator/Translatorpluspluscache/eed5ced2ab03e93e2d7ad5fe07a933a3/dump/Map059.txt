@@ -1,0 +1,156 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+你的瞳孔因为紧张而剧烈收缩，这台机器无法识别！
+> CONTEXT: Map059/events/91/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/91/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map056/events/243/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map049/events/141/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/150/pages/2/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map031/events/5/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/34/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map023/events/9/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/119/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map020/events/31/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/71/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map011/events/14/pages/1/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/59/pages/2/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+这个机器人并不明白你在做什么，但他似乎很喜欢这样
+陪你玩
+> CONTEXT: Map059/events/95/pages/0/13/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+成功了！
+> CONTEXT: Map059/events/97/pages/2/5/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+装了黑胶
+> CONTEXT: Map059/events/106/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/107/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/108/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/109/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/22/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/25/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/26/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/27/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/29/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/30/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/31/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/32/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/34/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/173/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map061/events/35/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/174/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/175/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/207/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/208/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/209/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/210/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/211/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/212/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/213/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/214/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/78/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/79/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/80/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/81/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/111/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/112/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/113/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/114/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/115/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+一摞小纸箱，没什么好看的
+> CONTEXT: Map059/events/134/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/199/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map058/events/83/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+纸箱，纸作的，箱子形状
+> CONTEXT: Map059/events/135/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/136/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/200/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/197/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/201/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/202/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/198/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/199/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/200/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/201/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/13/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/14/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/28/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/29/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/45/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/64/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+里面装着明显人为损毁的纸片、玻璃片、光盘片
+> CONTEXT: Map059/events/135/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/136/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/200/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/201/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/197/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/198/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/199/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/202/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/200/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/201/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/8/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/9/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/11/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/12/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/13/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/14/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/28/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/29/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/45/pages/0/2/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/64/pages/0/2/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+总结，垃圾箱
+> CONTEXT: Map059/events/135/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/136/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/200/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/201/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/197/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/198/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map060/events/202/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/199/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/200/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map059/events/201/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/8/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/9/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/10/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/11/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/12/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/13/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/14/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/28/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/29/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/45/pages/0/4/Dialogue < UNTRANSLATED
+> CONTEXT: Map001/events/64/pages/0/4/Dialogue < UNTRANSLATED
+
+> END STRING

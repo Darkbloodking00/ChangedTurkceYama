@@ -1,0 +1,743 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+似乎已经坏了
+> CONTEXT: Map053/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/5/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/6/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/7/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/16/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/17/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/18/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/185/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/186/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/187/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map050/events/188/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/2/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/3/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/5/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/6/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/7/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/13/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/14/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/46/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/47/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/48/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/49/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/50/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/51/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/52/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/53/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map046/events/54/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map045/events/257/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map045/events/261/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map045/events/262/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+推不动
+> CONTEXT: Map053/events/33/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/34/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/54/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/55/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/56/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/59/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/60/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/61/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/79/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/82/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/83/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/84/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/87/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/88/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/89/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/102/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/103/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/106/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map037/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map037/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map037/events/15/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map037/events/30/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/9/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/23/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/24/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/25/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map032/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map032/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map032/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map032/events/36/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map032/events/37/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map032/events/39/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/20/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/23/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map030/events/24/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map028/events/3/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/27/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map028/events/34/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/30/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/31/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/134/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/135/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/5/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/136/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/137/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/7/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/138/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/139/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/31/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map026/events/36/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/163/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/82/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/166/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/83/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/169/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/170/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/94/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/95/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/177/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/178/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/106/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/179/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/125/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/183/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/184/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/128/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/187/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map027/events/132/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/191/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/198/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/199/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map035/events/200/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/86/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/94/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/104/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/105/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/109/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map024/events/110/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/38/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/81/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/84/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/87/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/88/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/89/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/90/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/91/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/92/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/98/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/103/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/105/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map021/events/106/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/3/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/5/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/6/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/7/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/8/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/10/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/11/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/12/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/13/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/14/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/15/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/19/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/20/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/28/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/33/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/50/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/51/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/53/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/54/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/55/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/68/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/76/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/77/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/114/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/115/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/116/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/119/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/120/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/121/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/122/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/123/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/124/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/125/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/127/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/128/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/129/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/130/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/131/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/132/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/133/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/134/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/135/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/136/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/137/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/138/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/140/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/141/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/142/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/189/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/190/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/191/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/192/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/193/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/194/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/195/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/196/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/197/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/198/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/199/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/200/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/205/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/212/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/214/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/229/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/230/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/231/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map014/events/232/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/73/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/75/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/76/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/77/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/78/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/87/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/90/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/93/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/98/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/99/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/100/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/104/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map015/events/105/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/222/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map025/events/223/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…要跟上我哦！
+> CONTEXT: Map053/events/39/pages/0/12/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+往前走吧
+> CONTEXT: Map053/events/67/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/68/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…呃，是我…我跟过来了…
+> CONTEXT: Map053/events/69/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/76/pages/0/15/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/14/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类，请…等一下，可以吗
+> CONTEXT: Map053/events/69/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/76/pages/0/18/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/17/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…是时候了，有些话，我一定要说
+> CONTEXT: Map053/events/69/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/76/pages/0/28/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/27/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我不能再装下去了，我一定得面对
+> CONTEXT: Map053/events/69/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/76/pages/0/30/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/29/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…谢谢你能出现，人类
+> CONTEXT: Map053/events/69/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/76/pages/0/36/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/35/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…谢谢你陪我度过了这一小段时光，感谢你
+能和一个寂寞的怪物待了这么久
+> CONTEXT: Map053/events/69/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/76/pages/0/39/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/38/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类，真的是有趣又很优秀的存在呢
+> CONTEXT: Map053/events/69/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/76/pages/0/42/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/41/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…这里，已经是我走到的最远的地方，之后
+的路，我也很陌生
+> CONTEXT: Map053/events/69/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/47/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/46/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…再走下去，会异常艰难，真的，非常难，
+你是绝对无法通过的
+> CONTEXT: Map053/events/69/pages/0/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/50/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我不想让你就这样牺牲掉你的躯体
+> CONTEXT: Map053/events/69/pages/0/54/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类，求求你，就此止步吧！
+> CONTEXT: Map053/events/69/pages/0/56/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…即使你出得了这栋建筑，又能怎样，外面
+已经那个样子了
+> CONTEXT: Map053/events/69/pages/0/61/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不要犯傻了，人类！！
+> CONTEXT: Map053/events/69/pages/0/64/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你继续前进的话，可能就要在那里陨落，
+我没有开玩笑
+> CONTEXT: Map053/events/69/pages/0/69/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…即使你出的去，外面的世界已经彻底崩坏
+殆尽，你看看那些废墟！
+> CONTEXT: Map053/events/69/pages/0/72/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/73/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/72/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…说不定，你出去之后反而会更怀念这里的
+环境……
+> CONTEXT: Map053/events/69/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/76/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/75/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/75/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类，与其白白牺牲自己……
+> CONTEXT: Map053/events/69/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/79/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/78/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/78/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…留下来吧，我可以把你同化，你很优秀，
+不该是这样的结局
+> CONTEXT: Map053/events/69/pages/0/80/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类，对不起……
+> CONTEXT: Map053/events/69/pages/0/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/89/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/88/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/88/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…不要白白送死
+> CONTEXT: Map053/events/69/pages/0/90/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…留下来吧
+> CONTEXT: Map053/events/69/pages/0/92/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…原谅我
+> CONTEXT: Map053/events/69/pages/0/98/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+打、打不开？
+> CONTEXT: Map053/events/69/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/110/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/110/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/109/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/109/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我把那个人类吞噬掉了
+> CONTEXT: Map053/events/69/pages/0/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/128/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/128/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/127/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/127/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…他没怎么挣扎，很快就没有声音了……
+> CONTEXT: Map053/events/69/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/130/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/129/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/129/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…很快，同化就完成了，我捧着他…他现在已经没有了
+人类特征，身上都是胶液，在朦胧中还蹬了一下腿
+> CONTEXT: Map053/events/69/pages/0/131/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…他醒了，有点茫然无措，的确，他现在就是一只新生
+的婴儿，虽然他的身体变了，但他还记得我…
+> CONTEXT: Map053/events/69/pages/0/135/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我捧着他的手，至少，之后他会活下去，只要能活下
+去，其实优秀不优秀，并不那么重要……
+> CONTEXT: Map053/events/69/pages/0/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/139/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+'1/1'
+> CONTEXT: Map053/events/69/pages/0/149/InlineScript/2:23 < UNTRANSLATED
+> CONTEXT: Map053/events/70/pages/0/148/InlineScript/2:23 < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/148/InlineScript/2:23 < UNTRANSLATED
+> CONTEXT: Map053/events/75/pages/0/149/InlineScript/2:23 < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/147/InlineScript/2:23 < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我以前，从未到过这里之后的区域，因为
+我自身的弱小，也有一点我安于现状的缘故
+……
+> CONTEXT: Map053/events/70/pages/0/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/50/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我…说过了，我已经等了你很久了
+> CONTEXT: Map053/events/70/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/55/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果你真的是最后一个人类，那……
+> CONTEXT: Map053/events/70/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/57/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/56/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…如果这次失去了你，我大概就要在这栋建
+筑，悲惨的发霉
+> CONTEXT: Map053/events/70/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/62/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/61/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你现在就是我唯一的机会
+> CONTEXT: Map053/events/70/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/65/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我只有你这个机会了，而你继续前进的话
+，可能就要在那里陨落
+> CONTEXT: Map053/events/70/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/70/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/69/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…成为我的宿主，作为一个整体一起活下去
+，难道，不好吗
+> CONTEXT: Map053/events/70/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/81/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/80/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我只有你，只有你这一个机会了
+> CONTEXT: Map053/events/70/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/91/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/90/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…成为…我的宿主…
+> CONTEXT: Map053/events/70/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/93/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/92/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…对不起
+> CONTEXT: Map053/events/70/pages/0/99/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/99/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/98/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…他没有死掉，只是变成了我的一部分…内
+在的一部分
+> CONTEXT: Map053/events/70/pages/0/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/132/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/131/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…最终，我还是屈服于我的自私
+> CONTEXT: Map053/events/70/pages/0/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/136/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/135/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…对不起……
+> CONTEXT: Map053/events/70/pages/0/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/74/pages/0/139/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/107/pages/0/138/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我决定了，和你，一起走吧！
+> CONTEXT: Map053/events/76/pages/0/47/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我是说，一直陪着你！直到到达外面的世
+界！我想和你一起！
+> CONTEXT: Map053/events/76/pages/0/49/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…之前，因为我的恐惧，我一直都没能踏入
+这之后的区域
+> CONTEXT: Map053/events/76/pages/0/54/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…现在，我改变想法了，为了你，也为我自
+己，我一定要踏出这步
+> CONTEXT: Map053/events/76/pages/0/57/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类，谢谢你给我的信心，如果你都能在
+这样危机四伏的环境下如此坚定决心，那我
+也不会示弱的！
+> CONTEXT: Map053/events/76/pages/0/60/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我知道，你看了那条讯息了吧…但还有我
+呢！虽然我不是人…我能理解你那种孤独感
+> CONTEXT: Map053/events/76/pages/0/64/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我不会再想什么宿主的事情啦
+> CONTEXT: Map053/events/76/pages/0/70/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…毕竟，你现在可是我的同伴啦！
+> CONTEXT: Map053/events/76/pages/0/72/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…呼呼…谢谢你给我的信心
+> CONTEXT: Map053/events/76/pages/0/77/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…即使外面的世界已经彻底崩坏殆尽，我也
+会陪着你
+> CONTEXT: Map053/events/76/pages/0/79/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我们说不定是世界上，最后的一对会说话
+的生物呢
+> CONTEXT: Map053/events/76/pages/0/82/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…人类，突然提出这样无理的要求，很抱歉
+呢
+> CONTEXT: Map053/events/76/pages/0/86/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…但我是真的，很想和同伴一起出发冒险！
+> CONTEXT: Map053/events/76/pages/0/89/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…一起吧，人类
+> CONTEXT: Map053/events/76/pages/0/95/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…你不会后悔的！
+> CONTEXT: Map053/events/76/pages/0/97/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…我可以和你一起吗？
+> CONTEXT: Map053/events/76/pages/0/99/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+…走吧！
+> CONTEXT: Map053/events/76/pages/0/107/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+焊住了
+> CONTEXT: Map053/events/91/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/92/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map040/events/4/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map040/events/5/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
+
+> BEGIN STRING
+有道沟……
+> CONTEXT: Map053/events/93/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/94/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/95/pages/0/0/Dialogue < UNTRANSLATED
+> CONTEXT: Map053/events/96/pages/0/0/Dialogue < UNTRANSLATED
+
+> END STRING
