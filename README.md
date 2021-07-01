@@ -10,3 +10,11 @@ Changed Gayri Resmi Türkçe Yama
 
 ### Discord Sunucusu
 [Dark Çeviri Kanadı](https://discord.gg/xrVPGvp6Hc)
+
+## Emeği Geçenler
+
+### DarkBlood_King
+[Furkan Demircioğlu](https://steamcommunity.com/id/DarkBlood007/)
+
+### Özel Teşekkürler
+[Aiden](https://steamcommunity.com/id/SrgAtkns/)
