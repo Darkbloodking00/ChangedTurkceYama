@@ -1,4 +1,20 @@
-# ChangedTurkceYama
+# Changed Türkçe Yama
 Changed Gayri Resmi Türkçe Yama
 
 ![Banner](https://steamuserimages-a.akamaihd.net/ugc/1719793723979933419/E88034B274219D7E7AE9C2F1E4C4E1A0F74E6C35///)
+
+## İletişim
+
+### Steam Sayfası
+[Changed Türkçe Yama](https://steamcommunity.com/sharedfiles/filedetails/?id=2519890366)
+
+### Discord Sunucusu
+[Dark Çeviri Kanadı](https://discord.gg/xrVPGvp6Hc)
+
+## Emeği Geçenler
+
+### DarkBlood_King
+[Furkan Demircioğlu](https://steamcommunity.com/id/DarkBlood007/)
+
+### Özel Teşekkürler
+[Aiden](https://steamcommunity.com/id/SrgAtkns/)
