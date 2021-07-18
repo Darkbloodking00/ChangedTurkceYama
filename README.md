@@ -1,7 +1,7 @@
 # Changed Türkçe Yama
 Changed Gayri Resmi Türkçe Yama
 
-![Banner](https://steamuserimages-a.akamaihd.net/ugc/1719793723979933419/E88034B274219D7E7AE9C2F1E4C4E1A0F74E6C35///)
+![Banner](https://steamuserimages-a.akamaihd.net/ugc/1697278243785931593/064E8034C0F3287E9962762A80EC3F859568D997/?imw=128&imh=128&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true///)
 
 ## İletişim
 
