@@ -40,9 +40,9 @@ silebilirsiniz.
 yazısını seçin. Yama hazır. Keyifli oyunlar...
 
 (Not: Oyunun içindeki "Game.ini" dosyası varsayılan olarak tam ekran yapmaya ayarlanmıştır. "fullscreen = 1" adlı değeri "fullscreen = 0" yaparak başlangıçta
-tam ekrana girmesini kapatabilirsiniz)
+tam ekrana girmesini kapatabilirsiniz.)
 
-(Not 2: Eğer dil seçimi bölümünde "TÜRKÇE" seçeneği yerine Çince yazılar görüyorsanız yama kurulumunu doğru yapamamışsınızdır
+(Not 2: Eğer dil seçimi bölümünde "TÜRKÇE" seçeneği yerine Çince yazılar görüyorsanız yama kurulumunu doğru yapamamışsınızdır.)
  
 ## İletişim
 
