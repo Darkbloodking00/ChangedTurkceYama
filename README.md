@@ -18,3 +18,6 @@ Changed Gayri Resmi Türkçe Yama
 
 ### Özel Teşekkürler
 [Aiden](https://steamcommunity.com/id/SrgAtkns/)
+
+## MD5
+6CBBC74BF272F9454602FC906DF2544B  ChangedTurkceRev16.zip
