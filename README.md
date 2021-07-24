@@ -29,7 +29,7 @@ dosyayı seçin.
 
 7-En altta bulunan "Go!" tuşuna tıklayın. Bu işlem biraz zaman alacak o yüzden bekleyin.
 
-8(opsiyonel)- İşlem bittiktne sonra "Changed" oyununu bir üstündeki dizinde oluşturulan "Changed_patch ve Changed_translated" adlı klasörleri
+8(opsiyonel)- İşlem bittikten sonra "Changed" oyununu bir üstündeki dizinde oluşturulan "Changed_patch ve Changed_translated" adlı klasörleri
 silebilirsiniz.
 
 9-Bu adresten en güncel yamayı indirin: [Changed Gayri Resmi Türkçe Yama](https://github.com/Darkbloodking00/ChangedTurkceYama/releases). (Örnek: ChangedTurkceRev16.zip)
