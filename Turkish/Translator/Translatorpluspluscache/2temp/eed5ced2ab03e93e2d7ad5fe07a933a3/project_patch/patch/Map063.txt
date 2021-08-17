@@ -1,0 +1,93 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+你似乎，达成了坏结局呢，可喜可贺
+> CONTEXT: Map063/events/89/pages/0/15/Dialogue
+> CONTEXT: Map048/events/89/pages/0/15/Dialogue
+> CONTEXT: Map048/events/89/pages/1/15/Dialogue
+Kötü sona ulaşmış gibi görünüyorsun. 
+Tebrikler
+> END STRING
+
+> BEGIN STRING
+如果你不想再玩了，现在就可以退出休息一
+会儿了
+> CONTEXT: Map063/events/89/pages/0/20/Dialogue
+> CONTEXT: Map048/events/89/pages/0/20/Dialogue
+> CONTEXT: Map048/events/89/pages/1/20/Dialogue
+Eğer daha fazla oynamak istemiyorsan bir süre 
+ara verip oyundan çıkabilirsin.
+> END STRING
+
+> BEGIN STRING
+想要尝试达成新的结局就要重新开始游戏了
+呢
+> CONTEXT: Map063/events/89/pages/0/23/Dialogue
+> CONTEXT: Map048/events/89/pages/0/23/Dialogue
+> CONTEXT: Map048/events/89/pages/1/23/Dialogue
+Ama eğer farklı bir sona ulaşmak istiyorsan,
+oyunu tekrar oynaman gerek.
+> END STRING
+
+> BEGIN STRING
+是按F12重启哦
+> CONTEXT: Map063/events/89/pages/0/29/Dialogue
+> CONTEXT: Map048/events/89/pages/0/29/Dialogue
+> CONTEXT: Map048/events/89/pages/1/29/Dialogue
+"F12" tuşuna basarak yeniden başlat.
+> END STRING
+
+> BEGIN STRING
+坏结局？
+> CONTEXT: Map063/events/89/pages/0/32/Choice/0
+> CONTEXT: Map048/events/89/pages/0/32/Choice/0
+> CONTEXT: Map048/events/89/pages/1/32/Choice/0
+Kötü son mu ?
+> END STRING
+
+> BEGIN STRING
+顾名思义啊，你并没有走出那栋建筑，你被
+K禁锢起来进行了改造
+> CONTEXT: Map063/events/89/pages/0/34/Dialogue
+Binadan kurtulamadın ve Puro tarafından 
+asimile edildin.
+> END STRING
+
+> BEGIN STRING
+故事到这里戛然而止，一切都结束的很突然
+，是吧
+> CONTEXT: Map063/events/89/pages/0/37/Dialogue
+> CONTEXT: Map048/events/89/pages/0/37/Dialogue
+> CONTEXT: Map048/events/89/pages/1/37/Dialogue
+Hikaye beklenmedik bir şekilde burada son 
+buluyor, değil mi ?
+> END STRING
+
+> BEGIN STRING
+或许让普罗充满信心的话，成败就会不一样
+了呢
+> CONTEXT: Map063/events/89/pages/0/40/Dialogue
+Belki Puro ile daha fazla ilgilenseydin sonuçlar 
+farklı olabilirdi.
+> END STRING
+
+> BEGIN STRING
+下一次，努力和他搞好关系试试吧
+> CONTEXT: Map063/events/89/pages/0/43/Dialogue
+> CONTEXT: Map048/events/89/pages/0/43/Dialogue
+Bir dahaki sefere, onunla daha iyi ilişkiler kur.
+> END STRING
+
+> BEGIN STRING
+嗯，虽这么说，你能玩到这里，也是很不容
+易了呢
+> CONTEXT: Map063/events/89/pages/0/46/Dialogue
+> CONTEXT: Map048/events/89/pages/0/46/Dialogue
+> CONTEXT: Map048/events/89/pages/1/47/Dialogue
+Peki, buna rağmen burada dikilip durman 
+senin için kolay değil.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

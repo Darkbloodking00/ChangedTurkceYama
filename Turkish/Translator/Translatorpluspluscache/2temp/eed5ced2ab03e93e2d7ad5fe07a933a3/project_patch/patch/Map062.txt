@@ -1,0 +1,287 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+台式电脑
+> CONTEXT: Map062/events/6/pages/0/0/Dialogue
+Masaüstü bilgisayar.
+> END STRING
+
+> BEGIN STRING
+要事：
+> CONTEXT: Map062/events/11/pages/0/1/Dialogue
+Önemli not:
+> END STRING
+
+> BEGIN STRING
+关于图书馆那个可疑的胶兽
+> CONTEXT: Map062/events/11/pages/0/4/Dialogue
+Kütüphanedeki şüpheli lateks canavar
+hakkında.
+> END STRING
+
+> BEGIN STRING
+关于发电机的故障问题
+> CONTEXT: Map062/events/11/pages/0/7/Dialogue
+Jeneratör hatası hakkında.
+> END STRING
+
+> BEGIN STRING
+关于漏水
+> CONTEXT: Map062/events/11/pages/0/10/Dialogue
+Su sızıntısı hakkında.
+> END STRING
+
+> BEGIN STRING
+关于黑胶的领地扩大，摄像头被掩盖
+> CONTEXT: Map062/events/11/pages/0/13/Dialogue
+Siyah Lateks bölgesinin genişlemesinin
+sonucu bazı kameralar lateksle kaplandı.
+> END STRING
+
+> BEGIN STRING
+关于避难所发来的求助
+> CONTEXT: Map062/events/11/pages/0/16/Dialogue
+Sığınak kötü durumda.
+> END STRING
+
+> BEGIN STRING
+事情永远那么多，不如不做
+> CONTEXT: Map062/events/11/pages/0/19/Dialogue
+Her zaman yapacak çok şey var. Her şeyi
+aynı anda yapmak imkansız.
+> END STRING
+
+> BEGIN STRING
+好烦
+> CONTEXT: Map062/events/11/pages/0/22/Dialogue
+...bu konu canımı çok sıkıyor.
+> END STRING
+
+> BEGIN STRING
+下面的署名是“K”
+> CONTEXT: Map062/events/11/pages/0/25/Dialogue
+"K" harfi ile imzalanmış.
+> END STRING
+
+> BEGIN STRING
+倒在地上的椅子
+> CONTEXT: Map062/events/14/pages/0/0/Dialogue
+> CONTEXT: Map062/events/15/pages/0/0/Dialogue
+> CONTEXT: Map062/events/16/pages/0/0/Dialogue
+> CONTEXT: Map059/events/140/pages/0/0/Dialogue
+> CONTEXT: Map059/events/141/pages/0/0/Dialogue
+> CONTEXT: Map059/events/142/pages/0/0/Dialogue
+> CONTEXT: Map059/events/192/pages/0/0/Dialogue
+> CONTEXT: Map059/events/193/pages/0/0/Dialogue
+> CONTEXT: Map059/events/194/pages/0/0/Dialogue
+> CONTEXT: Map058/events/69/pages/0/0/Dialogue
+> CONTEXT: Map058/events/71/pages/0/0/Dialogue
+> CONTEXT: Map058/events/75/pages/0/0/Dialogue
+Yere düşmüş bir sandalye.
+> END STRING
+
+> BEGIN STRING
+…你没有感到身体不舒服吧
+> CONTEXT: Map062/events/25/pages/0/2/Dialogue
+...Hasta değilsin dimi ?
+> END STRING
+
+> BEGIN STRING
+…太累了就休息一会儿吧
+> CONTEXT: Map062/events/25/pages/0/4/Dialogue
+...Eğer yorulduysan biraz dinlenebiliriz.
+> END STRING
+
+> BEGIN STRING
+…你才刚刚死里逃生，我们不需要那么急
+> CONTEXT: Map062/events/25/pages/0/6/Dialogue
+...Daha yeni ölümden döndün bu kadar
+azimli olmana gerek yok.
+> END STRING
+
+> BEGIN STRING
+…我的话，完全没事的说
+> CONTEXT: Map062/events/25/pages/0/8/Dialogue
+...Benim hakkımda endişelenme.
+> END STRING
+
+> BEGIN STRING
+…出发之前我吃了好多果子
+> CONTEXT: Map062/events/25/pages/0/10/Dialogue
+...Buraya gelmeden önce bir avuç dolusu
+meyve yedim.
+> END STRING
+
+> BEGIN STRING
+…你的脸色有点苍白啊……
+> CONTEXT: Map062/events/25/pages/0/17/Dialogue
+...Yüzün biraz solgun görünüyor...
+> END STRING
+
+> BEGIN STRING
+…真的没问题吧，不需要休息吗？
+> CONTEXT: Map062/events/25/pages/0/19/Dialogue
+...Yorgun olduğunu biliyorum. Dinlenmek
+istersen seni anlarım.
+> END STRING
+
+> BEGIN STRING
+…放心吧，人类
+> CONTEXT: Map062/events/25/pages/0/21/Dialogue
+...Merak etme, İnsan.
+> END STRING
+
+> BEGIN STRING
+…很快，就不必这样担惊受怕了
+> CONTEXT: Map062/events/25/pages/0/23/Dialogue
+...Yakında bütün korkuların son bulacak.
+> END STRING
+
+> BEGIN STRING
+…很快就能出去了
+> CONTEXT: Map062/events/25/pages/0/25/Dialogue
+...Yakında dışarıda olacağız.
+> END STRING
+
+> BEGIN STRING
+…再向下走一段就能出去了吧
+> CONTEXT: Map062/events/25/pages/0/32/Dialogue
+...Yalnızca birazcık daha sabret.
+> END STRING
+
+> BEGIN STRING
+…好激动，说不上来的激动
+> CONTEXT: Map062/events/25/pages/0/34/Dialogue
+...Ne kadar heyecanlı olduğumu
+açıklamaya kelimeler yetersiz.
+> END STRING
+
+> BEGIN STRING
+…没有人类你的话我是你不可能到达这里的
+> CONTEXT: Map062/events/25/pages/0/36/Dialogue
+...Sen olmasaydın buradan kurtulamazdım.
+> END STRING
+
+> BEGIN STRING
+…人类超棒，不愧是优秀的人类
+> CONTEXT: Map062/events/25/pages/0/38/Dialogue
+...İnsanlar harika canlılar.
+> END STRING
+
+> BEGIN STRING
+…感谢人类！
+> CONTEXT: Map062/events/25/pages/0/40/Dialogue
+...Yanımda olduğun için teşekkürler.
+> END STRING
+
+> BEGIN STRING
+…刚才那个穿衣服的家伙没对你做什么过分
+的事情吧！
+> CONTEXT: Map062/events/25/pages/0/47/Dialogue
+...Umarım o önlüklü adam seni
+incitmemiştir.
+> END STRING
+
+> BEGIN STRING
+…我们是不是应该斩草除根……
+> CONTEXT: Map062/events/25/pages/0/50/Dialogue
+...Onu öldü- pardon durdurmalı mıyız ?
+> END STRING
+
+> BEGIN STRING
+…比如把这个门堵死什么的啊？
+> CONTEXT: Map062/events/25/pages/0/52/Dialogue
+...Belki kapıya bir şeyler itikleriz ?
+> END STRING
+
+> BEGIN STRING
+…不过我看他一时半会儿也缓不过来……
+> CONTEXT: Map062/events/25/pages/0/54/Dialogue
+...Bunun da üstesinden geleceğine
+şüphem yok...
+> END STRING
+
+> BEGIN STRING
+…哼，刚才我还特意的踩了一下他的耳朵
+> CONTEXT: Map062/events/25/pages/0/56/Dialogue
+...Daha önce kulağına basmıştım. Hmm...
+> END STRING
+
+> BEGIN STRING
+…我真的很有必要为你找一件衣服了
+> CONTEXT: Map062/events/25/pages/0/65/Dialogue
+...Sana gerçekten kıyafet bulmalıyız.
+> END STRING
+
+> BEGIN STRING
+…你不能光着身子出去
+> CONTEXT: Map062/events/25/pages/0/67/Dialogue
+...Dışarıya çıplak gidemezsin.
+> END STRING
+
+> BEGIN STRING
+…哪里才能找得到衣服呢？……
+> CONTEXT: Map062/events/25/pages/0/69/Dialogue
+...Hmm, kıyafet nerede olur ki ?
+> END STRING
+
+> BEGIN STRING
+…我有个大胆的想法
+> CONTEXT: Map062/events/25/pages/0/73/Dialogue
+...Aklıma süper bir fikir geldi.
+> END STRING
+
+> BEGIN STRING
+…但是之后再说吧
+> CONTEXT: Map062/events/25/pages/0/75/Dialogue
+...Neyse bunu sonra konuşalım.
+> END STRING
+
+> BEGIN STRING
+…你去哪里
+> CONTEXT: Map062/events/26/pages/0/0/Dialogue
+> CONTEXT: Map062/events/27/pages/0/0/Dialogue
+...Nereye gidiyorsun ?
+> END STRING
+
+> BEGIN STRING
+没必要再回去…
+> CONTEXT: Map062/events/26/pages/1/0/Dialogue
+> CONTEXT: Map062/events/27/pages/1/0/Dialogue
+Geriye dönmenin anlamı yok..
+> END STRING
+
+> BEGIN STRING
+空罐头瓶
+> CONTEXT: Map062/events/28/pages/0/0/Dialogue
+> CONTEXT: Map044/events/176/pages/0/0/Dialogue
+> CONTEXT: Map044/events/177/pages/0/0/Dialogue
+> CONTEXT: Map044/events/178/pages/0/0/Dialogue
+> CONTEXT: Map033/events/21/pages/0/0/Dialogue
+> CONTEXT: Map033/events/22/pages/0/0/Dialogue
+> CONTEXT: Map033/events/23/pages/0/0/Dialogue
+Boş konserveler.
+> END STRING
+
+> BEGIN STRING
+大桶纯净水
+> CONTEXT: Map062/events/40/pages/0/0/Dialogue
+> CONTEXT: Map062/events/41/pages/0/0/Dialogue
+> CONTEXT: Map062/events/42/pages/0/0/Dialogue
+Bir varil saf su.
+> END STRING
+
+> BEGIN STRING
+大箱的罐头食品
+> CONTEXT: Map062/events/43/pages/0/0/Dialogue
+> CONTEXT: Map062/events/44/pages/0/0/Dialogue
+> CONTEXT: Map062/events/45/pages/0/0/Dialogue
+> CONTEXT: Map062/events/46/pages/0/0/Dialogue
+> CONTEXT: Map062/events/49/pages/0/0/Dialogue
+> CONTEXT: Map062/events/50/pages/0/0/Dialogue
+Büyük bir kutu kavanoz yemek.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

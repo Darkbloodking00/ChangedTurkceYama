@@ -1,0 +1,187 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+空的罐子
+> CONTEXT: Map010/events/2/pages/0/0/Dialogue
+> CONTEXT: Map010/events/40/pages/0/0/Dialogue
+> CONTEXT: Map010/events/41/pages/0/0/Dialogue
+> CONTEXT: Map010/events/42/pages/0/0/Dialogue
+> CONTEXT: Map010/events/112/pages/0/0/Dialogue
+> CONTEXT: Map010/events/113/pages/0/0/Dialogue
+> CONTEXT: Map010/events/159/pages/0/0/Dialogue
+> CONTEXT: Map010/events/167/pages/0/0/Dialogue
+> CONTEXT: Map010/events/168/pages/0/0/Dialogue
+Boş bir kavanoz.
+> END STRING
+
+> BEGIN STRING
+在得知这种椅子的可伸缩气泵可能会致人死亡之后你便
+再也没有坐过这个
+> CONTEXT: Map010/events/5/pages/0/0/Dialogue
+Bu sandalyenin ayarlanabilir hava pompasının
+ölümüne sebep olabileceğini öğrendiğin zaman,
+bir daha üstünde oturmak istemedin
+> END STRING
+
+> BEGIN STRING
+很新颖的电脑，主机不知道去哪了
+> CONTEXT: Map010/events/9/pages/0/1/Dialogue
+Yeni bir bilgisayar. Şimdilik ihtiyacın yok.
+> END STRING
+
+> BEGIN STRING
+冒着风险只是为了来看一眼椅子吗？
+> CONTEXT: Map010/events/18/pages/0/0/Dialogue
+Sandalyelerle ilişkili kazalar ilginç bir şekilde yüksek.
+Senin de sandalyeler konusunda çok iyi anıların olduğu
+söylenemez.
+> END STRING
+
+> BEGIN STRING
+现在没空把这个扶正了
+> CONTEXT: Map010/events/19/pages/0/0/Dialogue
+> CONTEXT: Map010/events/50/pages/0/0/Dialogue
+> CONTEXT: Map010/events/76/pages/0/0/Dialogue
+Düzeltmek için zaman yok.
+> END STRING
+
+> BEGIN STRING
+黄书，内容非常绿色
+> CONTEXT: Map010/events/31/pages/0/0/Dialogue
+He türlü yardıma açıksın ama böyle bir
+yardım değil...
+> END STRING
+
+> BEGIN STRING
+很明显，这个显示屏不会播放电视节目
+> CONTEXT: Map010/events/34/pages/0/0/Dialogue
+Bunda televizyon izleyebileceğini sanmıyorum...
+> END STRING
+
+> BEGIN STRING
+写着看似专业实则潦草的字
+> CONTEXT: Map010/events/45/pages/0/0/Dialogue
+> CONTEXT: Map010/events/93/pages/0/0/Dialogue
+> CONTEXT: Map010/events/174/pages/0/0/Dialogue
+Profesyonelce görünen kelimeler ve karalamalarla dolu.
+> END STRING
+
+> BEGIN STRING
+用防尘布盖起来的器械
+> CONTEXT: Map010/events/79/pages/0/0/Dialogue
+> CONTEXT: Map010/events/92/pages/0/0/Dialogue
+> CONTEXT: Map010/events/156/pages/0/0/Dialogue
+> CONTEXT: Map010/events/158/pages/0/0/Dialogue
+Toz geçirmez bir kumaşla kaplanmış bir aygıt.
+> END STRING
+
+> BEGIN STRING
+黄书
+> CONTEXT: Map010/events/80/pages/0/0/Dialogue
+Kişisel gelişim kitabı.
+> END STRING
+
+> BEGIN STRING
+内容非常绿色
+> CONTEXT: Map010/events/80/pages/0/2/Dialogue
+Her türlü yardıma açıksın ama böyle bir
+yardıma değil...
+> END STRING
+
+> BEGIN STRING
+揉的这么皱的纸上能有什么线索呢？
+> CONTEXT: Map010/events/94/pages/0/0/Dialogue
+Buruşmuş bir kağıt parçasında nasıl bir ipucu bulmayı
+bekliyorsun ?
+> END STRING
+
+> BEGIN STRING
+没电了的扫地机器人
+> CONTEXT: Map010/events/97/pages/0/0/Dialogue
+Bozuk bir temizlik robotu.
+> END STRING
+
+> BEGIN STRING
+那个…那个是……
+> CONTEXT: Map010/events/127/pages/0/5/Dialogue
+Bir saniye, bu da...
+> END STRING
+
+> BEGIN STRING
+他们好像还没发现你……
+> CONTEXT: Map010/events/127/pages/0/8/Dialogue
+Seni henüz fark etmediler...
+> END STRING
+
+> BEGIN STRING
+悄悄地溜过去…或许可行……
+> CONTEXT: Map010/events/127/pages/0/10/Dialogue
+Gizlice etraflarından dolan...
+> END STRING
+
+> BEGIN STRING
+现在不想坐一会儿
+> CONTEXT: Map010/events/151/pages/0/0/Dialogue
+Oturmak istemiyorsun.
+> END STRING
+
+> BEGIN STRING
+真的很没意思的试管
+> CONTEXT: Map010/events/152/pages/0/0/Dialogue
+Çok sıkıcı bir deney tüpü.
+> END STRING
+
+> BEGIN STRING
+这些黑色的的胶体生物无法组成透明的晶状体，也无法
+模拟正常生物的视觉系统
+> CONTEXT: Map010/events/154/pages/0/1/Dialogue
+Bu siyah lateks yaratıkların göz mercekleri yok.
+Bu yüzden çoğu hayvanın gördüğü şekilde
+göremiyorlar.
+> END STRING
+
+> BEGIN STRING
+他们的视力来自于动态捕捉，行动大都靠听力，他们不
+会对静止的东西做出反应
+> CONTEXT: Map010/events/154/pages/0/5/Dialogue
+Görme yetenekleri hareketli nesnelerle birlikte işitsel
+duyularından gelen sinyallerle oluşuyor. Yani hareketsiz
+şeyleri göremezler.
+> END STRING
+
+> BEGIN STRING
+然而他们近期体现出的高度智慧使我惊讶极了
+> CONTEXT: Map010/events/154/pages/0/9/Dialogue
+Ancak en güncel araştırmalar oldukça zeki olduklarını
+ortaya çıkarıyor. Bu beni fazlasıyla şaşırttı.
+> END STRING
+
+> BEGIN STRING
+可惜，有空的话，要赶快处理掉这批“失败品”
+> CONTEXT: Map010/events/154/pages/0/12/Dialogue
+Maalesef bu "kusurlu numuneleri" en kısa sürede
+imha etmek zorundayız.
+> END STRING
+
+> BEGIN STRING
+这些样本无法满足我们原本的研究需求
+> CONTEXT: Map010/events/154/pages/0/15/Dialogue
+Bu numuneler araştırma hedeflerimiz için tamamen
+gereksiz.
+> END STRING
+
+> BEGIN STRING
+废纸球
+> CONTEXT: Map010/events/160/pages/0/0/Dialogue
+Kırışık bir kağıt.
+> END STRING
+
+> BEGIN STRING
+皱纸
+> CONTEXT: Map010/events/162/pages/0/0/Dialogue
+Buruşuk bir kağıt.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

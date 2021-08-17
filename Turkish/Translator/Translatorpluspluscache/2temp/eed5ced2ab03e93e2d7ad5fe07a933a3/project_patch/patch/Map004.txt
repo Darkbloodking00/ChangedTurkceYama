@@ -1,0 +1,62 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+合金外壳
+> CONTEXT: Map004/events/1/pages/0/0/Dialogue
+> CONTEXT: Map004/events/9/pages/0/0/Dialogue
+Alaşım kabuk.
+> END STRING
+
+> BEGIN STRING
+如你所见，空了
+> CONTEXT: Map004/events/10/pages/0/0/Dialogue
+Gördüğün gibi, boş.
+> END STRING
+
+> BEGIN STRING
+你想你可以不费吹灰之力的把这的箱子踢开
+> CONTEXT: Map004/events/28/pages/0/0/Dialogue
+> CONTEXT: Map004/events/37/pages/0/0/Dialogue
+> CONTEXT: Map004/events/43/pages/0/0/Dialogue
+> CONTEXT: Map004/events/51/pages/0/0/Dialogue
+> CONTEXT: Map004/events/54/pages/0/0/Dialogue
+> CONTEXT: Map004/events/59/pages/0/0/Dialogue
+> CONTEXT: Map004/events/73/pages/0/0/Dialogue
+Kutuyu hiç efor sarfetmeden tekmeleyebileceğini mi 
+sanıyordun ?
+> END STRING
+
+> BEGIN STRING
+是的，但现在绝对不行
+> CONTEXT: Map004/events/28/pages/0/2/Dialogue
+> CONTEXT: Map004/events/37/pages/0/2/Dialogue
+> CONTEXT: Map004/events/42/pages/0/2/Dialogue
+> CONTEXT: Map004/events/43/pages/0/2/Dialogue
+> CONTEXT: Map004/events/50/pages/0/2/Dialogue
+> CONTEXT: Map004/events/51/pages/0/2/Dialogue
+> CONTEXT: Map004/events/54/pages/0/2/Dialogue
+> CONTEXT: Map004/events/59/pages/0/2/Dialogue
+> CONTEXT: Map004/events/73/pages/0/2/Dialogue
+Evet, ama kesinlikle şimdi olmaz.
+> END STRING
+
+> BEGIN STRING
+我想我可以不费吹灰之力的把这的箱子踢开
+> CONTEXT: Map004/events/42/pages/0/0/Dialogue
+> CONTEXT: Map004/events/50/pages/0/0/Dialogue
+Sanırım kutuyu hiç efor sarfetmeden tekmeleyebilirim.
+> END STRING
+
+> BEGIN STRING
+操作指南：
+                      ↑
+[Shift]  （Space）  ←↓→   F1   F12   Alt+Enter
+> CONTEXT: Map004/events/71/pages/0/1/Dialogue
+KONTROLLER：
+                      ↑
+[Shift]  （Space）  ←↓→   F1   F12   Alt+Enter
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

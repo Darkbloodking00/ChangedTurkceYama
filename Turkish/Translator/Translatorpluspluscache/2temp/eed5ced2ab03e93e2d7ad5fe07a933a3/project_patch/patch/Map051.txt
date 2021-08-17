@@ -1,0 +1,131 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+电力正常运载
+> CONTEXT: Map051/events/1/pages/0/0/Dialogue
+> CONTEXT: Map051/events/6/pages/0/0/Dialogue
+> CONTEXT: Map046/events/69/pages/1/0/Dialogue
+> CONTEXT: Map044/events/137/pages/1/0/Dialogue
+Elektrik dağıtımı iyi durumda.
+> END STRING
+
+> BEGIN STRING
+发电终端，只有操作台露在外面，其他都埋在墙体中
+> CONTEXT: Map051/events/2/pages/0/0/Dialogue
+> CONTEXT: Map051/events/3/pages/0/0/Dialogue
+> CONTEXT: Map051/events/4/pages/0/0/Dialogue
+> CONTEXT: Map051/events/5/pages/0/0/Dialogue
+> CONTEXT: Map046/events/70/pages/0/0/Dialogue
+> CONTEXT: Map046/events/71/pages/0/0/Dialogue
+> CONTEXT: Map044/events/138/pages/0/0/Dialogue
+> CONTEXT: Map044/events/139/pages/0/0/Dialogue
+Elektrik üretim terminali. Konsol
+ön tarafta ama diğer parçaları
+duvarın arkasında.
+> END STRING
+
+> BEGIN STRING
+一堆鱼，或许算不上能够称之为“鱼”
+> CONTEXT: Map051/events/33/pages/0/0/Dialogue
+> CONTEXT: Map051/events/34/pages/0/0/Dialogue
+> CONTEXT: Map051/events/35/pages/0/0/Dialogue
+> CONTEXT: Map051/events/36/pages/0/0/Dialogue
+> CONTEXT: Map051/events/37/pages/0/0/Dialogue
+> CONTEXT: Map051/events/38/pages/0/0/Dialogue
+> CONTEXT: Map051/events/42/pages/0/0/Dialogue
+> CONTEXT: Map051/events/44/pages/0/0/Dialogue
+> CONTEXT: Map051/events/45/pages/0/0/Dialogue
+> CONTEXT: Map051/events/220/pages/0/0/Dialogue
+> CONTEXT: Map051/events/294/pages/0/0/Dialogue
+> CONTEXT: Map051/events/295/pages/0/0/Dialogue
+> CONTEXT: Map051/events/296/pages/0/0/Dialogue
+> CONTEXT: Map051/events/297/pages/0/0/Dialogue
+> CONTEXT: Map051/events/298/pages/0/0/Dialogue
+> CONTEXT: Map051/events/299/pages/0/0/Dialogue
+> CONTEXT: Map051/events/300/pages/0/0/Dialogue
+> CONTEXT: Map051/events/301/pages/0/0/Dialogue
+> CONTEXT: Map050/events/204/pages/0/0/Dialogue
+> CONTEXT: Map050/events/212/pages/0/0/Dialogue
+> CONTEXT: Map050/events/215/pages/0/0/Dialogue
+> CONTEXT: Map047/events/9/pages/0/0/Dialogue
+> CONTEXT: Map047/events/100/pages/0/0/Dialogue
+> CONTEXT: Map047/events/107/pages/0/0/Dialogue
+> CONTEXT: Map047/events/149/pages/0/0/Dialogue
+> CONTEXT: Map047/events/150/pages/0/0/Dialogue
+> CONTEXT: Map047/events/259/pages/0/0/Dialogue
+> CONTEXT: Map047/events/260/pages/0/0/Dialogue
+> CONTEXT: Map046/events/443/pages/0/0/Dialogue
+> CONTEXT: Map046/events/444/pages/0/0/Dialogue
+> CONTEXT: Map046/events/445/pages/0/0/Dialogue
+> CONTEXT: Map046/events/446/pages/0/0/Dialogue
+> CONTEXT: Map046/events/447/pages/0/0/Dialogue
+> CONTEXT: Map046/events/448/pages/0/0/Dialogue
+> CONTEXT: Map046/events/451/pages/0/0/Dialogue
+> CONTEXT: Map046/events/452/pages/0/0/Dialogue
+> CONTEXT: Map046/events/453/pages/0/0/Dialogue
+> CONTEXT: Map046/events/454/pages/0/0/Dialogue
+> CONTEXT: Map046/events/455/pages/0/0/Dialogue
+> CONTEXT: Map046/events/456/pages/0/0/Dialogue
+> CONTEXT: Map046/events/457/pages/0/0/Dialogue
+> CONTEXT: Map046/events/458/pages/0/0/Dialogue
+> CONTEXT: Map046/events/459/pages/0/0/Dialogue
+Bir yığın "balık".
+> END STRING
+
+> BEGIN STRING
+你要庆幸，这个没漏电
+> CONTEXT: Map051/events/41/pages/0/0/Dialogue
+> CONTEXT: Map051/events/46/pages/0/0/Dialogue
+> CONTEXT: Map051/events/47/pages/0/0/Dialogue
+> CONTEXT: Map051/events/58/pages/0/0/Dialogue
+> CONTEXT: Map051/events/71/pages/0/0/Dialogue
+> CONTEXT: Map051/events/73/pages/0/0/Dialogue
+> CONTEXT: Map051/events/74/pages/0/0/Dialogue
+> CONTEXT: Map051/events/271/pages/0/0/Dialogue
+> CONTEXT: Map051/events/272/pages/0/0/Dialogue
+> CONTEXT: Map051/events/273/pages/0/0/Dialogue
+> CONTEXT: Map051/events/274/pages/0/0/Dialogue
+> CONTEXT: Map051/events/279/pages/0/0/Dialogue
+> CONTEXT: Map051/events/280/pages/0/0/Dialogue
+> CONTEXT: Map051/events/281/pages/0/0/Dialogue
+> CONTEXT: Map051/events/282/pages/0/0/Dialogue
+Bu parçanın sızdırmadığına
+şükretmelisin.
+> END STRING
+
+> BEGIN STRING
+太小了，钻不进去
+> CONTEXT: Map051/events/253/pages/0/0/Dialogue
+> CONTEXT: Map051/events/253/pages/1/0/Dialogue
+> CONTEXT: Map050/events/261/pages/0/0/Dialogue
+> CONTEXT: Map044/events/188/pages/0/0/Dialogue
+> CONTEXT: Map037/events/16/pages/0/0/Dialogue
+> CONTEXT: Map033/events/3/pages/0/0/Dialogue
+> CONTEXT: Map032/events/48/pages/0/0/Dialogue
+> CONTEXT: Map032/events/66/pages/0/0/Dialogue
+> CONTEXT: Map032/events/66/pages/1/0/Dialogue
+> CONTEXT: Map030/events/29/pages/0/0/Dialogue
+> CONTEXT: Map029/events/18/pages/0/0/Dialogue
+> CONTEXT: Map023/events/219/pages/0/0/Dialogue
+> CONTEXT: Map011/events/181/pages/0/0/Dialogue
+> CONTEXT: Map011/events/198/pages/0/0/Dialogue
+> CONTEXT: Map015/events/88/pages/0/0/Dialogue
+> CONTEXT: Map010/events/190/pages/0/0/Dialogue
+İçinden geçmek için fazla küçük.
+> END STRING
+
+> BEGIN STRING
+我不清楚我写这个有什么用，但我真的很希望步我后尘
+的幸存者能逃出去。我又饿又渴，这个电力室什么都没
+有，我在向东走，有人看到了吗
+> CONTEXT: Map051/events/269/pages/0/1/Dialogue
+Neden bunu yazdığımı bilmiyorum ama umarım
+benim ayak izlerimi takip eden ve hayatta olan 
+birileri bunu okur. Aç ve susuzum. 
+Bu jeneratör odasında hiçbir şey yok. 
+Doğuya doğru gidiyorum. Bir şey mi gördüm ?
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

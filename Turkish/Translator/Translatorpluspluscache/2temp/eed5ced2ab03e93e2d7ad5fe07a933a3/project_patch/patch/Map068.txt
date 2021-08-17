@@ -1,0 +1,61 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+空舱室
+> CONTEXT: Map068/events/1/pages/0/0/Dialogue
+Boş kapsül.
+> END STRING
+
+> BEGIN STRING
+大型显微镜
+> CONTEXT: Map068/events/10/pages/0/1/Dialogue
+Büyük bir mikroskop.
+> END STRING
+
+> BEGIN STRING
+不明液体
+> CONTEXT: Map068/events/11/pages/0/1/Dialogue
+Gizemli bir sıvı.
+> END STRING
+
+> BEGIN STRING
+看起来挺干净的培养皿
+> CONTEXT: Map068/events/17/pages/0/1/Dialogue
+Bir besin agarı. Çok temiz görünüyor.
+> END STRING
+
+> BEGIN STRING
+坐标系
+2
+1
+0 1 2 3
+> CONTEXT: Map068/events/19/pages/0/1/Dialogue
+Kordinat Sistemi
+2
+1
+0 1 2 3
+> END STRING
+
+> BEGIN STRING
+什么…
+> CONTEXT: Map068/events/19/pages/0/7/Dialogue
+Ne...?
+> END STRING
+
+> BEGIN STRING
+话说回来…这些房间的地板上，那些蓝色的格子似乎别
+有用意……
+> CONTEXT: Map068/events/19/pages/0/9/Dialogue
+Bu arada...zeminde yer alan fayansların
+hepsi her odada aynı değil.
+> END STRING
+
+> BEGIN STRING
+地板上刻了一个“8”
+> CONTEXT: Map068/events/21/pages/0/0/Dialogue
+"8" rakamı zemine kazınmış.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

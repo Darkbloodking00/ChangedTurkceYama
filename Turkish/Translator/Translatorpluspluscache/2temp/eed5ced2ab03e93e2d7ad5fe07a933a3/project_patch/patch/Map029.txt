@@ -1,0 +1,32 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+令人熟悉的活性胶液
+> CONTEXT: Map029/events/9/pages/0/0/Dialogue
+> CONTEXT: Map009/events/21/pages/0/0/Dialogue
+Sıradan canlı lateks.
+> END STRING
+
+> BEGIN STRING
+指引
+> CONTEXT: Map029/events/13/pages/0/0/Dialogue
+> CONTEXT: Map029/events/14/pages/0/0/Dialogue
+> CONTEXT: Map029/events/15/pages/0/0/Dialogue
+Rehber.
+> END STRING
+
+> BEGIN STRING
+有没有什么办法能够叫醒那只狐狸呢……
+> CONTEXT: Map029/events/16/pages/0/2/Dialogue
+Bu tilkiyi uyandırmanın bir yolu var mı...?
+> END STRING
+
+> BEGIN STRING
+狐狸身旁的那个窄窄通道是…？
+> CONTEXT: Map029/events/16/pages/0/4/Dialogue
+Tilkinin altındaki dar geçit mi...?
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

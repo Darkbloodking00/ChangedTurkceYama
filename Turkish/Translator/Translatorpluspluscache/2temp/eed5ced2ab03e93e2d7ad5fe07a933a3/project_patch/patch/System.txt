@@ -1,0 +1,193 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+新的开始
+> CONTEXT: System/terms/new_game/
+YENI HAYAT
+> END STRING
+
+> BEGIN STRING
+武器 2
+> CONTEXT: System/terms/weapon2/
+SILAH 2
+> END STRING
+
+> BEGIN STRING
+敏捷性
+> CONTEXT: System/terms/agi/
+ÇEVIKLIK
+> END STRING
+
+> BEGIN STRING
+Lv
+> CONTEXT: System/terms/level_a/
+Lv
+> END STRING
+
+> BEGIN STRING
+存档
+> CONTEXT: System/terms/save/
+KAYIT
+> END STRING
+
+> BEGIN STRING
+头
+> CONTEXT: System/terms/armor2/
+KASK
+> END STRING
+
+> BEGIN STRING
+OUT
+> CONTEXT: System/terms/to_title/
+Out
+> END STRING
+
+> BEGIN STRING
+防御
+> CONTEXT: System/terms/guard/
+KORUMA
+> END STRING
+
+> BEGIN STRING
+MP
+> CONTEXT: System/terms/mp/
+> CONTEXT: System/terms/mp_a/
+MP
+> END STRING
+
+> BEGIN STRING
+G
+> CONTEXT: System/terms/gold/
+G
+> END STRING
+
+> BEGIN STRING
+逃跑
+> CONTEXT: System/terms/escape/
+KAÇ
+> END STRING
+
+> BEGIN STRING
+武器 1
+> CONTEXT: System/terms/weapon1/
+SILAH 1
+> END STRING
+
+> BEGIN STRING
+精神力
+> CONTEXT: System/terms/spi/
+PSİŞİK
+> END STRING
+
+> BEGIN STRING
+状态
+> CONTEXT: System/terms/status/
+DURUM
+> END STRING
+
+> BEGIN STRING
+盾
+> CONTEXT: System/terms/armor1/
+ZIRH
+> END STRING
+
+> BEGIN STRING
+离开游戏
+> CONTEXT: System/terms/shutdown/
+PES ET
+> END STRING
+
+> BEGIN STRING
+特技
+> CONTEXT: System/terms/skill/
+YETENEK
+> END STRING
+
+> BEGIN STRING
+HP
+> CONTEXT: System/terms/hp_a/
+> CONTEXT: System/terms/hp/
+HP
+> END STRING
+
+> BEGIN STRING
+等级
+> CONTEXT: System/terms/level/
+SEVİYE
+> END STRING
+
+> BEGIN STRING
+战斗
+> CONTEXT: System/terms/fight/
+DÖVÜŞ
+> END STRING
+
+> BEGIN STRING
+饰品
+> CONTEXT: System/terms/armor4/
+AKSESUAR
+> END STRING
+
+> BEGIN STRING
+防御力
+> CONTEXT: System/terms/def/
+SAVUNMA
+> END STRING
+
+> BEGIN STRING
+装备
+> CONTEXT: System/terms/equip/
+DONAN
+> END STRING
+
+> BEGIN STRING
+武器
+> CONTEXT: System/terms/weapon/
+SILAHLAR
+> END STRING
+
+> BEGIN STRING
+继续冒险
+> CONTEXT: System/terms/continue/
+DEVAM ET
+> END STRING
+
+> BEGIN STRING
+攻击
+> CONTEXT: System/terms/attack/
+SALDIR
+> END STRING
+
+> BEGIN STRING
+游戏结束
+> CONTEXT: System/terms/game_end/
+OYUN BITTI
+> END STRING
+
+> BEGIN STRING
+身体
+> CONTEXT: System/terms/armor3/
+GÖĞÜSLÜK
+> END STRING
+
+> BEGIN STRING
+攻击力
+> CONTEXT: System/terms/atk/
+SALDIRI GÜCÜ
+> END STRING
+
+> BEGIN STRING
+CANCEL
+> CONTEXT: System/terms/cancel/
+CANCEL
+> END STRING
+
+> BEGIN STRING
+物品
+> CONTEXT: System/terms/item/
+EŞYA
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

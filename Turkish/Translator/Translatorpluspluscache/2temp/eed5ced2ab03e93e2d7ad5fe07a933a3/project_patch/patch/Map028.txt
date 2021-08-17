@@ -1,0 +1,73 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+普罗的自画像
+> CONTEXT: Map028/events/2/pages/0/0/Dialogue
+> CONTEXT: Map026/events/6/pages/0/0/Dialogue
+> CONTEXT: Map026/events/8/pages/0/0/Dialogue
+> CONTEXT: Map026/events/9/pages/0/0/Dialogue
+Puro'nun kendini tasviri.
+> END STRING
+
+> BEGIN STRING
+后面的墙壁怪怪的……
+> CONTEXT: Map028/events/2/pages/0/2/Dialogue
+Duvarın arkasında garip bir şey var...
+> END STRING
+
+> BEGIN STRING
+那个机器有点奇怪…
+> CONTEXT: Map028/events/4/pages/0/0/Dialogue
+Bu makine biraz tuhaf...
+> END STRING
+
+> BEGIN STRING
+书架
+> CONTEXT: Map028/events/14/pages/0/0/Dialogue
+> CONTEXT: Map028/events/15/pages/0/0/Dialogue
+> CONTEXT: Map028/events/16/pages/0/0/Dialogue
+> CONTEXT: Map028/events/17/pages/0/0/Dialogue
+> CONTEXT: Map028/events/18/pages/0/0/Dialogue
+> CONTEXT: Map028/events/19/pages/0/0/Dialogue
+Kitaplık.
+> END STRING
+
+> BEGIN STRING
+一堆……算了，你根本就不关心这是什么书
+> CONTEXT: Map028/events/20/pages/0/0/Dialogue
+> CONTEXT: Map028/events/21/pages/0/0/Dialogue
+> CONTEXT: Map028/events/22/pages/0/0/Dialogue
+> CONTEXT: Map028/events/43/pages/0/0/Dialogue
+> CONTEXT: Map028/events/44/pages/0/0/Dialogue
+> CONTEXT: Map028/events/45/pages/0/0/Dialogue
+> CONTEXT: Map026/events/28/pages/0/0/Dialogue
+> CONTEXT: Map026/events/29/pages/0/0/Dialogue
+> CONTEXT: Map026/events/30/pages/0/0/Dialogue
+Bir yığın...neyse boşver hangi
+kitap olduğu umrunda değil.
+> END STRING
+
+> BEGIN STRING
+不要彩那个，会吧他弄星
+> CONTEXT: Map028/events/39/pages/0/1/Dialogue
+Yerdeki lateks damlacıklarına dokunma.
+Onları istemeden uyandırabilirsin
+> END STRING
+
+> BEGIN STRING
+看上去是普罗写的…
+> CONTEXT: Map028/events/39/pages/0/4/Dialogue
+Bunu Puro yazmış gibi görünüyor...
+> END STRING
+
+> BEGIN STRING
+图画的草稿
+> CONTEXT: Map028/events/50/pages/0/0/Dialogue
+> CONTEXT: Map028/events/51/pages/0/0/Dialogue
+> CONTEXT: Map028/events/52/pages/0/0/Dialogue
+Çizim taslağı.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

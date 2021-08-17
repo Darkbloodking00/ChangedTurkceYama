@@ -1,0 +1,536 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+你醒了啊
+> CONTEXT: Map058/events/1/pages/0/12/Dialogue
+Uyanmışsın.
+> END STRING
+
+> BEGIN STRING
+我还以为睡了五年的人应该不会再需要什么
+睡眠的呢
+> CONTEXT: Map058/events/1/pages/0/14/Dialogue
+Beş yıl uyku çekmiş birinin, hala bu kadar 
+uykucu olabileceği aklıma gelmemişti.
+> END STRING
+
+> BEGIN STRING
+因为这一切事发突然
+> CONTEXT: Map058/events/1/pages/0/18/Dialogue
+Çünkü her şey aynı anda birden üzerime 
+geldi.
+> END STRING
+
+> BEGIN STRING
+我暂时也没想出什么更好的办法
+> CONTEXT: Map058/events/1/pages/0/20/Dialogue
+Seninle başaçıkmamın başka bir yolu yoktu.
+> END STRING
+
+> BEGIN STRING
+只好就这样子把你抓起来了
+> CONTEXT: Map058/events/1/pages/0/22/Dialogue
+Seninle böyle yüzleşmek zorundaydım.
+> END STRING
+
+> BEGIN STRING
+结果连个安置你的地方都没有
+> CONTEXT: Map058/events/1/pages/0/24/Dialogue
+Ve sonuç olarak seni tıkabileceğim başka
+bir yer yoktu.
+> END STRING
+
+> BEGIN STRING
+所以就委屈你
+> CONTEXT: Map058/events/1/pages/0/26/Dialogue
+Buraya gelmiş olman bile bir sorun.
+> END STRING
+
+> BEGIN STRING
+在这待一会儿吧
+> CONTEXT: Map058/events/1/pages/0/28/Dialogue
+Sadece burada bir süre bekle.
+> END STRING
+
+> BEGIN STRING
+黑色次品样本是你的朋友吧
+> CONTEXT: Map058/events/1/pages/0/31/Dialogue
+O siyah kusurlu numune senin arkadaşın mı ?
+> END STRING
+
+> BEGIN STRING
+他似乎挺聪明的
+> CONTEXT: Map058/events/1/pages/0/33/Dialogue
+Gayet akıllı görünüyor.
+> END STRING
+
+> BEGIN STRING
+你昏倒后一直在撞门
+> CONTEXT: Map058/events/1/pages/0/35/Dialogue
+Sen bayıldıktan sonra kapıyı tekmelemeye
+başladı.
+> END STRING
+
+> BEGIN STRING
+估计现在也在想方设法的进来吧
+> CONTEXT: Map058/events/1/pages/0/37/Dialogue
+Şimdiye kadar kapıyı kırıp içiriye girdiğini
+var sayıyorum.
+> END STRING
+
+> BEGIN STRING
+待会儿我会亲手处理他的
+> CONTEXT: Map058/events/1/pages/0/39/Dialogue
+Onunla daha sonra kendi başıma ilgileneceğim.
+> END STRING
+
+> BEGIN STRING
+别怪我啊
+> CONTEXT: Map058/events/1/pages/0/41/Dialogue
+Bunun için benden nefret etme.
+> END STRING
+
+> BEGIN STRING
+话说回来
+> CONTEXT: Map058/events/1/pages/0/44/Dialogue
+Bu arada.
+> END STRING
+
+> BEGIN STRING
+那种失败的样本居然进化出了拥有极度似人
+的高智慧个体
+> CONTEXT: Map058/events/1/pages/0/46/Dialogue
+O kusurlu numune evrimleşip, insanlar gibi 
+yüksek zekalı bir birey haline gelmiş.
+> END STRING
+
+> BEGIN STRING
+究竟是大失败还是大成功呢
+> CONTEXT: Map058/events/1/pages/0/49/Dialogue
+Buna tam bir fiyasko yoksa büyük bir başarı
+mı dersin ?
+> END STRING
+
+> BEGIN STRING
+你再怎么努力也是敲不碎的
+> CONTEXT: Map058/events/1/pages/0/66/Dialogue
+Ne kadar denerse dene bu camı kıramazsın.
+> END STRING
+
+> BEGIN STRING
+这玻璃经过无数样本的打砸
+> CONTEXT: Map058/events/1/pages/0/68/Dialogue
+Bu cam sayısız numunenin darbesine dayandı.
+> END STRING
+
+> BEGIN STRING
+无懈可击
+> CONTEXT: Map058/events/1/pages/0/70/Dialogue
+Bu kırılmaz cam.
+> END STRING
+
+> BEGIN STRING
+你一定很疑惑我为什么要这么做对吧
+> CONTEXT: Map058/events/1/pages/0/73/Dialogue
+Neden bütün bunları yaptığımı 
+merak ediyorsundur, değil mi ?
+> END STRING
+
+> BEGIN STRING
+并不是所有人都在那次大瘟疫中死掉
+> CONTEXT: Map058/events/1/pages/0/76/Dialogue
+Büyük salgında herkes ölmedi.
+> END STRING
+
+> BEGIN STRING
+那些人类社会的精英阶层人士其实早已在病
+毒传播的初期聚在一起
+> CONTEXT: Map058/events/1/pages/0/78/Dialogue
+Elit kesim pandeminin erken zamanlarında
+bir araya toplandılar.
+> END STRING
+
+> BEGIN STRING
+他们出资建设了避难所
+> CONTEXT: Map058/events/1/pages/0/81/Dialogue
+Bir sığınak inşaatına fon yardımı yaptılar.
+> END STRING
+
+> BEGIN STRING
+而且仁慈的资助了这所研究所里的另类治疗
+研究
+> CONTEXT: Map058/events/1/pages/0/83/Dialogue
+Ayrıca burada bulunan araştırma tesisimize
+de alternatif tedavi yöntemleri için fon
+yardımı yaptılar.
+> END STRING
+
+> BEGIN STRING
+在末日只有优秀的人才值得活下去
+> CONTEXT: Map058/events/1/pages/0/86/Dialogue
+Yalnızca o elitler hayatta kaldı.
+> END STRING
+
+> BEGIN STRING
+精英们在避难所等待着
+> CONTEXT: Map058/events/1/pages/0/88/Dialogue
+Şimdi insanlığın son sığınağında bekliyorlar.
+> END STRING
+
+> BEGIN STRING
+时间过得很快啊
+> CONTEXT: Map058/events/1/pages/0/91/Dialogue
+Zaman su gibi geçiyor.
+> END STRING
+
+> BEGIN STRING
+仿佛睡一觉便有五年过去了
+> CONTEXT: Map058/events/1/pages/0/93/Dialogue
+Beş yıl boyunca uyudun.
+> END STRING
+
+> BEGIN STRING
+那种病毒终于差不多已经销声匿迹
+> CONTEXT: Map058/events/1/pages/0/95/Dialogue
+Virüsün kökü neredeyse kurudu.
+> END STRING
+
+> BEGIN STRING
+我们认为现在地上世界已经恢复到可以居住
+的状态了
+> CONTEXT: Map058/events/1/pages/0/97/Dialogue
+Dünyanın kendini iyileştirerek tekrar yaşanabilir
+bir yer haline gelmeye başladığına inanıyorum.
+> END STRING
+
+> BEGIN STRING
+由幸存下来的人类精英创造的全新文明世界
+将会比之前更加辉煌
+> CONTEXT: Map058/events/1/pages/0/100/Dialogue
+Hayatta kalan elit kesimden kurulan yepyeni
+bir medeniyet harika olacak.
+> END STRING
+
+> BEGIN STRING
+能见证这些将会是莫大的荣幸呢
+> CONTEXT: Map058/events/1/pages/0/103/Dialogue
+Böyle bir şeye şahitlik edebilmek bir onurdur.
+> END STRING
+
+> BEGIN STRING
+然而
+> CONTEXT: Map058/events/1/pages/0/105/Dialogue
+ANCAK
+> END STRING
+
+> BEGIN STRING
+你出现了
+> CONTEXT: Map058/events/1/pages/0/108/Dialogue
+Daha sonra sen geldin.
+> END STRING
+
+> BEGIN STRING
+我在那次暴动中偷偷地给自己注射了新式的
+样本
+> CONTEXT: Map058/events/1/pages/0/111/Dialogue
+En yeni araştırmalarımızın bir sonucu olan
+numuneyi kendime enjekte ettim.
+> END STRING
+
+> BEGIN STRING
+虽然我变成了这个满身毛的样子
+> CONTEXT: Map058/events/1/pages/0/114/Dialogue
+Furry görünüşümü bir kenara bırakırsak...
+> END STRING
+
+> BEGIN STRING
+但我活了下去
+> CONTEXT: Map058/events/1/pages/0/116/Dialogue
+gayet aklım yerinde ve hayattayım.
+> END STRING
+
+> BEGIN STRING
+并在五年中一直和避难所保持着联系
+> CONTEXT: Map058/events/1/pages/0/118/Dialogue
+Ve bu beş yıl boyunca sığınakla olan iletişimimi
+koparmadım.
+> END STRING
+
+> BEGIN STRING
+今天也在为了新的人类社会建设而努力着
+> CONTEXT: Map058/events/1/pages/0/120/Dialogue
+Bugün yeni bir medeniyetin kuruluşu için
+uğraşıyoruz.
+> END STRING
+
+> BEGIN STRING
+几个小时前因为水锈蚀了电缆造成了停电
+> CONTEXT: Map058/events/1/pages/0/123/Dialogue
+Ancak, birkaç saat önce paslı kablolar
+yüzünden elektrikler kesildi.
+> END STRING
+
+> BEGIN STRING
+舱室内的你被强制唤醒
+> CONTEXT: Map058/events/1/pages/0/125/Dialogue
+Kapsülünden zorla uyandırıldın.
+> END STRING
+
+> BEGIN STRING
+你在瘟疫大爆发之前就被锁在那个舱室里了
+> CONTEXT: Map058/events/1/pages/0/127/Dialogue
+Salgının başından beri o kapsülün içindeydin.
+> END STRING
+
+> BEGIN STRING
+没有经过身体检测和其他任何测试
+> CONTEXT: Map058/events/1/pages/0/129/Dialogue
+Hiçbir tıbbi test yapılmadan seni oraya tıktılar.
+> END STRING
+
+> BEGIN STRING
+暴动之后你就一直睡在那里直到现在
+> CONTEXT: Map058/events/1/pages/0/131/Dialogue
+Grevden sonra orada sakince kaderine terk
+edilmiş bekliyordun.
+> END STRING
+
+> BEGIN STRING
+说到这里
+> CONTEXT: Map058/events/1/pages/0/134/Dialogue
+Neyse işte bu kadar.
+> END STRING
+
+> BEGIN STRING
+差不多该告诉你这一切的原因了
+> CONTEXT: Map058/events/1/pages/0/136/Dialogue
+Sana şimdi beni bütün bunları yapmaya iten
+nedeni söyleme zamanı geldi.
+> END STRING
+
+> BEGIN STRING
+我这么做全部都是因为
+> CONTEXT: Map058/events/1/pages/0/138/Dialogue
+Çünkü...
+> END STRING
+
+> BEGIN STRING
+我并不知道你是否携带了那种病毒
+> CONTEXT: Map058/events/1/pages/0/141/Dialogue
+senin virüsü taşıyıp taşımadığını bilmiyorum.
+> END STRING
+
+> BEGIN STRING
+那次暴动顺带着把所有的检验设备一并销毁
+了
+> CONTEXT: Map058/events/1/pages/0/146/Dialogue
+Teşis için kullandığımız bütün aletler grev
+sırasında parçalandı.
+> END STRING
+
+> BEGIN STRING
+检测你是否是携带者变成了不可能的事情
+> CONTEXT: Map058/events/1/pages/0/149/Dialogue
+Enfekte olup olmadığını anlamanın bir yolu
+yok.
+> END STRING
+
+> BEGIN STRING
+若我就这样子放任一个潜在病毒携带者到外
+面
+> CONTEXT: Map058/events/1/pages/0/151/Dialogue
+Eğer gitmene izin verirsem, bu potansiyel bir
+taşıyıcıyı dünyaya salmak olur.
+> END STRING
+
+> BEGIN STRING
+一旦让那快要消逝的病毒死灰复燃
+> CONTEXT: Map058/events/1/pages/0/154/Dialogue
+Bir zamanlar yok olmuş bir virüs tekrardan
+canlanabilir ve...
+> END STRING
+
+> BEGIN STRING
+并且将我们最后的那批希望之星感染了
+> CONTEXT: Map058/events/1/pages/0/156/Dialogue
+son umudumuzu da söndürebilir.
+> END STRING
+
+> BEGIN STRING
+那一切就全部都完了
+> CONTEXT: Map058/events/1/pages/0/158/Dialogue
+İnsanlık diye bir şey kalmaz.
+> END STRING
+
+> BEGIN STRING
+怎么能让你这个什么都是不明的人来破坏这
+个计划
+> CONTEXT: Map058/events/1/pages/0/161/Dialogue
+Kendi bencil isteklerin için seni salacak
+değilim.
+> END STRING
+
+> BEGIN STRING
+怎么可能让你这样一个普普通通的小人物只
+是因为想要活下去便葬送了这个文明的希望
+> CONTEXT: Map058/events/1/pages/0/164/Dialogue
+Senin gibi sıradan bir insanın bütün
+umutlarımızı sırf yaşamak için yerin 
+dibine gömmesine müsaade edemem.
+> END STRING
+
+> BEGIN STRING
+你想活着的心我能理解
+> CONTEXT: Map058/events/1/pages/0/168/Dialogue
+Yaşamak istediğini anlıyorum.
+> END STRING
+
+> BEGIN STRING
+我也是为了活着才变成了这个样子
+> CONTEXT: Map058/events/1/pages/0/170/Dialogue
+Ben de sırf yaşamak istediğim için bu biçime
+girdim.
+> END STRING
+
+> BEGIN STRING
+但是可惜
+> CONTEXT: Map058/events/1/pages/0/173/Dialogue
+Ama üzgünüm...
+> END STRING
+
+> BEGIN STRING
+优秀的人才值得活下去
+> CONTEXT: Map058/events/1/pages/0/175/Dialogue
+...senin gibi değersiz birinin yaşamasına izin
+veremem.
+> END STRING
+
+> BEGIN STRING
+没有价值还只会给人添麻烦的家伙
+> CONTEXT: Map058/events/1/pages/0/177/Dialogue
+Eğer işe yaramaz biri başa da bela oluyorsa.
+> END STRING
+
+> BEGIN STRING
+还是消失掉吧
+> CONTEXT: Map058/events/1/pages/0/179/Dialogue
+Ortadan yok olması herkes için daha iyi olur.
+> END STRING
+
+> BEGIN STRING
+为了大义
+> CONTEXT: Map058/events/1/pages/0/186/Dialogue
+Daha büyük bir şey için ufak fedakarlıklar
+yapmak ahlaki olarak iyidir.
+> END STRING
+
+> BEGIN STRING
+为了精英们能够活下去创造更加美好的将来
+> CONTEXT: Map058/events/1/pages/0/188/Dialogue
+Tabii ki elitlerin yaşaması ve daha iyi bir
+gelecek yaratması için...
+> END STRING
+
+> BEGIN STRING
+也为了不让你乱跑
+> CONTEXT: Map058/events/1/pages/0/190/Dialogue
+Bu yüzden gitmene izin veremem.
+> END STRING
+
+> BEGIN STRING
+我有义务把你这个不安定因素彻底封杀
+> CONTEXT: Map058/events/1/pages/0/192/Dialogue
+En iyisi dünyadan tamamen silinmen olurdu.
+> END STRING
+
+> BEGIN STRING
+请你就在这里待着吧
+> CONTEXT: Map058/events/1/pages/0/195/Dialogue
+Lütfen burada bekle.
+> END STRING
+
+> BEGIN STRING
+那我就先走了呢
+> CONTEXT: Map058/events/1/pages/0/198/Dialogue
+Ben artık gidiyorum.
+> END STRING
+
+> BEGIN STRING
+抱歉啊
+> CONTEXT: Map058/events/1/pages/0/200/Dialogue
+Kusura bakma.
+> END STRING
+
+> BEGIN STRING
+要救普罗！
+> CONTEXT: Map058/events/1/pages/0/221/Dialogue
+Puro'yu kurtarman gerek !
+> END STRING
+
+> BEGIN STRING
+地上有个令人在意的踏板
+> CONTEXT: Map058/events/34/pages/0/0/Dialogue
+Karşı tarafta açıkça bir basınç plakası var.
+> END STRING
+
+> BEGIN STRING
+对面有个扫地机器人
+> CONTEXT: Map058/events/35/pages/0/0/Dialogue
+Karşı tarafta bir temizlik robotu var.
+> END STRING
+
+> BEGIN STRING
+呼唤他
+> CONTEXT: Map058/events/35/pages/0/2/Choice/0
+Ona seslen.
+> END STRING
+
+> BEGIN STRING
+什么都不做
+> CONTEXT: Map058/events/35/pages/0/2/Choice/1
+> CONTEXT: Map058/events/42/pages/0/2/Choice/1
+Hiçbir şey yapma.
+> END STRING
+
+> BEGIN STRING
+一架摄像机对着你
+> CONTEXT: Map058/events/42/pages/0/0/Dialogue
+Sana bakan bir kamera.
+> END STRING
+
+> BEGIN STRING
+呼救
+> CONTEXT: Map058/events/42/pages/0/2/Choice/0
+Yardım çağır.
+> END STRING
+
+> BEGIN STRING
+这个电源没有开
+> CONTEXT: Map058/events/42/pages/0/7/Dialogue
+Pili bitmiş.
+> END STRING
+
+> BEGIN STRING
+小箱子
+> CONTEXT: Map058/events/82/pages/0/0/Dialogue
+Küçük kutular.
+> END STRING
+
+> BEGIN STRING
+这个扫地机器人无意间对你行为的模仿触发了地上的一
+个踏板
+> CONTEXT: Map058/events/106/pages/2/5/Dialogue
+Temizlik robotuyla arandaki sıradışı taklit oyunu
+basınç plakasını tetiklemeni sağladı.
+> END STRING
+
+> BEGIN STRING
+两个踏板同时开启的瞬间好像有什么事发生了
+> CONTEXT: Map058/events/106/pages/2/8/Dialogue
+İki plaka da aynı anda tetiklendiğinde bir şey
+açıldı.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

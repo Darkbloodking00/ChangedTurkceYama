@@ -1,0 +1,192 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+这一切，都是命运，病毒也好，末日也好
+> CONTEXT: Map017/events/16/pages/0/1/Dialogue
+Bütün bunlar kaderin bir oyunu.
+Virüs ya da kıyamet fark etmez.
+> END STRING
+
+> BEGIN STRING
+我们大概无法得救，命运不可违抗
+> CONTEXT: Map017/events/16/pages/0/4/Dialogue
+Kurtulamayacağız. Kader değiştirilemez.
+> END STRING
+
+> BEGIN STRING
+但我还是，好想要活下去，怎样都好
+> CONTEXT: Map017/events/16/pages/0/10/Dialogue
+Ama gene de ne olursa olsun 
+yaşamak istiyorum.
+> END STRING
+
+> BEGIN STRING
+想要在这世上，多待一会儿
+> CONTEXT: Map017/events/16/pages/0/13/Dialogue
+Bu dünyada bir hayat sürmek istiyorum.
+> END STRING
+
+> BEGIN STRING
+一块非常不一样的水晶…
+> CONTEXT: Map017/events/224/pages/0/0/Dialogue
+Çok değişik bir kristal...
+> END STRING
+
+> BEGIN STRING
+触碰一下吗？
+> CONTEXT: Map017/events/224/pages/0/2/Dialogue
+Dokunmak istiyor musun ?
+> END STRING
+
+> BEGIN STRING
+你轻轻地用手指擦了擦水晶的棱
+> CONTEXT: Map017/events/224/pages/0/8/Dialogue
+Nazikçe elini kristalin ucunda gezdirdin.
+> END STRING
+
+> BEGIN STRING
+你甚至还没有来得及反应，你手上的血珠就已经顺着这
+个华丽的六面体向下滑落
+> CONTEXT: Map017/events/224/pages/0/11/Dialogue
+Tepki verecek zaman bile bulamadan
+elinden kan damladı.
+> END STRING
+
+> BEGIN STRING
+你害怕的抓起自己受伤的手，但破开的地方刹那间就愈
+合了
+> CONTEXT: Map017/events/224/pages/0/14/Dialogue
+Yaraladığın elini korku içinde çektin ama
+parmağını kanattığın yer çok ağırlaşmıştı.
+> END STRING
+
+> BEGIN STRING
+你正感到奇怪，但随即整只手臂有了更加奇怪的感觉
+> CONTEXT: Map017/events/224/pages/0/19/Dialogue
+Tuhaf hissediyordun ve bütün kolunda
+garip bir his vardı.
+> END STRING
+
+> BEGIN STRING
+你的皮肤变硬变黑并带有规则花纹，看起来像是鱼鳞
+> CONTEXT: Map017/events/224/pages/0/22/Dialogue
+Derin siyahlaşır ve sertleşir. Bedenin balık 
+pulunu andıran desenlerle dolar.
+> END STRING
+
+> BEGIN STRING
+变化迅速的沿着手臂向身体扩散，你紧紧地捏住自己的
+动脉那里，当然，只是徒劳
+> CONTEXT: Map017/events/224/pages/0/24/Dialogue
+Değişim hızlıca kolundan bütün vücuduna
+yayılır. Kolunu tutmaya çalışırsın.
+> END STRING
+
+> BEGIN STRING
+变化很快就占领了你所有原本正常的地方，在你看不到
+的地方，也在发生其他的变化
+> CONTEXT: Map017/events/224/pages/0/28/Dialogue
+Yakında bu şey bütün bedenini ele 
+geçirecekti.
+> END STRING
+
+> BEGIN STRING
+你的嘴巴痛，更准确一点，是下颚骨，你的嘴被奇怪的
+拉长，向前变形，就像动物一样
+> CONTEXT: Map017/events/224/pages/0/31/Dialogue
+Ağzın acımaya başlar. Çene kemiklerin
+hayvanlardaki gibi uzamaya ve
+güçlenmeye başlar.
+> END STRING
+
+> BEGIN STRING
+后背传来撕裂的声音，你发觉自己长出了一对小小的翼，
+你的尾椎被疯狂的拉长，成为一根粗大的、覆盖了和你
+身体一样的黑色鳞片的大尾巴
+> CONTEXT: Map017/events/224/pages/0/35/Dialogue
+Sırtından yırtılma sesleri gelmeye başlar.
+Bir çift küçük kanat geliştirdiğini fark edersin.
+Kuyruk sokumun uzar ve; kalın, siyah ve
+pullu bir kuyruğa dönüşür.
+> END STRING
+
+> BEGIN STRING
+你穿着的裤子完全无法容纳这个新生的肢体，在一声滋
+啦之后变得支离破碎
+> CONTEXT: Map017/events/224/pages/0/39/Dialogue
+Üzerindeki şort bedeninde yaşanan 
+dönüşüme dayanamayarak yırtılır.
+> END STRING
+
+> BEGIN STRING
+翼在生长，变大，你的血液被抽走输进这对新生的翼中
+，这导致你有点缺氧，一阵头昏目眩之后，你睁开眼看
+了看自己漂亮的新身体
+> CONTEXT: Map017/events/224/pages/0/43/Dialogue
+Kanatların daha da büyümeye ve gelişmeye
+başlar. Vücudunda bulunan kan bu kanatlara
+çekilmeye ve onu beslemeye başlar. Oksijen
+yetmezliğinden biraz başın dönmeye başlar.
+Gözlerini açarsın ve yeni bedenine bir göz
+atarsın.
+> END STRING
+
+> BEGIN STRING
+你长出了漂亮的覆盖全身的鳞，有一根粗壮的尾，一对
+翼，头顶还长出了角，尽管变化造成的体力不支还使你
+大口的喘着粗气
+> CONTEXT: Map017/events/224/pages/0/47/Dialogue
+Bütün vücudunu kaplayan tatlı pullar, kuvvetli
+bir kuyruk ve bir çift kanadın olmuştur.
+Ayrıca başının üstünde de boynuzlar vardır.
+Tüm bu değişim seni nefes nefese bırakır.
+> END STRING
+
+> BEGIN STRING
+但，那真的已经不要紧了……
+> CONTEXT: Map017/events/224/pages/0/51/Dialogue
+Ama bütün bu çektiklerine değmiştir...
+> END STRING
+
+> BEGIN STRING
+你身后因为喜悦而啪嗒挥舞的尾已经暴露了一切
+> CONTEXT: Map017/events/224/pages/0/53/Dialogue
+Kuyruğun zevk içinde arkanda sallanır...
+> END STRING
+
+> BEGIN STRING
+是否是因为你喜欢这样的身体呢…
+> CONTEXT: Map017/events/224/pages/0/55/Dialogue
+çünkü bu yeni bedeni beğenmişsindir.
+> END STRING
+
+> BEGIN STRING
+我们创造了怎样的怪物啊！
+> CONTEXT: Map017/events/264/pages/0/1/Dialogue
+Nasıl bir canavar yarattık biz ? !
+> END STRING
+
+> BEGIN STRING
+通过使自己结晶化来诱发突变、进化
+> CONTEXT: Map017/events/264/pages/0/4/Dialogue
+Kristalleri kullanarak DNA'yı mutasyona
+uğratabildik.
+> END STRING
+
+> BEGIN STRING
+然后结晶还可以通过辐射来影响其他人！
+> CONTEXT: Map017/events/264/pages/0/7/Dialogue
+Bu kristaller ayrıca radyasyon yoluyla
+başkalarını da uzaktan etkileyebiliyor.
+> END STRING
+
+> BEGIN STRING
+与这些发光的诱人宝石接触会发生些什么呢？
+> CONTEXT: Map017/events/264/pages/0/10/Dialogue
+Bu parlak, göz alıcı kristallere dokunursan
+ne olur ?
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

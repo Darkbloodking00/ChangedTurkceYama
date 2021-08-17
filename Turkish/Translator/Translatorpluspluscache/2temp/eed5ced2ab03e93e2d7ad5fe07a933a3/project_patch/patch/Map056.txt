@@ -1,0 +1,337 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+树干
+> CONTEXT: Map056/events/127/pages/0/0/Dialogue
+> CONTEXT: Map056/events/150/pages/0/0/Dialogue
+> CONTEXT: Map056/events/165/pages/0/0/Dialogue
+> CONTEXT: Map056/events/166/pages/0/0/Dialogue
+> CONTEXT: Map056/events/167/pages/0/0/Dialogue
+> CONTEXT: Map056/events/168/pages/0/0/Dialogue
+> CONTEXT: Map056/events/199/pages/0/0/Dialogue
+> CONTEXT: Map056/events/216/pages/0/0/Dialogue
+> CONTEXT: Map056/events/239/pages/0/0/Dialogue
+Ağaç gövdesi.
+> END STRING
+
+> BEGIN STRING
+真的不会压折吗……
+> CONTEXT: Map056/events/169/pages/0/0/Dialogue
+> CONTEXT: Map056/events/170/pages/0/0/Dialogue
+> CONTEXT: Map049/events/63/pages/0/0/Dialogue
+Sağlam bir ağaç...
+> END STRING
+
+> BEGIN STRING
+现在不是进这里的时候！
+> CONTEXT: Map056/events/217/pages/2/0/Dialogue
+Buraya girecek zaman değil !
+> END STRING
+
+> BEGIN STRING
+…人类，你知道应该怎么走才能下到最底层
+的吧
+> CONTEXT: Map056/events/241/pages/0/0/Dialogue
+...İnsan, zemin kata nasıl gidileceğini
+biliyor musun ?
+> END STRING
+
+> BEGIN STRING
+…啊？不知道？
+> CONTEXT: Map056/events/241/pages/0/4/Dialogue
+...Aaa, bilmiyor musun ?
+> END STRING
+
+> BEGIN STRING
+…没关系，普罗会陪你到最后的
+> CONTEXT: Map056/events/241/pages/0/8/Dialogue
+...Neyse önemli değil. Puro sana
+eşlik edecek.
+> END STRING
+
+> BEGIN STRING
+…希望白色胶兽们的领地范围到此为止了
+> CONTEXT: Map056/events/241/pages/1/0/Dialogue
+...Umarım beyaz lateks bölgesi burada
+son buluyordur.
+> END STRING
+
+> BEGIN STRING
+…但也不能掉以轻心呢
+> CONTEXT: Map056/events/241/pages/1/2/Dialogue
+...Ama gene de tedbirli olmalısın.
+> END STRING
+
+> BEGIN STRING
+…要小心啊你
+> CONTEXT: Map056/events/241/pages/1/4/Dialogue
+...İnsan, kendine dikkat et.
+> END STRING
+
+> BEGIN STRING
+…有困难了叫我
+> CONTEXT: Map056/events/241/pages/1/6/Dialogue
+...Herhangi bir şekilde başını belaya
+sokarsan, bana seslen.
+> END STRING
+
+> BEGIN STRING
+…如果不是遇到你，我现在应该还在看那本
+百科全书
+> CONTEXT: Map056/events/241/pages/3/3/Dialogue
+...Eğer seninle hiç tanışmamış olsaydım
+şimdi o ansiklopediyi okuyor olurdum.
+> END STRING
+
+> BEGIN STRING
+…很高兴你能陪我……
+> CONTEXT: Map056/events/241/pages/3/7/Dialogue
+...Benim yanımda olduğun için
+mutluyum...
+> END STRING
+
+> BEGIN STRING
+…很高兴你还能听我的话……
+> CONTEXT: Map056/events/241/pages/3/10/Dialogue
+...Beni dinlediğin için mutluyum...
+> END STRING
+
+> BEGIN STRING
+…很高兴你能不嫌弃没用的我……
+> CONTEXT: Map056/events/241/pages/3/13/Dialogue
+...Benim gibi bir şapşalı dışlamadığın
+için mutluyum...
+> END STRING
+
+> BEGIN STRING
+…我明明才刚开始感觉自己有点作用了
+> CONTEXT: Map056/events/241/pages/3/16/Dialogue
+...Daha işe yarar biri olabileceğime
+inanıyordum.
+> END STRING
+
+> BEGIN STRING
+…好想变强！！
+> CONTEXT: Map056/events/241/pages/3/18/Dialogue
+...Umarım daha güçlü olurum ! !
+> END STRING
+
+> BEGIN STRING
+你已经很棒啦
+> CONTEXT: Map056/events/241/pages/3/21/Choice/0
+Zaten çok iyisin.
+> END STRING
+
+> BEGIN STRING
+你会变强的
+> CONTEXT: Map056/events/241/pages/3/21/Choice/1
+Daha güçlü olacaksın.
+> END STRING
+
+> BEGIN STRING
+谢谢你的付出
+> CONTEXT: Map056/events/241/pages/3/21/Choice/2
+Teşekkür ederim.
+> END STRING
+
+> BEGIN STRING
+…有吗…嗯？
+> CONTEXT: Map056/events/241/pages/3/23/Dialogue
+...hiç...aaa ?
+> END STRING
+
+> BEGIN STRING
+…我们才认识几个小时而已诶
+> CONTEXT: Map056/events/241/pages/3/25/Dialogue
+...Tanışalı sadece birkaç saat oldu.
+> END STRING
+
+> BEGIN STRING
+…等等，几个小时而已嘛？！
+> CONTEXT: Map056/events/241/pages/3/27/Dialogue
+...Bekle bir saniye, birkaç saat mi ? !
+> END STRING
+
+> BEGIN STRING
+…虽然只有几小时也很开心啊
+> CONTEXT: Map056/events/241/pages/3/30/Dialogue
+...Birkaç saatlik bir arkadaşlığımız olsa
+dahi benimle olmandan mutluyum.
+> END STRING
+
+> BEGIN STRING
+…感觉我之前的人生都是白活了……
+> CONTEXT: Map056/events/241/pages/3/32/Dialogue
+...Önceki hayatım çok boşmuş gibi
+hissediyorum...
+> END STRING
+
+> BEGIN STRING
+…有人陪伴真开心
+> CONTEXT: Map056/events/241/pages/3/34/Dialogue
+...Dostum olduğun için mutluyum.
+> END STRING
+
+> BEGIN STRING
+…是吗…我也很希望呢
+> CONTEXT: Map056/events/241/pages/3/38/Dialogue
+..Öyle mi ?...Umarım öyledir.
+> END STRING
+
+> BEGIN STRING
+…只可惜这具身躯实在是很弱
+> CONTEXT: Map056/events/241/pages/3/40/Dialogue
+...Bu bedenim çok zayıf.
+> END STRING
+
+> BEGIN STRING
+…真正的变强还是很难的，人类
+> CONTEXT: Map056/events/241/pages/3/42/Dialogue
+..İnsan, güçlü olmak hala benim için zor.
+> END STRING
+
+> BEGIN STRING
+…不过还是可能会变强的吧……
+> CONTEXT: Map056/events/241/pages/3/45/Dialogue
+...Ama güçlü olabilirim...
+> END STRING
+
+> BEGIN STRING
+…喂，会不会啊
+> CONTEXT: Map056/events/241/pages/3/47/Dialogue
+...Hey..olur mu dersin ?
+> END STRING
+
+> BEGIN STRING
+…算啦，就算我再执着于优秀，事实也不会
+改变
+> CONTEXT: Map056/events/241/pages/3/49/Dialogue
+...Unut gitsin. Mükemmelliğe ne kadar
+takıntılı olsam dahi hiçbir şey
+değişmeyecek.
+> END STRING
+
+> BEGIN STRING
+…我说过我不会对你下手，我会遵守承诺
+> CONTEXT: Map056/events/241/pages/3/52/Dialogue
+...Senin bedenini asimile etmeyeceğim.
+Ben bir söz verdim.
+> END STRING
+
+> BEGIN STRING
+…同伴
+> CONTEXT: Map056/events/241/pages/3/54/Dialogue
+...Dostum benim...
+> END STRING
+
+> BEGIN STRING
+…也谢谢你，人类
+> CONTEXT: Map056/events/241/pages/3/60/Dialogue
+...Sana da teşekkürler, İnsan.
+> END STRING
+
+> BEGIN STRING
+…与你同行我很高兴
+> CONTEXT: Map056/events/241/pages/3/62/Dialogue
+...Bana eşlik ettiğin için teşekkür ederim.
+> END STRING
+
+> BEGIN STRING
+…你一路上说了好多谢谢了
+> CONTEXT: Map056/events/241/pages/3/64/Dialogue
+...Birçok defa bana teşekkür ettin.
+> END STRING
+
+> BEGIN STRING
+…开心
+> CONTEXT: Map056/events/241/pages/3/66/Dialogue
+...Bana daha önce kimse teşekkür
+etmemişti.
+> END STRING
+
+> BEGIN STRING
+…能被肯定，尤其是造物主的肯定，开心
+> CONTEXT: Map056/events/241/pages/3/68/Dialogue
+...Ben ne diyeceğimi bilmiyorum.
+> END STRING
+
+> BEGIN STRING
+…人类你自己也很棒的说
+> CONTEXT: Map056/events/241/pages/3/70/Dialogue
+...İnsan, sen harikasın.
+> END STRING
+
+> BEGIN STRING
+…有人陪，真的好开心啊
+> CONTEXT: Map056/events/241/pages/3/73/Dialogue
+...Bir dostum olduğu için çok mutluyum.
+> END STRING
+
+> BEGIN STRING
+…胶兽思考中
+> CONTEXT: Map056/events/241/pages/4/0/Dialogue
+...Düşünüyorum.
+> END STRING
+
+> BEGIN STRING
+…你盯着我看…我会害羞的……
+> CONTEXT: Map056/events/241/pages/4/3/Dialogue
+...Bana öyle bakma..utanıyorum...
+> END STRING
+
+> BEGIN STRING
+…我在想我们以后的事情……
+> CONTEXT: Map056/events/241/pages/4/5/Dialogue
+...Ne yapacağımızı düşünüyorum...
+> END STRING
+
+> BEGIN STRING
+…我们到了地面之后，要分道扬镳么
+> CONTEXT: Map056/events/241/pages/4/7/Dialogue
+...Zemin kata ulaştığımızda ikimiz de
+ayrı yollara mı gideceğiz ?
+> END STRING
+
+> BEGIN STRING
+…和一个怪物生活可不是好想法啊，人类
+> CONTEXT: Map056/events/241/pages/4/10/Dialogue
+...İnsan, bir canavarla yaşamak iyi bir
+fikir olmayabilir.
+> END STRING
+
+> BEGIN STRING
+…嗯？你没有其他可靠的同伴了？
+> CONTEXT: Map056/events/241/pages/4/14/Dialogue
+...Ne ? Güvenebileceğin başka dostun
+yok mu ?
+> END STRING
+
+> BEGIN STRING
+打不开，这道门只能从内打开
+> CONTEXT: Map056/events/282/pages/0/0/Dialogue
+Kapı yalnızca içerden açılıyor.
+> END STRING
+
+> BEGIN STRING
+现在不是进这里的时候！“那个地方”应该更适合躲藏！
+> CONTEXT: Map056/events/282/pages/2/0/Dialogue
+Buraya girecek uygun zaman eğil.
+"Burası" gizlenmek için daha uygun
+bir yer olmalı.
+> END STRING
+
+> BEGIN STRING
+…人类快跑啊！！！
+> CONTEXT: Map056/events/283/pages/0/9/Dialogue
+...İnsan, kaç ! ! !
+> END STRING
+
+> BEGIN STRING
+普罗？得快去看看！！
+> CONTEXT: Map056/events/285/pages/0/6/Dialogue
+Puro ? neredesin ! ! !
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

@@ -1,0 +1,30 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+一棵树，曾经应是个盆栽
+> CONTEXT: Map021/events/62/pages/0/0/Dialogue
+> CONTEXT: Map020/events/7/pages/0/5/Dialogue
+Saksıya koyulmuş ağacın kökleri bir yığın
+yaprağın üzerinde.
+> END STRING
+
+> BEGIN STRING
+盆栽的根扎进了树叶堆中
+> CONTEXT: Map021/events/63/pages/0/0/Dialogue
+> CONTEXT: Map021/events/64/pages/0/0/Dialogue
+> CONTEXT: Map020/events/38/pages/0/0/Dialogue
+> CONTEXT: Map020/events/56/pages/0/0/Dialogue
+> CONTEXT: Map025/events/175/pages/0/0/Dialogue
+> CONTEXT: Map025/events/176/pages/0/0/Dialogue
+Saksıya koyulmuş ağacın kökleri
+yaprakların arasında sıkışmış.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

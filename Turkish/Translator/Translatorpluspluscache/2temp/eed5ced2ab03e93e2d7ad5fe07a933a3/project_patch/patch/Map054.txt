@@ -1,0 +1,121 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+正常运作中
+> CONTEXT: Map054/events/3/pages/0/0/Dialogue
+> CONTEXT: Map054/events/4/pages/0/0/Dialogue
+> CONTEXT: Map054/events/5/pages/0/0/Dialogue
+> CONTEXT: Map053/events/1/pages/0/0/Dialogue
+> CONTEXT: Map053/events/2/pages/0/0/Dialogue
+> CONTEXT: Map053/events/3/pages/0/0/Dialogue
+> CONTEXT: Map053/events/10/pages/0/0/Dialogue
+> CONTEXT: Map053/events/11/pages/0/0/Dialogue
+> CONTEXT: Map053/events/12/pages/0/0/Dialogue
+> CONTEXT: Map053/events/13/pages/0/0/Dialogue
+> CONTEXT: Map053/events/14/pages/0/0/Dialogue
+> CONTEXT: Map053/events/15/pages/0/0/Dialogue
+> CONTEXT: Map053/events/19/pages/0/0/Dialogue
+> CONTEXT: Map053/events/20/pages/0/0/Dialogue
+> CONTEXT: Map053/events/21/pages/0/0/Dialogue
+> CONTEXT: Map053/events/22/pages/0/0/Dialogue
+> CONTEXT: Map053/events/23/pages/0/0/Dialogue
+> CONTEXT: Map053/events/24/pages/0/0/Dialogue
+> CONTEXT: Map053/events/25/pages/0/0/Dialogue
+> CONTEXT: Map053/events/26/pages/0/0/Dialogue
+> CONTEXT: Map053/events/27/pages/0/0/Dialogue
+> CONTEXT: Map051/events/221/pages/0/0/Dialogue
+> CONTEXT: Map051/events/233/pages/0/0/Dialogue
+> CONTEXT: Map051/events/245/pages/0/0/Dialogue
+> CONTEXT: Map051/events/246/pages/0/0/Dialogue
+> CONTEXT: Map051/events/247/pages/0/0/Dialogue
+> CONTEXT: Map051/events/248/pages/0/0/Dialogue
+Sorunsuz çalışıyor.
+> END STRING
+
+> BEGIN STRING
+小纸箱
+> CONTEXT: Map054/events/19/pages/0/0/Dialogue
+> CONTEXT: Map054/events/20/pages/0/0/Dialogue
+> CONTEXT: Map054/events/21/pages/0/0/Dialogue
+> CONTEXT: Map054/events/22/pages/0/0/Dialogue
+> CONTEXT: Map054/events/23/pages/0/0/Dialogue
+> CONTEXT: Map054/events/24/pages/0/0/Dialogue
+> CONTEXT: Map054/events/25/pages/0/0/Dialogue
+> CONTEXT: Map054/events/26/pages/0/0/Dialogue
+Ufak bir karton.
+> END STRING
+
+> BEGIN STRING
+先在这里找找线索，不能白来一趟
+> CONTEXT: Map054/events/29/pages/0/0/Dialogue
+> CONTEXT: Map054/events/30/pages/0/0/Dialogue
+> CONTEXT: Map054/events/31/pages/0/0/Dialogue
+Etrafta ipucu ara. Buraya boşuna gelmedin.
+> END STRING
+
+> BEGIN STRING
+没什么需要操作的了，还是别乱碰的好
+> CONTEXT: Map054/events/35/pages/1/0/Dialogue
+Daha yapacak bir şey kalmadı. Rastgele
+tuşlara basmanın anlamı yok.
+> END STRING
+
+> BEGIN STRING
+有人在监视你？怎么可能……
+> CONTEXT: Map054/events/38/pages/0/0/Dialogue
+> CONTEXT: Map054/events/39/pages/0/0/Dialogue
+Biri seni izliyormuş. Bu nasıl olabilir...?
+> END STRING
+
+> BEGIN STRING
+好无聊好无聊好无聊好无聊好无聊好无聊好无聊好无聊
+好无聊好无聊好无聊好无聊好无聊好无聊好无聊好无聊
+好无聊好无聊好无聊好无聊好无聊好无聊好无聊好无聊
+好无聊好无聊好无聊好无聊好无聊好无聊好无聊好无聊
+> CONTEXT: Map054/events/40/pages/0/1/Dialogue
+> CONTEXT: Map054/events/40/pages/0/7/Dialogue
+> CONTEXT: Map054/events/40/pages/0/13/Dialogue
+Çok Sıkıcı Çok Sıkıcı Çok Sıkıcı Çok Sıkıcı
+Çok Sıkıcı Çok Sıkıcı Çok Sıkıcı Çok Sıkıcı
+Çok Sıkıcı Çok Sıkıcı Çok Sıkıcı Çok Sıkıcı
+Çok Sıkıcı Çok Sıkıcı Çok Sıkıcı Çok Sıkıcı
+> END STRING
+
+> BEGIN STRING
+字迹工整，谁写的……
+> CONTEXT: Map054/events/40/pages/0/18/Dialogue
+El yazısı harika. Kim yazmış bunu...?
+> END STRING
+
+> BEGIN STRING
+是外面的照片，残垣断瓦上生长出了绿色的植物
+> CONTEXT: Map054/events/42/pages/0/0/Dialogue
+Dışarısı...yeşil bitkilerin yıkıntıların
+arasında büyümesi çekilmiş.
+> END STRING
+
+> BEGIN STRING
+其中一张是一个灰色柱状建筑，应该就是你现在所处的
+建筑
+> CONTEXT: Map054/events/42/pages/0/2/Dialogue
+Bir tane fotografta gri bir bina var.
+Bu bina olmalı.
+> END STRING
+
+> BEGIN STRING
+有个白色小身影…但很模糊，他是拍照的人吗
+> CONTEXT: Map054/events/42/pages/0/5/Dialogue
+Ufak beyaz bir figür var...ama
+bulanık. Bu fotografları çeken kişi
+o mu ?
+> END STRING
+
+> BEGIN STRING
+还有其他人活着吗！
+> CONTEXT: Map054/events/42/pages/0/7/Dialogue
+Yaşayan başka biri de mi var ?!
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

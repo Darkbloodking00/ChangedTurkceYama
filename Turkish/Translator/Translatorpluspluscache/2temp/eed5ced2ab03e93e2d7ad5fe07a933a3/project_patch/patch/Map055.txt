@@ -1,0 +1,239 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…人类，我有个计划
+> CONTEXT: Map055/events/4/pages/0/8/Dialogue
+...İnsan, bir fikrim var.
+> END STRING
+
+> BEGIN STRING
+…这回我先走，你不要动，我去引开他们
+> CONTEXT: Map055/events/4/pages/0/10/Dialogue
+...Bu sefer ben önden gideceğim.
+Onları kendime çekeceğim. Bu
+sürede olduğun yerde kal.
+> END STRING
+
+> BEGIN STRING
+…我是黑胶，是他们的天敌，他们应该会优
+先攻击视线中的我
+> CONTEXT: Map055/events/4/pages/0/12/Dialogue
+...Ben onların doğal düşmanıyım.
+İlk önce bana saldırsalar iyi olur.
+> END STRING
+
+> BEGIN STRING
+…等那些白胶安静了你再跟上我，好吗？
+> CONTEXT: Map055/events/4/pages/0/15/Dialogue
+...Etraf sakinleşince benim yanıma
+gel, olur mu ?
+> END STRING
+
+> BEGIN STRING
+…不会有事的啦
+> CONTEXT: Map055/events/4/pages/0/17/Dialogue
+...Beni merak etme.
+> END STRING
+
+> BEGIN STRING
+…如果我无法发挥自己的作用，那我只能拖
+你的后腿
+> CONTEXT: Map055/events/4/pages/0/19/Dialogue
+...İşe yaramasa bile sana zaman
+kazandırmış olacağım.
+> END STRING
+
+> BEGIN STRING
+…我希望自己能帮助到你…为你分担
+> CONTEXT: Map055/events/4/pages/0/22/Dialogue
+...Umarım sana yardımcı olabilirim.
+> END STRING
+
+> BEGIN STRING
+…这才是伙伴，对吧
+> CONTEXT: Map055/events/4/pages/0/24/Dialogue
+...Sonuçta biz arkadaşız, değil mi ?
+> END STRING
+
+> BEGIN STRING
+…给我个机会
+> CONTEXT: Map055/events/4/pages/0/26/Dialogue
+...Bana bir şans ver.
+> END STRING
+
+> BEGIN STRING
+…我要上了！
+> CONTEXT: Map055/events/4/pages/0/29/Dialogue
+...Her şeyi bana bırak !
+> END STRING
+
+> BEGIN STRING
+…为我加油，人类！
+> CONTEXT: Map055/events/4/pages/0/31/Dialogue
+...Bana şans dile, İnsan.
+> END STRING
+
+> BEGIN STRING
+…来啊！来啊你们！你们的天敌在此！
+> CONTEXT: Map055/events/4/pages/0/50/Dialogue
+...Hadi ! Hadi ! Burada doğal
+düşmanınız geziyor !
+> END STRING
+
+> BEGIN STRING
+…人类！过来吧！已经安全啦！
+> CONTEXT: Map055/events/4/pages/0/80/Dialogue
+...İnsan, hadi gel. Burası artık
+güvende.
+> END STRING
+
+> BEGIN STRING
+…什么都交给我吧！
+> CONTEXT: Map055/events/5/pages/0/0/Dialogue
+...Gerisini bana bırak !
+> END STRING
+
+> BEGIN STRING
+…普罗值得信赖！
+> CONTEXT: Map055/events/5/pages/0/2/Dialogue
+...Puro sadıktır !
+> END STRING
+
+> BEGIN STRING
+…刚才我是踮着脚尖跑的，果然快了好多吧
+> CONTEXT: Map055/events/5/pages/0/4/Dialogue
+...Bu sefer parmak uçlarımda yürüdüm.
+Daha hızlıydım, değil mi ?
+> END STRING
+
+> BEGIN STRING
+…我超棒！
+> CONTEXT: Map055/events/5/pages/0/6/Dialogue
+...Muhteşemim !
+> END STRING
+
+> BEGIN STRING
+…先从这里出去吧，别在这儿转悠了
+> CONTEXT: Map055/events/5/pages/1/0/Dialogue
+...Buradan gidelim artık. Etrafta
+başı boş dolaşma.
+> END STRING
+
+> BEGIN STRING
+…人类你刚才…跑哪去了……
+> CONTEXT: Map055/events/5/pages/2/0/Dialogue
+...İnsan, nereye gittin ?
+> END STRING
+
+> BEGIN STRING
+…完…完全无视我了么
+> CONTEXT: Map055/events/5/pages/2/2/Dialogue
+...Buraya kadar mıydı, beni tamamen
+görmezden mi geleceksin ?
+> END STRING
+
+> BEGIN STRING
+…人类嗷嗷嗷嗷嗷嗷嗷嗷嗷嗷！！！！
+> CONTEXT: Map055/events/55/pages/1/3/Dialogue
+Neden bütün bunları yaptığımı 
+merak ediyorsundur, değil mi ?
+> END STRING
+
+> BEGIN STRING
+…你没事！你没事啊！！太好了！！！
+> CONTEXT: Map055/events/55/pages/1/14/Dialogue
+...İnsan ? sen iyisin ! ! !
+> END STRING
+
+> BEGIN STRING
+…我就知道！我就知道你能行的啊！！
+> CONTEXT: Map055/events/55/pages/1/16/Dialogue
+...Biliyordum ! Başarabileceğini
+biliyordum ! !
+> END STRING
+
+> BEGIN STRING
+…我、我激动了
+> CONTEXT: Map055/events/55/pages/1/24/Dialogue
+...B-Ben çok heyecanlıyım.
+> END STRING
+
+> BEGIN STRING
+…你没事就好！！
+> CONTEXT: Map055/events/55/pages/1/26/Dialogue
+...Sen iyisin !
+> END STRING
+
+> BEGIN STRING
+…唔，我还是好没用啊……
+> CONTEXT: Map055/events/55/pages/1/29/Dialogue
+...Hala tam bir işe yaramazım...
+> END STRING
+
+> BEGIN STRING
+…明明之前还说了“什么都交给我吧”这样
+的话
+> CONTEXT: Map055/events/55/pages/1/31/Dialogue
+...Açıkça sana "Her şeyi bana bırak"
+dediğimi biliyorum.
+> END STRING
+
+> BEGIN STRING
+…你很失望吗
+> CONTEXT: Map055/events/55/pages/1/34/Dialogue
+...Sence ben bir hayal kırıklığı
+mıyım ?
+> END STRING
+
+> BEGIN STRING
+…明明我应该去拦住那个胶兽……
+> CONTEXT: Map055/events/55/pages/1/36/Dialogue
+...O lateks canavarı durdurmam gerektiğini 
+biliyordum.
+> END STRING
+
+> BEGIN STRING
+…下一次，我会做得更好的！！
+> CONTEXT: Map055/events/55/pages/1/40/Dialogue
+...Bir dahaki sefere daha iyisini yapacağım.
+> END STRING
+
+> BEGIN STRING
+…我会守护你的，人类
+> CONTEXT: Map055/events/55/pages/1/42/Dialogue
+...Seni koruyacağım, İnsan.
+> END STRING
+
+> BEGIN STRING
+…可不是只是说说啊！
+> CONTEXT: Map055/events/55/pages/1/44/Dialogue
+...Ciddiyim !
+> END STRING
+
+> BEGIN STRING
+…我可只有你一个同伴！
+> CONTEXT: Map055/events/55/pages/1/46/Dialogue
+...Sen benim tek dostumsun.
+> END STRING
+
+> BEGIN STRING
+…我不能再失去你了……
+> CONTEXT: Map055/events/55/pages/1/49/Dialogue
+...Seni kaybetmeye göze alamam.
+> END STRING
+
+> BEGIN STRING
+…我、我们走吧
+> CONTEXT: Map055/events/55/pages/1/52/Dialogue
+...Ben şey, hadi gidelim artık ve...
+> END STRING
+
+> BEGIN STRING
+…先尽快离开这里才行……
+> CONTEXT: Map055/events/55/pages/1/54/Dialogue
+...buradan hemen ayrılalım.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

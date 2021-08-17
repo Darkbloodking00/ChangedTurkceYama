@@ -1,0 +1,370 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+这里很适合藏身
+> CONTEXT: Map020/events/7/pages/0/1/Dialogue
+Saklanmak için iyi bir yer.
+> END STRING
+
+> BEGIN STRING
+枝叶茂盛，树干很粗，比你的细腰粗……
+> CONTEXT: Map020/events/7/pages/0/7/Dialogue
+Saksıya koyulmuş ağacın kökleri bir yığın
+yaprağın üzerinde.
+> END STRING
+
+> BEGIN STRING
+水晶挡住了门
+> CONTEXT: Map020/events/28/pages/0/0/Dialogue
+> CONTEXT: Map020/events/29/pages/0/0/Dialogue
+Kristaller geçişi mühürlemiş.
+> END STRING
+
+> BEGIN STRING
+果子，上面粘着一些黑色的胶
+> CONTEXT: Map020/events/32/pages/0/0/Dialogue
+Bir meyve.
+Arkasında bulunan siyah lateks taneciklerin 
+kalıntılarını fark edersin.
+> END STRING
+
+> BEGIN STRING
+……是他们摘给我的吗
+> CONTEXT: Map020/events/32/pages/0/2/Dialogue
+...Meyveleri onlar mı buraya koymuş ?
+> END STRING
+
+> BEGIN STRING
+你迫不及待的剥开果子的外皮，吃了起来
+> CONTEXT: Map020/events/32/pages/0/8/Dialogue
+Meyvenin kabuğunu soyup onu
+yemek için sabırsızlanıyordun.
+> END STRING
+
+> BEGIN STRING
+果子很酸，但你感觉比饿肚子好多了
+> CONTEXT: Map020/events/32/pages/0/11/Dialogue
+Meyve ekşiydi ama aç kalmaktan iyidir.
+> END STRING
+
+> BEGIN STRING
+不知为何，你想家了
+> CONTEXT: Map020/events/32/pages/0/13/Dialogue
+Nedense evini özlemiştin.
+> END STRING
+
+> BEGIN STRING
+你强忍眼泪，吃完了果子
+> CONTEXT: Map020/events/32/pages/0/16/Dialogue
+Göz yaşlarını sildin ve meyveni yemeyi bitirdin.
+> END STRING
+
+> BEGIN STRING
+吃完了果子，你感觉身体好多了
+> CONTEXT: Map020/events/32/pages/0/23/Dialogue
+Meyveyi yedikten sonra kendini çok daha
+iyi hissediyordun.
+> END STRING
+
+> BEGIN STRING
+你收拾了一下吃剩的果核与皮，站起身
+> CONTEXT: Map020/events/32/pages/0/29/Dialogue
+Arta kalan çekirdekleri aldın ve ayağa
+kalktın.
+> END STRING
+
+> BEGIN STRING
+该出发了
+> CONTEXT: Map020/events/32/pages/0/31/Dialogue
+Gitme zamanın gelmişti.
+> END STRING
+
+> BEGIN STRING
+是不是看到什么吃的东西了…吃完了再走
+> CONTEXT: Map020/events/39/pages/0/0/Dialogue
+> CONTEXT: Map020/events/40/pages/0/0/Dialogue
+> CONTEXT: Map020/events/41/pages/0/0/Dialogue
+> CONTEXT: Map020/events/42/pages/0/0/Dialogue
+> CONTEXT: Map020/events/46/pages/0/0/Dialogue
+Yiyecek bir şey gördün mü ? Önce o şeyi yemelisin.
+> END STRING
+
+> BEGIN STRING
+这一次，你在阳台上看到了不一样的东西；
+一个…浑身胶液泛着反光的…的猫科动物
+> CONTEXT: Map020/events/39/pages/2/3/Dialogue
+> CONTEXT: Map020/events/40/pages/2/3/Dialogue
+> CONTEXT: Map020/events/41/pages/2/3/Dialogue
+Bu sefer balkonda farklı bir şey gördün. Leopar
+öfkeli bir şekilde kutuların arkasındaydı.
+> END STRING
+
+> BEGIN STRING
+他气呼呼的推着一个箱子——就是你刚刚推出来的那个
+> CONTEXT: Map020/events/39/pages/2/8/Dialogue
+> CONTEXT: Map020/events/40/pages/2/8/Dialogue
+> CONTEXT: Map020/events/41/pages/2/8/Dialogue
+Az önce hareket ettirdiğin kutuları 
+sinirle itmeye başlıyordu.
+> END STRING
+
+> BEGIN STRING
+你一下子明白了为什么那些箱子会归位了……
+> CONTEXT: Map020/events/39/pages/2/11/Dialogue
+> CONTEXT: Map020/events/40/pages/2/11/Dialogue
+> CONTEXT: Map020/events/41/pages/2/11/Dialogue
+Birden bu kutuların bulundukları konuma neden geri
+döndüklerini anladın...
+> END STRING
+
+> BEGIN STRING
+怎么办？
+> CONTEXT: Map020/events/39/pages/2/14/Dialogue
+> CONTEXT: Map020/events/40/pages/2/14/Dialogue
+> CONTEXT: Map020/events/41/pages/2/14/Dialogue
+Ne yapacaksın ?
+> END STRING
+
+> BEGIN STRING
+溜过去
+> CONTEXT: Map020/events/39/pages/2/16/Choice/0
+> CONTEXT: Map020/events/40/pages/2/16/Choice/0
+> CONTEXT: Map020/events/41/pages/2/16/Choice/0
+Kapıdan geç
+> END STRING
+
+> BEGIN STRING
+退回去
+> CONTEXT: Map020/events/39/pages/2/16/Choice/1
+> CONTEXT: Map020/events/40/pages/2/16/Choice/1
+> CONTEXT: Map020/events/41/pages/2/16/Choice/1
+Geri dön
+> END STRING
+
+> BEGIN STRING
+那只豹子立即就注意到了你，然后愤怒的一爪把你抓住
+> CONTEXT: Map020/events/39/pages/2/19/Dialogue
+> CONTEXT: Map020/events/40/pages/2/19/Dialogue
+> CONTEXT: Map020/events/41/pages/2/19/Dialogue
+Leopar anında seni fark etti ve sinirli pençeleriyle 
+kollarını yakaladı.
+> END STRING
+
+> BEGIN STRING
+你被他按在了栏杆上
+> CONTEXT: Map020/events/39/pages/2/22/Dialogue
+> CONTEXT: Map020/events/40/pages/2/22/Dialogue
+> CONTEXT: Map020/events/41/pages/2/22/Dialogue
+Onunla birlikte balkonun ucunda takıldın.
+> END STRING
+
+> BEGIN STRING
+你试着去挣扎，但是身后的豹子已经紧紧地把你摁在那
+里，动弹不得
+> CONTEXT: Map020/events/39/pages/2/27/Dialogue
+> CONTEXT: Map020/events/40/pages/2/27/Dialogue
+> CONTEXT: Map020/events/41/pages/2/27/Dialogue
+Direnmeyi denedin ama arkandaki leopar seni
+kilitlemişti ve hareket edemiyordun.
+> END STRING
+
+> BEGIN STRING
+一种黏黏的…有一点凉，又很温柔的感觉缓缓地袭上你
+的后颈
+> CONTEXT: Map020/events/39/pages/2/32/Dialogue
+> CONTEXT: Map020/events/40/pages/2/32/Dialogue
+> CONTEXT: Map020/events/41/pages/2/32/Dialogue
+Boynunun arkasından damlayan soğuk ama bir o 
+kadar da yumuşak lateks parçalarını
+hissedebiliyordun.
+> END STRING
+
+> BEGIN STRING
+你看向四周，除了你那结实的裤子，什么有用的东西都
+没有，你用力的推那只豹子，但无济于事
+> CONTEXT: Map020/events/39/pages/2/35/Dialogue
+> CONTEXT: Map020/events/40/pages/2/35/Dialogue
+> CONTEXT: Map020/events/41/pages/2/35/Dialogue
+Etrafa bakındın ama şortlarından başka işe yarar
+hiçbir şey yoktu. Leoparı sertçe kendinden savmaya
+çalıştın ama nafile.
+> END STRING
+
+> BEGIN STRING
+你的后背没知觉了…冰冷的感觉消失了，取而代之的是
+温暖和舒适…
+> CONTEXT: Map020/events/39/pages/2/40/Dialogue
+> CONTEXT: Map020/events/40/pages/2/40/Dialogue
+> CONTEXT: Map020/events/41/pages/2/40/Dialogue
+Sırtın uyuşuyordu... Soğuk his kaybolmuştu ve yerini
+sıcak ve komforlu bir his almıştı.
+> END STRING
+
+> BEGIN STRING
+你的后背盖满了粘液，这些东西渐渐地被你吸收掉，进
+入你的血液，你觉得骨头咯吱作响
+> CONTEXT: Map020/events/39/pages/2/44/Dialogue
+> CONTEXT: Map020/events/40/pages/2/44/Dialogue
+> CONTEXT: Map020/events/41/pages/2/44/Dialogue
+Sırtın lateks ile kaplandı. Vücudun gittikçe lateksi
+emdi ve kan dolaşımına karıştı. Kemiklerinin
+çatırdağını hissedebiliyordun.
+> END STRING
+
+> BEGIN STRING
+你清楚的明白自己正在变成…其他的东西，但是这种感
+觉很舒服…
+> CONTEXT: Map020/events/39/pages/2/48/Dialogue
+> CONTEXT: Map020/events/40/pages/2/48/Dialogue
+> CONTEXT: Map020/events/41/pages/2/48/Dialogue
+Apaçık, dönüşfürüldüğünü anlamıştın...ama
+gene de çok rahat hissediyordun.
+> END STRING
+
+> BEGIN STRING
+你的腿也软掉了
+> CONTEXT: Map020/events/39/pages/2/52/Dialogue
+> CONTEXT: Map020/events/40/pages/2/52/Dialogue
+> CONTEXT: Map020/events/41/pages/2/52/Dialogue
+Bacakların da cıvık cıvık olmuştu.
+> END STRING
+
+> BEGIN STRING
+粘液顺着脖子漫上你的脸，如同有生命一般钻进你的口
+鼻，奇怪的是你并没有感到任何呼吸不畅
+> CONTEXT: Map020/events/39/pages/2/57/Dialogue
+> CONTEXT: Map020/events/40/pages/2/57/Dialogue
+> CONTEXT: Map020/events/41/pages/2/57/Dialogue
+Lateks omzundan yüzüne ve oradan da ağzını ve
+burnunu aşarak vücuduna sarmıştı. Tuhaf bir şekilde
+vücudun hiç tepki vermiyordu.
+> END STRING
+
+> BEGIN STRING
+身后的豹子均匀的把他自己身上的粘液涂抹到了你的手
+臂上，你的指尖长出了肉球，变成了动物的肉垫
+> CONTEXT: Map020/events/39/pages/2/61/Dialogue
+> CONTEXT: Map020/events/40/pages/2/61/Dialogue
+> CONTEXT: Map020/events/41/pages/2/61/Dialogue
+Leopar lateksi kendi kolundan senin koluna yaydı.
+Parmak uçların uzadı ve ellerin hayvan patisi
+olmaya başladı.
+> END STRING
+
+> BEGIN STRING
+你的尾椎麻酥酥的，这其实是有一根粘液尾巴正从那里
+生长出来
+> CONTEXT: Map020/events/39/pages/2/65/Dialogue
+> CONTEXT: Map020/events/40/pages/2/65/Dialogue
+> CONTEXT: Map020/events/41/pages/2/65/Dialogue
+Kuyruk sokumun o kadar cıvıktı ki balçıksı bir 
+kuyruğun oradan büyüme başladığını görebiliyordun.
+> END STRING
+
+> BEGIN STRING
+你彻底放弃了反抗…不如说是投入了他的怀抱，你被整
+个的包裹了起来，但又好像没有，外面的这层粘液好似
+你本就有的皮肤一样自然
+> CONTEXT: Map020/events/39/pages/2/70/Dialogue
+> CONTEXT: Map020/events/40/pages/2/70/Dialogue
+> CONTEXT: Map020/events/41/pages/2/70/Dialogue
+Direnmekten tamamen vaz geçiyor... hatta
+kollarını ona açıyorsun. Vücudun bütünüyle lateksle
+kaplandı ama öyle hissettirmiyordu. Sanki kendi öz
+derinmiş gibiydi.
+> END STRING
+
+> BEGIN STRING
+感觉很奇妙，但你现在能听到更多微小的声音，手臂和
+腿好像也更加强壮
+> CONTEXT: Map020/events/39/pages/2/75/Dialogue
+> CONTEXT: Map020/events/40/pages/2/75/Dialogue
+> CONTEXT: Map020/events/41/pages/2/75/Dialogue
+Şahane bir şeydi. Ayrıca artık kulaklarınla daha fazla
+sesi algılayabiliyordun. Bacakların ve kolların da
+güçlendi gibi görünüyor.
+> END STRING
+
+> BEGIN STRING
+意识变得模糊起来了
+> CONTEXT: Map020/events/39/pages/2/79/Dialogue
+> CONTEXT: Map020/events/40/pages/2/79/Dialogue
+> CONTEXT: Map020/events/41/pages/2/79/Dialogue
+Bilincin bulanıklaştı....
+> END STRING
+
+> BEGIN STRING
+你知道自己是谁…知道自己要做什么…但就是无法抗拒
+这种感觉，野性的感觉，奇妙的感觉
+> CONTEXT: Map020/events/39/pages/2/82/Dialogue
+> CONTEXT: Map020/events/40/pages/2/82/Dialogue
+> CONTEXT: Map020/events/41/pages/2/82/Dialogue
+Kim olduğunu biliyordun...ne yapmak istediğini
+biliyordun...ama bu vahşi hisse...şahane hisse
+kendini kaptırmıştın.
+> END STRING
+
+> BEGIN STRING
+尽管自己粘乎乎的，你却很开心
+> CONTEXT: Map020/events/39/pages/2/86/Dialogue
+> CONTEXT: Map020/events/40/pages/2/86/Dialogue
+> CONTEXT: Map020/events/41/pages/2/86/Dialogue
+Yapışkan olsan dahi mutlu hissediyordun.
+> END STRING
+
+> BEGIN STRING
+是因为粘液的影响，还是因为这种感觉真的很棒呢？
+> CONTEXT: Map020/events/39/pages/2/89/Dialogue
+> CONTEXT: Map020/events/40/pages/2/89/Dialogue
+> CONTEXT: Map020/events/41/pages/2/89/Dialogue
+Lateksin etkisinden dolayı mı, yoksa sadece öyle
+müthiş bir his olduğu için miydi ?
+> END STRING
+
+> BEGIN STRING
+你睁开了眼，像个婴儿，身上满是新生的粘液
+> CONTEXT: Map020/events/39/pages/2/93/Dialogue
+> CONTEXT: Map020/events/40/pages/2/93/Dialogue
+> CONTEXT: Map020/events/41/pages/2/93/Dialogue
+Gözlerini yeni doğmuş bir bebek gibi açtın. Artık
+taptaze lateksle kaplanmış durumdasın.
+> END STRING
+
+> BEGIN STRING
+你再次看向身后的豹子
+> CONTEXT: Map020/events/39/pages/2/96/Dialogue
+> CONTEXT: Map020/events/40/pages/2/96/Dialogue
+> CONTEXT: Map020/events/41/pages/2/96/Dialogue
+Leopara tekrar gözünü çevirdin.
+> END STRING
+
+> BEGIN STRING
+他正宠溺的看着他新生的同类
+> CONTEXT: Map020/events/39/pages/2/99/Dialogue
+> CONTEXT: Map020/events/40/pages/2/99/Dialogue
+> CONTEXT: Map020/events/41/pages/2/99/Dialogue
+Eserine karşı hayranlık besliyordu.
+> END STRING
+
+> BEGIN STRING
+这里的人就那么喜欢锁门吗
+> CONTEXT: Map020/events/42/pages/1/0/Dialogue
+> CONTEXT: Map020/events/46/pages/1/0/Dialogue
+Neden bütün kapılar kilitli olmak zorunda ?
+> END STRING
+
+> BEGIN STRING
+是不是看到什么吃的东西了…吃完了再看
+> CONTEXT: Map020/events/45/pages/0/0/Dialogue
+Yiyecek bir şey gördün mü ? Önce o şeye bakmalısın..
+> END STRING
+
+> BEGIN STRING
+什么都没有
+> CONTEXT: Map020/events/58/pages/0/0/Dialogue
+Hiçbir şey yok.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

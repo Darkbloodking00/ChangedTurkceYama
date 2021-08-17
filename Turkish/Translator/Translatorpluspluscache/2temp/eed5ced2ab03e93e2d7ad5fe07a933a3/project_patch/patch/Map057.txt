@@ -1,0 +1,1051 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+电脑运行中
+> CONTEXT: Map057/events/11/pages/0/0/Dialogue
+Bilgisayar çalışıyor.
+> END STRING
+
+> BEGIN STRING
+巨大园丁剪刀
+> CONTEXT: Map057/events/13/pages/0/0/Dialogue
+Devasa bir bahçe makası.
+> END STRING
+
+> BEGIN STRING
+锁了
+> CONTEXT: Map057/events/19/pages/0/0/Dialogue
+> CONTEXT: Map057/events/20/pages/0/0/Dialogue
+Kilitli.
+> END STRING
+
+> BEGIN STRING
+杂物
+> CONTEXT: Map057/events/29/pages/0/0/Dialogue
+> CONTEXT: Map057/events/30/pages/0/0/Dialogue
+> CONTEXT: Map057/events/37/pages/0/0/Dialogue
+Ivır zıvır.
+> END STRING
+
+> BEGIN STRING
+书籍
+> CONTEXT: Map057/events/31/pages/0/0/Dialogue
+> CONTEXT: Map057/events/32/pages/0/0/Dialogue
+> CONTEXT: Map057/events/33/pages/0/0/Dialogue
+Kitaplar.
+> END STRING
+
+> BEGIN STRING
+维修工具
+> CONTEXT: Map057/events/42/pages/0/0/Dialogue
+> CONTEXT: Map057/events/43/pages/0/0/Dialogue
+> CONTEXT: Map057/events/44/pages/0/0/Dialogue
+> CONTEXT: Map047/events/273/pages/0/0/Dialogue
+> CONTEXT: Map047/events/274/pages/0/0/Dialogue
+> CONTEXT: Map047/events/275/pages/0/0/Dialogue
+> CONTEXT: Map044/events/173/pages/0/0/Dialogue
+> CONTEXT: Map044/events/174/pages/0/0/Dialogue
+> CONTEXT: Map044/events/175/pages/0/0/Dialogue
+> CONTEXT: Map037/events/18/pages/0/0/Dialogue
+> CONTEXT: Map037/events/19/pages/0/0/Dialogue
+> CONTEXT: Map037/events/20/pages/0/0/Dialogue
+Tamir aletleri.
+> END STRING
+
+> BEGIN STRING
+你的身上连个装东西的口袋都没有，所以，算了吧
+> CONTEXT: Map057/events/42/pages/0/2/Dialogue
+> CONTEXT: Map057/events/43/pages/0/2/Dialogue
+> CONTEXT: Map047/events/273/pages/0/2/Dialogue
+> CONTEXT: Map047/events/274/pages/0/2/Dialogue
+> CONTEXT: Map044/events/173/pages/0/2/Dialogue
+> CONTEXT: Map044/events/174/pages/0/2/Dialogue
+> CONTEXT: Map037/events/18/pages/0/2/Dialogue
+> CONTEXT: Map037/events/19/pages/0/2/Dialogue
+Bir cebin bile yok, o yüzden boşver gitsin.
+> END STRING
+
+> BEGIN STRING
+这里还写着一些维修事宜
+> CONTEXT: Map057/events/44/pages/0/2/Dialogue
+> CONTEXT: Map047/events/275/pages/0/2/Dialogue
+> CONTEXT: Map044/events/175/pages/0/2/Dialogue
+> CONTEXT: Map037/events/20/pages/0/2/Dialogue
+Makinelerin bakımıyla ilgili şeyler de yazılmış.
+> END STRING
+
+> BEGIN STRING
+装气体的罐子
+> CONTEXT: Map057/events/46/pages/0/0/Dialogue
+> CONTEXT: Map057/events/47/pages/0/0/Dialogue
+Gaz tüpü.
+> END STRING
+
+> BEGIN STRING
+你好
+> CONTEXT: Map057/events/50/pages/0/4/Dialogue
+Naber.
+> END STRING
+
+> BEGIN STRING
+你中了我的陷阱哟
+> CONTEXT: Map057/events/50/pages/0/6/Dialogue
+Tuzağıma düşmüşsün.
+> END STRING
+
+> BEGIN STRING
+门我已经设定好了
+> CONTEXT: Map057/events/50/pages/0/18/Dialogue
+Kapıyı kilitledim.
+> END STRING
+
+> BEGIN STRING
+你出不去的
+> CONTEXT: Map057/events/50/pages/0/20/Dialogue
+Burada kaldın.
+> END STRING
+
+> BEGIN STRING
+…人类！里面怎么了！
+> CONTEXT: Map057/events/50/pages/0/23/Dialogue
+...İnsan ! İçeride ne oluyor ? !
+> END STRING
+
+> BEGIN STRING
+我不喜欢废话
+> CONTEXT: Map057/events/50/pages/0/26/Dialogue
+Sözümü kısa keseceğim.
+> END STRING
+
+> BEGIN STRING
+你必须就此止步
+> CONTEXT: Map057/events/50/pages/0/28/Dialogue
+Maceran burada son buluyor.
+> END STRING
+
+> BEGIN STRING
+绝对不能再踏出这里了
+> CONTEXT: Map057/events/50/pages/0/30/Dialogue
+Kaçmanın bir yolu yok.
+> END STRING
+
+> BEGIN STRING
+我在监控里知道你们想做什么
+> CONTEXT: Map057/events/50/pages/0/32/Dialogue
+Ne yapmaya çalıştığınızı biliyorum. Sizi
+güvenlik kameralarından izliyordum.
+> END STRING
+
+> BEGIN STRING
+想去外面是吧
+> CONTEXT: Map057/events/50/pages/0/34/Dialogue
+Buradan ayrılmaya çalışıyordunuz.
+> END STRING
+
+> BEGIN STRING
+绝对不可以
+> CONTEXT: Map057/events/50/pages/0/37/Dialogue
+Artık imkansız !
+> END STRING
+
+> BEGIN STRING
+安静的睡吧
+> CONTEXT: Map057/events/50/pages/0/45/Dialogue
+Sakin ol, seni uyutacağım.
+> END STRING
+
+> BEGIN STRING
+…喂！！回答我！！
+> CONTEXT: Map057/events/50/pages/0/48/Dialogue
+...Hey ! İNSAN, bana cevap ver ! !
+> END STRING
+
+> BEGIN STRING
+感觉…有些困倦……
+> CONTEXT: Map057/events/50/pages/0/51/Dialogue
+Biraz...uykun...geldi...
+> END STRING
+
+> BEGIN STRING
+眼睛…睁不开了……
+> CONTEXT: Map057/events/50/pages/0/54/Dialogue
+Gözlerin...ağırlaşıyor...
+> END STRING
+
+> BEGIN STRING
+……人类…人…………
+> CONTEXT: Map057/events/50/pages/0/56/Dialogue
+...İNSAN...İNSAAAN...!
+> END STRING
+
+> BEGIN STRING
+…快……回…我……
+> CONTEXT: Map057/events/50/pages/0/58/Dialogue
+...Çabuk...ol...Ben...
+> END STRING
+
+> BEGIN STRING
+要乖哦
+> CONTEXT: Map057/events/50/pages/0/76/Dialogue
+Şimdi uslu bir çocuk ol.
+> END STRING
+
+> BEGIN STRING
+普罗！
+> CONTEXT: Map057/events/53/pages/0/11/Dialogue
+PURO !
+> END STRING
+
+> BEGIN STRING
+普罗………………
+> CONTEXT: Map057/events/53/pages/0/26/Dialogue
+> CONTEXT: Map057/events/53/pages/0/295/Dialogue
+Puro...
+> END STRING
+
+> BEGIN STRING
+普罗你醒一醒！
+> CONTEXT: Map057/events/53/pages/0/29/Dialogue
+Puro, UYAN !
+> END STRING
+
+> BEGIN STRING
+普罗！普罗！！
+> CONTEXT: Map057/events/53/pages/0/34/Dialogue
+Puro ! PURO ! !
+> END STRING
+
+> BEGIN STRING
+你轻轻的摇动这具胶液组成的身躯
+> CONTEXT: Map057/events/53/pages/0/37/Dialogue
+Puro'ya nazikçe sarıldın.
+> END STRING
+
+> BEGIN STRING
+莫名的轻，莫名的软……
+> CONTEXT: Map057/events/53/pages/0/39/Dialogue
+Çok hafif, çok yumuşaktı...
+> END STRING
+
+> BEGIN STRING
+普罗没有反应，如同洋娃娃一样
+> CONTEXT: Map057/events/53/pages/0/41/Dialogue
+Puro tepki vermiyor, manken gibi duruyordu.
+> END STRING
+
+> BEGIN STRING
+毫无反应的，瘫倒在地板上
+> CONTEXT: Map057/events/53/pages/0/43/Dialogue
+Tepkisiz bir şekilde yerde yatıyordu.
+> END STRING
+
+> BEGIN STRING
+还是来的太晚了吗……
+> CONTEXT: Map057/events/53/pages/0/49/Dialogue
+çok mu geç kaldın...?
+> END STRING
+
+> BEGIN STRING
+…什么对不起啊？
+> CONTEXT: Map057/events/53/pages/0/59/Dialogue
+...Ne ?
+> END STRING
+
+> BEGIN STRING
+啊啊啊啊啊啊啊啊？！
+> CONTEXT: Map057/events/53/pages/0/61/Dialogue
+Puro...çok üzgünüm...
+> END STRING
+
+> BEGIN STRING
+…我不会轻易的死掉的
+> CONTEXT: Map057/events/53/pages/0/65/Dialogue
+...Ne için üzgünsün ?
+> END STRING
+
+> BEGIN STRING
+…我就是体力耗尽了……
+> CONTEXT: Map057/events/53/pages/0/67/Dialogue
+...Sadece biraz tükenmişim...
+> END STRING
+
+> BEGIN STRING
+…你在说什么对不起啊……
+> CONTEXT: Map057/events/53/pages/0/69/Dialogue
+...Neden ağlıyorsun...?
+> END STRING
+
+> BEGIN STRING
+…还有你刚才是不是踩到我的尾巴了……
+> CONTEXT: Map057/events/53/pages/0/72/Dialogue
+...Sen az önce kuyruğuma mı bastın ...?
+> END STRING
+
+> BEGIN STRING
+普罗啊啊啊啊啊啊！！！！
+> CONTEXT: Map057/events/53/pages/0/75/Dialogue
+Muhtemelen AHAHAahahahaha ! ! !
+> END STRING
+
+> BEGIN STRING
+你一下缩回了手，普罗的脑袋跌到了地上
+> CONTEXT: Map057/events/53/pages/0/81/Dialogue
+Elini Puro'nun kafasından çekersin ve başı
+birden yere çarpar.
+> END STRING
+
+> BEGIN STRING
+…你、你就这么对待伤患的吗！
+> CONTEXT: Map057/events/53/pages/0/84/Dialogue
+...Sen...yaralı birine cidden böyle mi 
+bakıyorsun ?
+> END STRING
+
+> BEGIN STRING
+…人类你没事吧……
+> CONTEXT: Map057/events/53/pages/0/100/Dialogue
+...İnsan, iyi misin ?
+> END STRING
+
+> BEGIN STRING
+…看来你安然无恙呢
+> CONTEXT: Map057/events/53/pages/0/102/Dialogue
+...Sapasağlam görünüyorsun.
+> END STRING
+
+> BEGIN STRING
+…我当时怎么都没打开这道门……
+> CONTEXT: Map057/events/53/pages/0/105/Dialogue
+...Sen yokken kapıyı nasıl açacağımı 
+çözemedim...
+> END STRING
+
+> BEGIN STRING
+…又急又气又没办法，在门口一直踱步
+> CONTEXT: Map057/events/53/pages/0/107/Dialogue
+...Çok kaygılı ve ofkeli bir şekilde kapıya tekme
+atıyordum.
+> END STRING
+
+> BEGIN STRING
+…几个小时之后，那个门！终于开了啊！
+> CONTEXT: Map057/events/53/pages/0/109/Dialogue
+...Ama birkaç saatlik deneminin ardından 
+sonunda açıldı !
+> END STRING
+
+> BEGIN STRING
+…那个穿衣服的家伙一下子就过来了！
+> CONTEXT: Map057/events/53/pages/0/111/Dialogue
+...Sonra birden bu önlüklü adam geldi !
+> END STRING
+
+> BEGIN STRING
+…还拿着钝器呢，狠狠地冲我的脑袋砸过来
+了
+> CONTEXT: Map057/events/53/pages/0/113/Dialogue
+...Elindeki kör bıçağı maskeme savurmaya
+çalışıyordu.
+> END STRING
+
+> BEGIN STRING
+…那个时候，我就在想了
+> CONTEXT: Map057/events/53/pages/0/116/Dialogue
+...O sırada düşünüyordum ki...
+> END STRING
+
+> BEGIN STRING
+…我在此倒下，那之前的所有，一切，就都
+结束了
+> CONTEXT: Map057/events/53/pages/0/118/Dialogue
+...ben kaybedersem bütün çabalarımız boşa
+gidecekti.
+> END STRING
+
+> BEGIN STRING
+…那怎么可以啊！
+> CONTEXT: Map057/events/53/pages/0/121/Dialogue
+...Tabii ki bunun olmasına izin veremezdim.
+> END STRING
+
+> BEGIN STRING
+…所以啊！我就！用我这黏糊糊的爪子挡住
+了！
+> CONTEXT: Map057/events/53/pages/0/123/Dialogue
+...Bu yüzden yapışkan pençelerimle savurduğu
+darbeleri engelledim !
+> END STRING
+
+> BEGIN STRING
+…然后马上就被砸烂了……
+> CONTEXT: Map057/events/53/pages/0/126/Dialogue
+...Ama sonrasında bıçak darbeleri pençelerimin
+içinden geçerek onları koparttı.
+> END STRING
+
+> BEGIN STRING
+…但是别担心，我的身体是黏液构成的，马
+上就又恢复原样了
+> CONTEXT: Map057/events/53/pages/0/129/Dialogue
+...Ancak endişelenme. Bedenim lateksten
+meydana geliyor. Orijinal haline 
+çoktan döndü.
+> END STRING
+
+> BEGIN STRING
+…我跑进房间里，他也追了进来，我们厮杀
+起来
+> CONTEXT: Map057/events/53/pages/0/132/Dialogue
+...Bu odaya kaçtım ve beni takip etti. Ayakta
+dövüştük.
+> END STRING
+
+> BEGIN STRING
+…手无寸铁质地还软的我
+> CONTEXT: Map057/events/53/pages/0/135/Dialogue
+...Zayıf ve silahsızdım.
+> END STRING
+
+> BEGIN STRING
+…眼看就要被他砸烂脑袋的时候……
+> CONTEXT: Map057/events/53/pages/0/137/Dialogue
+...Az daha kafama vurmayı başarıyordu...
+> END STRING
+
+> BEGIN STRING
+…那个穿衣服的！踩到了我落在地上的一滩
+胶液！
+> CONTEXT: Map057/events/53/pages/0/139/Dialogue
+...Ama daha sonra önlüklü adam yerdeki
+bir lateks yığınına bastı ve 
+ayağı kayıp düştü !
+> END STRING
+
+> BEGIN STRING
+…他的头朝着柜子，狠狠地磕在上面
+> CONTEXT: Map057/events/53/pages/0/142/Dialogue
+...Daha sonra kafasını kilitli dolaba çarpıp 
+bayıldı.
+> END STRING
+
+> BEGIN STRING
+…就是现在这样啦！
+> CONTEXT: Map057/events/53/pages/0/145/Dialogue
+...İşte bunlar oldu.
+> END STRING
+
+> BEGIN STRING
+…那之后，我便也体力耗尽倒在这里了
+> CONTEXT: Map057/events/53/pages/0/151/Dialogue
+...Ardından çok yorulmuşum ve yere uzandım.
+> END STRING
+
+> BEGIN STRING
+…真的是好惨啊
+> CONTEXT: Map057/events/53/pages/0/153/Dialogue
+...Biliyorum çok tehlikeli.
+> END STRING
+
+> BEGIN STRING
+…不过能看到你没事就好
+> CONTEXT: Map057/events/53/pages/0/156/Dialogue
+...Ama güvende olduğunu görmek mutluluk
+verici.
+> END STRING
+
+> BEGIN STRING
+…我就相信！没有什么能难倒人类的！
+> CONTEXT: Map057/events/53/pages/0/158/Dialogue
+...Sana hala inanamıyorum. Üstesinden
+gelemeyeceğin bir şey var mı ?
+> END STRING
+
+> BEGIN STRING
+…人类你很担心我呢
+> CONTEXT: Map057/events/53/pages/0/173/Dialogue
+...İnsan, benim hakkımda endişelenmişsin.
+> END STRING
+
+> BEGIN STRING
+…我有种被人需要着的感觉呢
+> CONTEXT: Map057/events/53/pages/0/175/Dialogue
+...Artık arkadaşlar arasındaki bağlılığı
+kavrayabiliyorum.
+> END STRING
+
+> BEGIN STRING
+…超开心
+> CONTEXT: Map057/events/53/pages/0/178/Dialogue
+...Çok mutlu hissediyorum.
+> END STRING
+
+> BEGIN STRING
+…这家伙还趴着呢，我们先离开吧
+> CONTEXT: Map057/events/53/pages/0/184/Dialogue
+...Önlüklü adam hala uyuyor. Hadi buradan
+gidelim artık.
+> END STRING
+
+> BEGIN STRING
+…不要再生事端，先离开这里吧
+> CONTEXT: Map057/events/53/pages/0/186/Dialogue
+...Umarım uyanmaz.
+> END STRING
+
+> BEGIN STRING
+…要紧紧的跟着我呀！
+> CONTEXT: Map057/events/53/pages/0/188/Dialogue
+...Lütfen yanımdan ayrılma !
+> END STRING
+
+> BEGIN STRING
+…来吧，一起
+> CONTEXT: Map057/events/53/pages/0/197/Dialogue
+...Hadi birlikte gidelim.
+> END STRING
+
+> BEGIN STRING
+…这里离地面很近了，但再向下走就是主实
+验室
+> CONTEXT: Map057/events/53/pages/0/223/Dialogue
+...Zemin kata çok yakınız ama önümüzde
+ana laboratuvar var.
+> END STRING
+
+> BEGIN STRING
+…我们能做到的！
+> CONTEXT: Map057/events/53/pages/0/226/Dialogue
+...Başarabiliriz !
+> END STRING
+
+> BEGIN STRING
+……不可……以
+> CONTEXT: Map057/events/53/pages/0/232/Dialogue
+...Hayır...başaramazsınız.
+> END STRING
+
+> BEGIN STRING
+……求……你……
+> CONTEXT: Map057/events/53/pages/0/244/Dialogue
+...Lüt...fen...
+> END STRING
+
+> BEGIN STRING
+不要…………
+> CONTEXT: Map057/events/53/pages/0/246/Dialogue
+Yapmayın...
+> END STRING
+
+> BEGIN STRING
+现在……还有机……会
+> CONTEXT: Map057/events/53/pages/0/249/Dialogue
+Hala...bir...umudumuz...var.
+> END STRING
+
+> BEGIN STRING
+不要……出……去
+> CONTEXT: Map057/events/53/pages/0/251/Dialogue
+Dışarıya...çıkmayın.
+> END STRING
+
+> BEGIN STRING
+已经走到了这一步，虽然未来什么都是未知
+> CONTEXT: Map057/events/53/pages/0/258/Dialogue
+Buraya kadar geldik ama geleceğin neyi
+sakladığını bilemeyiz.
+> END STRING
+
+> BEGIN STRING
+但走下去是唯一的路
+> CONTEXT: Map057/events/53/pages/0/260/Dialogue
+Ama macerana devam etmenin tek yolu 
+zemin kat.
+> END STRING
+
+> BEGIN STRING
+你不知道这样做会有什么后果，但如果什么
+都不做会更可怕
+> CONTEXT: Map057/events/53/pages/0/262/Dialogue
+Sonuçlarının ne olacağını bilmiyorsun ama
+hiçbir şey yapmazsan daha kötüsü olabilir.
+> END STRING
+
+> BEGIN STRING
+而且，还有普罗在身边
+> CONTEXT: Map057/events/53/pages/0/265/Dialogue
+Üstelik yanında bu sefer Puro var.
+> END STRING
+
+> BEGIN STRING
+不可能的吧……
+> CONTEXT: Map057/events/53/pages/0/312/Dialogue
+Olamaz...
+> END STRING
+
+> BEGIN STRING
+你快点起来……
+> CONTEXT: Map057/events/53/pages/0/315/Dialogue
+Lütfen uyan...
+> END STRING
+
+> BEGIN STRING
+你是怎么出来的？
+> CONTEXT: Map057/events/53/pages/0/352/Dialogue
+Oradan nasıl kurtuldun ?
+> END STRING
+
+> BEGIN STRING
+看来你还有帮手呢
+> CONTEXT: Map057/events/53/pages/0/354/Dialogue
+Sanırım o senin arkadaşındı.
+> END STRING
+
+> BEGIN STRING
+你现在一定恨透了我
+> CONTEXT: Map057/events/53/pages/0/357/Dialogue
+Benden nefret ettiğini biliyorum.
+> END STRING
+
+> BEGIN STRING
+但要为我设身处地的思考一下的话
+> CONTEXT: Map057/events/53/pages/0/359/Dialogue
+Ama anlasan...
+> END STRING
+
+> BEGIN STRING
+我才是做着正确而正义之事的人啊
+> CONTEXT: Map057/events/53/pages/0/361/Dialogue
+doğru şeyi yaptığımı fark ederdin.
+> END STRING
+
+> BEGIN STRING
+我们那么久的努力不能因为你毁了
+> CONTEXT: Map057/events/53/pages/0/364/Dialogue
+Çabalarımız senin yüzünden mahvolmayacak.
+> END STRING
+
+> BEGIN STRING
+你要愧疚自己为何醒来
+> CONTEXT: Map057/events/53/pages/0/366/Dialogue
+Uynanmamış olman gerekiyordu.
+> END STRING
+
+> BEGIN STRING
+为何能一路到达这里
+> CONTEXT: Map057/events/53/pages/0/368/Dialogue
+Buraya ulaşmamış olman gerekiyordu.
+> END STRING
+
+> BEGIN STRING
+以及为何有如此不幸的命运
+> CONTEXT: Map057/events/53/pages/0/370/Dialogue
+Ve işte talihsiz kaderin.
+> END STRING
+
+> BEGIN STRING
+你已经很尽力的活着了
+> CONTEXT: Map057/events/53/pages/0/373/Dialogue
+Yaşamak için elinden geleni yaptın.
+> END STRING
+
+> BEGIN STRING
+这我都是知道的
+> CONTEXT: Map057/events/53/pages/0/375/Dialogue
+Hepsini gördüm.
+> END STRING
+
+> BEGIN STRING
+很可惜
+> CONTEXT: Map057/events/53/pages/0/377/Dialogue
+Bütün çabaların boşa gidecek. Üzgünüm.
+> END STRING
+
+> BEGIN STRING
+到最后你的努力一点用也没有
+> CONTEXT: Map057/events/53/pages/0/379/Dialogue
+Nihayetinde yaptığın hiçbir şeyin anlamı
+olmayacak.
+> END STRING
+
+> BEGIN STRING
+对不起呢
+> CONTEXT: Map057/events/53/pages/0/382/Dialogue
+Üzgünüm.
+> END STRING
+
+> BEGIN STRING
+我本也不想作为一个坏人
+> CONTEXT: Map057/events/53/pages/0/384/Dialogue
+Buradaki kötü karakter ben olmak istemiyorum.
+> END STRING
+
+> BEGIN STRING
+但这样的事情总要有人去做的
+> CONTEXT: Map057/events/53/pages/0/386/Dialogue
+Ama kader kararını verdi.
+> END STRING
+
+> BEGIN STRING
+我每天都祈祷着、盼望着
+> CONTEXT: Map057/events/53/pages/0/389/Dialogue
+Gezegenin eski haline gelmesi ve sorunlarımızı
+geride bırakmak için her gün dua ettim.
+> END STRING
+
+> BEGIN STRING
+我甚至不再身为人也仍然为人而活
+> CONTEXT: Map057/events/53/pages/0/391/Dialogue
+Artık insan değilim ama kendimi onlara adamış
+durumdayım.
+> END STRING
+
+> BEGIN STRING
+在我的努力之下
+> CONTEXT: Map057/events/53/pages/0/393/Dialogue
+Benim sayemde...
+> END STRING
+
+> BEGIN STRING
+人类社会终于又能重建起来
+> CONTEXT: Map057/events/53/pages/0/395/Dialogue
+insanlık tekrar küllerinden doğacak...
+> END STRING
+
+> BEGIN STRING
+这个被烧毁的高塔得以有机会再塑辉煌
+> CONTEXT: Map057/events/53/pages/0/397/Dialogue
+bu eski kule görkemli günlerine geri dönecekti.
+> END STRING
+
+> BEGIN STRING
+可喜可贺可喜可贺
+> CONTEXT: Map057/events/53/pages/0/399/Dialogue
+İşte bu benim hayalimdi
+> END STRING
+
+> BEGIN STRING
+但是你
+> CONTEXT: Map057/events/53/pages/0/402/Dialogue
+Ama sonra...
+> END STRING
+
+> BEGIN STRING
+你这个小白蚁
+> CONTEXT: Map057/events/53/pages/0/404/Dialogue
+sen ortaya çıktın.
+> END STRING
+
+> BEGIN STRING
+病毒好不容易有了消失的迹象
+> CONTEXT: Map057/events/53/pages/0/406/Dialogue
+Bütün bunlar senin yüzünden bir hiç olabilirdi.
+> END STRING
+
+> BEGIN STRING
+因为没有载体已经慢慢枯死的这些恶魔
+> CONTEXT: Map057/events/53/pages/0/408/Dialogue
+Daha fazla taşıyıcı olmadığı için virüs
+yok olmanın eşiğindeydi.
+> END STRING
+
+> BEGIN STRING
+终于在我们巨大的牺牲之下就要灭绝了
+> CONTEXT: Map057/events/53/pages/0/410/Dialogue
+Büyük fedakarlıklarımız sayesinde sonunda
+ondan kurtulmuştuk.
+> END STRING
+
+> BEGIN STRING
+小小的一只白蚁，也是会把高塔蛀倒的
+> CONTEXT: Map057/events/53/pages/0/413/Dialogue
+Küçük ve çok AÇIK bir baş belası bütün
+umutlarımızı yok edebilidi.
+> END STRING
+
+> BEGIN STRING
+我真的不能放过你
+> CONTEXT: Map057/events/53/pages/0/415/Dialogue
+Gerçekten öylece gitmene izin veremem.
+> END STRING
+
+> BEGIN STRING
+如果你真的是携带者
+> CONTEXT: Map057/events/53/pages/0/417/Dialogue
+Eğer gerçekten bir taşıyıcıysan...
+> END STRING
+
+> BEGIN STRING
+而且这个时候再去出现在外面
+> CONTEXT: Map057/events/53/pages/0/419/Dialogue
+ve dışarıya çıkarsan...
+> END STRING
+
+> BEGIN STRING
+和其他动植物接触
+> CONTEXT: Map057/events/53/pages/0/421/Dialogue
+bütün o bitkiler ve hayvanlar yüzünden.
+> END STRING
+
+> BEGIN STRING
+病毒再藉此再次传播
+> CONTEXT: Map057/events/53/pages/0/423/Dialogue
+virüs tekrar yayılacak.
+> END STRING
+
+> BEGIN STRING
+不敢想象的后果呢
+> CONTEXT: Map057/events/53/pages/0/426/Dialogue
+Sonuçlarını tahmin bile edemiyorum.
+> END STRING
+
+> BEGIN STRING
+我都说到这里了
+> CONTEXT: Map057/events/53/pages/0/429/Dialogue
+Bu konuda daha fazla konuşmak istemiyorum.
+> END STRING
+
+> BEGIN STRING
+也不指望你能理解我
+> CONTEXT: Map057/events/53/pages/0/431/Dialogue
+Zaten böyle bir şeyi anlamanı da beklemiyorum.
+> END STRING
+
+> BEGIN STRING
+这是你作为“被选中之人”的命运啊
+> CONTEXT: Map057/events/53/pages/0/433/Dialogue
+"Seçilmiş kişi" olarak sonuçta kaderin bu.
+> END STRING
+
+> BEGIN STRING
+请在安分的待在这里吧
+> CONTEXT: Map057/events/53/pages/0/435/Dialogue
+Lütfen burada kal.
+> END STRING
+
+> BEGIN STRING
+真麻烦…现在…怎么处理你比较好呢……
+> CONTEXT: Map057/events/53/pages/0/438/Dialogue
+Şimdi...ben seninle ne yapacağım ?
+> END STRING
+
+> BEGIN STRING
+为什么久经沙场的猎人捕猎仍然需要武器？
+> CONTEXT: Map057/events/53/pages/0/460/Dialogue
+İnsanlar neden kendilerini korumak için
+aletlere ihtiyaç duyar biliyor musun ?
+> END STRING
+
+> BEGIN STRING
+因为无论怎么强大的人都还是没法和野兽抗
+衡的啊！
+> CONTEXT: Map057/events/53/pages/0/463/Dialogue
+Çünkü bir insan ne kadar güçlü olursa olsun
+hiçbir vahşi hayvanın gücüne yetişemez.
+> END STRING
+
+> BEGIN STRING
+早安！
+> CONTEXT: Map057/events/53/pages/0/484/Dialogue
+Günaydın !
+> END STRING
+
+> BEGIN STRING
+你的尾巴长出来了呢
+> CONTEXT: Map057/events/53/pages/0/488/Dialogue
+Kuyruğun uzamış gibi görünüyor.
+> END STRING
+
+> BEGIN STRING
+看来每天就按照这个剂量是正确的呢
+> CONTEXT: Map057/events/53/pages/0/490/Dialogue
+Senin cüssendeki biri için doğru doz vermişim
+gibi görünüyor.
+> END STRING
+
+> BEGIN STRING
+相信很快你就能完全的完成兽化了
+> CONTEXT: Map057/events/53/pages/0/493/Dialogue
+Yakında tamamen dönüşfürüleceğine
+inanıyorum.
+> END STRING
+
+> BEGIN STRING
+这样即使你携带了病毒也不会发病了
+> CONTEXT: Map057/events/53/pages/0/495/Dialogue
+Virüsü taşıyor olsan bile hasta olmayacaksın.
+> END STRING
+
+> BEGIN STRING
+要乖呢
+> CONTEXT: Map057/events/53/pages/0/499/Dialogue
+Şimdi uslu ol.
+> END STRING
+
+> BEGIN STRING
+兽化后的你还蛮可爱的呢
+> CONTEXT: Map057/events/53/pages/0/502/Dialogue
+Aslında şimdi çok sevimli oldun.
+> END STRING
+
+> BEGIN STRING
+虽然说是要抹消你
+> CONTEXT: Map057/events/53/pages/0/504/Dialogue
+Seni yok etmek istesemiş olsam bile
+> END STRING
+
+> BEGIN STRING
+但最终还是选择了这样的方式
+> CONTEXT: Map057/events/53/pages/0/506/Dialogue
+Netice bu yolu seçtim.
+> END STRING
+
+> BEGIN STRING
+可能因为我太寂寞了吧
+> CONTEXT: Map057/events/53/pages/0/508/Dialogue
+Belki çok yalnız olduğumdandır.
+> END STRING
+
+> BEGIN STRING
+就稍微对你做一些改造
+> CONTEXT: Map057/events/53/pages/0/510/Dialogue
+Sadece biraz bedeninde değişiklikler yaptım.
+> END STRING
+
+> BEGIN STRING
+让你不那么没用且碍事吧
+> CONTEXT: Map057/events/53/pages/0/512/Dialogue
+Belki de o kadar işe yaramaz değilsindir.
+> END STRING
+
+> BEGIN STRING
+不要怪我呢
+> CONTEXT: Map057/events/53/pages/0/514/Dialogue
+Bana kızma.
+> END STRING
+
+> BEGIN STRING
+快了
+> CONTEXT: Map057/events/53/pages/0/518/Dialogue
+Yakında...
+> END STRING
+
+> BEGIN STRING
+世界
+> CONTEXT: Map057/events/53/pages/0/520/Dialogue
+dünya...
+> END STRING
+
+> BEGIN STRING
+有了那些优秀的人
+> CONTEXT: Map057/events/53/pages/0/522/Dialogue
+bütün bu iyi insanların sayesinde...
+> END STRING
+
+> BEGIN STRING
+应该能重建的吧
+> CONTEXT: Map057/events/53/pages/0/524/Dialogue
+tekrar kurulacak.
+> END STRING
+
+> BEGIN STRING
+我说这些做什么呢
+> CONTEXT: Map057/events/53/pages/0/530/Dialogue
+Neden seninle bunları konuşuyorum ki ?
+> END STRING
+
+> BEGIN STRING
+正在接受改造大脑混乱的你应该听不懂我说
+的这一切
+> CONTEXT: Map057/events/53/pages/0/532/Dialogue
+Zaten beynin dönüşfürülürken dediklerimi
+anlamayacaksın.
+> END STRING
+
+> BEGIN STRING
+我特地添加了能让你乖乖听话的药物呢
+> CONTEXT: Map057/events/53/pages/0/536/Dialogue
+Serumun içine senin bana itaat etmeni
+sağlayacak ilaçlar ekledim.
+> END STRING
+
+> BEGIN STRING
+以后你就只能听我的了呢
+> CONTEXT: Map057/events/53/pages/0/538/Dialogue
+Artık sadece benim sözümü dinleyeceksin.
+> END STRING
+
+> BEGIN STRING
+那
+> CONTEXT: Map057/events/53/pages/0/541/Dialogue
+Hmm...
+> END STRING
+
+> BEGIN STRING
+乖乖的待在这
+> CONTEXT: Map057/events/53/pages/0/543/Dialogue
+burada usluca dur. Olur mu oğlum ?
+> END STRING
+
+> BEGIN STRING
+好好享受你的改造吧
+> CONTEXT: Map057/events/53/pages/0/545/Dialogue
+Hadi kendine iyi bak.
+> END STRING
+
+> BEGIN STRING
+明天见
+> CONTEXT: Map057/events/53/pages/0/547/Dialogue
+Yarın görüşürüz.
+> END STRING
+
+> BEGIN STRING
+你的那位朋友
+> CONTEXT: Map057/events/53/pages/0/554/Dialogue
+Bu arada...senin eski dostun konusunda...
+> END STRING
+
+> BEGIN STRING
+在他原先破碎的核那里
+> CONTEXT: Map057/events/53/pages/0/556/Dialogue
+Kırılmış maskesi...
+> END STRING
+
+> BEGIN STRING
+长出了小小的美丽结晶呢
+> CONTEXT: Map057/events/53/pages/0/558/Dialogue
+küçük harika kristaller oluşturmaya başladı.
+> END STRING
+
+> BEGIN STRING
+或许你们两个
+> CONTEXT: Map057/events/53/pages/0/560/Dialogue
+Siz ikiniz de...
+> END STRING
+
+> BEGIN STRING
+能够一起迎来重生
+> CONTEXT: Map057/events/53/pages/0/562/Dialogue
+küllerinizden yeniden doğdunuz.
+> END STRING
+
+> BEGIN STRING
+真有趣啊
+> CONTEXT: Map057/events/53/pages/0/565/Dialogue
+aslında çok komik bir rastlantı.
+> END STRING
+
+> BEGIN STRING
+一起转变吧
+> CONTEXT: Map057/events/53/pages/0/567/Dialogue
+ikiniz de aynı anda "değiştiniz"
+> END STRING
+
+> BEGIN STRING
+'1/2'
+> CONTEXT: Map057/events/53/pages/0/571/InlineScript/2:23
+'1/2'
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

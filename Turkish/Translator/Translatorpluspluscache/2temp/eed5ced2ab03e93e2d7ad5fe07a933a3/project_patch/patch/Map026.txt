@@ -1,0 +1,22 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+请不要再擅自进到维修通道里去了！近期还
+有些实验样本逃进去之后了无踪影的传闻！
+很危险啊！无论因为什么理由都不要再进去
+了啊！
+> CONTEXT: Map026/events/14/pages/0/1/Dialogue
+Lütfen bakım tünellerine izinsiz girmeyin !
+Bazı numunelerin kaçtığıyla iligli söylentiler
+var ! Çok dikkatli olun !
+> END STRING
+
+> BEGIN STRING
+字典，封胶都被翻烂了
+> CONTEXT: Map026/events/41/pages/0/0/Dialogue
+Kitap kırıştırılmış.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

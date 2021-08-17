@@ -1,0 +1,197 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…喂，去哪里
+> CONTEXT: Map066/events/1/pages/0/2/Dialogue
+> CONTEXT: Map066/events/2/pages/0/2/Dialogue
+...Hey, nereye gidiyorsun.
+> END STRING
+
+> BEGIN STRING
+真的没有必要回头了，真的
+> CONTEXT: Map066/events/1/pages/1/0/Dialogue
+> CONTEXT: Map066/events/2/pages/1/0/Dialogue
+Gerçekten geriye dönmenin bir anlamı yok.
+> END STRING
+
+> BEGIN STRING
+…我看过这栋建筑的地图，我看的没错的话
+，前面就是实验室了
+> CONTEXT: Map066/events/3/pages/0/6/Dialogue
+...Bu binanın haritasını daha önce de
+gördüm. Eğer doğru hatırlıyorsam
+önümüzde ana laboratuvar var.
+> END STRING
+
+> BEGIN STRING
+…再努力一下……
+> CONTEXT: Map066/events/3/pages/0/9/Dialogue
+...Son bir çaba...
+> END STRING
+
+> BEGIN STRING
+…想想这次冒险就要结束了
+> CONTEXT: Map066/events/3/pages/0/12/Dialogue
+...Düşündüm de ne kadar da
+ilerlemişiz.
+> END STRING
+
+> BEGIN STRING
+…很激动呢
+> CONTEXT: Map066/events/3/pages/0/14/Dialogue
+...Çok heyecanlıyım.
+> END STRING
+
+> BEGIN STRING
+…好了，重整旗鼓，我也差不多恢复体力了
+> CONTEXT: Map066/events/3/pages/0/16/Dialogue
+...Neyse, hadi artık buradan kurtulmaya
+odaklanalım.
+> END STRING
+
+> BEGIN STRING
+…走吧人类！
+> CONTEXT: Map066/events/3/pages/0/18/Dialogue
+...Başaracağına inanıyorum, İnsan !
+> END STRING
+
+> BEGIN STRING
+…等会儿，那是道密码门吗
+> CONTEXT: Map066/events/3/pages/0/21/Dialogue
+...Bir saniye. Kapının şifresi mi var ?
+> END STRING
+
+> BEGIN STRING
+…好安静，但我好慌……
+> CONTEXT: Map066/events/3/pages/1/0/Dialogue
+...Burası çok sessiz. 
+Tedirgin hissediyorum...
+> END STRING
+
+> BEGIN STRING
+…时刻警惕，人类，这里可是实验室，所有
+胶兽的出生地
+> CONTEXT: Map066/events/3/pages/1/2/Dialogue
+...Artık ana laboratuvardayız. Bütün
+lateks hayvanların doğduğu yer.
+> END STRING
+
+> BEGIN STRING
+…可怕…………
+> CONTEXT: Map066/events/3/pages/1/5/Dialogue
+...Korkutucu...
+> END STRING
+
+> BEGIN STRING
+…我不太会解密
+> CONTEXT: Map066/events/3/pages/2/0/Dialogue
+...Şifre çözmekte iyi değilim.
+> END STRING
+
+> BEGIN STRING
+…碰见锁住的门的话，只能慢慢寻找记录了
+密码的东西
+> CONTEXT: Map066/events/3/pages/2/2/Dialogue
+...Kilitli bir kapıya rastlarsan şifreyle alakalı
+belgeleri araştırman gerekiyor.
+> END STRING
+
+> BEGIN STRING
+…很费事费时，但我往日本来就没什么事做
+……
+> CONTEXT: Map066/events/3/pages/2/5/Dialogue
+...Şifre çözmek çok zamanımı alıyor ve genelde
+Japonya hakkında hayallere dalıyorum...
+> END STRING
+
+> BEGIN STRING
+显微镜？
+> CONTEXT: Map066/events/7/pages/0/0/Dialogue
+> CONTEXT: Map066/events/36/pages/0/0/Dialogue
+Bir mikroskop mu ?
+> END STRING
+
+> BEGIN STRING
+某次试验的残留物
+> CONTEXT: Map066/events/9/pages/0/0/Dialogue
+> CONTEXT: Map066/events/37/pages/0/0/Dialogue
+Bir deneyin ardından ortada bırakılmış bir şey...
+> END STRING
+
+> BEGIN STRING
+好吧…你已经见过不少锁住的门了，这一个也是
+> CONTEXT: Map066/events/11/pages/0/0/Dialogue
+> CONTEXT: Map066/events/12/pages/0/0/Dialogue
+Daha önce de kilitli kapılarla karşılaştın. Bunun
+da bir farkı yok.
+> END STRING
+
+> BEGIN STRING
+这台机器可以输入密码
+> CONTEXT: Map066/events/29/pages/0/0/Dialogue
+Parolamatik.
+> END STRING
+
+> BEGIN STRING
+试着输入一下密码看看吧
+> CONTEXT: Map066/events/29/pages/0/2/Dialogue
+> CONTEXT: Map001/events/49/pages/0/3/Dialogue
+Parolayı yazmayı dene.
+> END STRING
+
+> BEGIN STRING
+什么东西打开了
+> CONTEXT: Map066/events/29/pages/0/7/Dialogue
+> CONTEXT: Map037/events/3/pages/0/6/Dialogue
+> CONTEXT: Map022/events/47/pages/2/8/Dialogue
+> CONTEXT: Map020/events/45/pages/1/8/Dialogue
+> CONTEXT: Map001/events/49/pages/0/8/Dialogue
+> CONTEXT: Map001/events/49/pages/1/5/Dialogue
+Bir şey açıldı.
+> END STRING
+
+> BEGIN STRING
+…虽然不知道你是怎么解出来的！
+> CONTEXT: Map066/events/29/pages/0/21/Dialogue
+...Nasıl çözdüğünü anlamasam da...
+> END STRING
+
+> BEGIN STRING
+…但是还是好崇拜啊！
+> CONTEXT: Map066/events/29/pages/0/23/Dialogue
+...seni gene de takdir ediyorum !
+> END STRING
+
+> BEGIN STRING
+…我就知道交给人类你就可以了
+> CONTEXT: Map066/events/29/pages/0/25/Dialogue
+...Sana güvenebileceğimi biliyordum.
+> END STRING
+
+> BEGIN STRING
+……虽然有个数字是你猜的
+> CONTEXT: Map066/events/29/pages/0/28/Dialogue
+*...Hmm, gene de bir haneyi salladın.
+> END STRING
+
+> BEGIN STRING
+密码错误？
+> CONTEXT: Map066/events/29/pages/0/32/Dialogue
+Yanlış şifre.
+> END STRING
+
+> BEGIN STRING
+已经解开密码锁了
+> CONTEXT: Map066/events/29/pages/1/0/Dialogue
+Parola kabul edildi.
+> END STRING
+
+> BEGIN STRING
+地板上刻了一个“1”
+> CONTEXT: Map066/events/32/pages/0/0/Dialogue
+"1" rakamı zemine kazınmış.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

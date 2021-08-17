@@ -1,0 +1,86 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…呼、呼呼、呼……
+> CONTEXT: Map073/events/1/pages/0/11/Dialogue
+...Of...of...of...
+> END STRING
+
+> BEGIN STRING
+…刚才真的是千钧一发
+> CONTEXT: Map073/events/1/pages/0/13/Dialogue
+...Az daha öbür tarafı boyluyorduk.
+> END STRING
+
+> BEGIN STRING
+…情况紧急，那个时候我没有别的选择，只
+要人类你安全就好了吧，反正我还是能脱身
+的
+> CONTEXT: Map073/events/1/pages/0/15/Dialogue
+...Çok stresli bir andı. Başka seçeneğim
+yoktu. Sadece senin güvende olmanı
+istemiştim. Ben kendi başımın çaresine
+bakabilirim.
+> END STRING
+
+> BEGIN STRING
+…就使劲的把你丢出去了…只要你能逃走就
+好…
+> CONTEXT: Map073/events/1/pages/0/19/Dialogue
+...Bu yüzden seni gücümün yettiği
+kadar uzağa fırlattım. Kaçmayı
+başarmış olman harika bir şey.
+> END STRING
+
+> BEGIN STRING
+…结果他们完全没有理会我，又直直的追你
+去了
+> CONTEXT: Map073/events/1/pages/0/22/Dialogue
+...Bana hiç bakmadılar bile. Hepsi
+sana odaklanmıştı
+> END STRING
+
+> BEGIN STRING
+…抱歉，你没摔坏吧
+> CONTEXT: Map073/events/1/pages/0/25/Dialogue
+...Özür dilerim. Umarım bir yerin
+kırılmamıştır.
+> END STRING
+
+> BEGIN STRING
+…真的没事吗
+> CONTEXT: Map073/events/1/pages/0/27/Dialogue
+...Gerçekten mi ? Bir şeyin yok yani ?
+> END STRING
+
+> BEGIN STRING
+…那再被包围我就把你丢出去！
+> CONTEXT: Map073/events/1/pages/0/30/Dialogue
+...Bunu duyduğuma sevindim. Bir daha
+etrafın sarıldığında seni tekrar
+fırlatacağım !
+> END STRING
+
+> BEGIN STRING
+…这可是最简单易行的办法呢
+> CONTEXT: Map073/events/1/pages/0/32/Dialogue
+...Kaçmanın en kolay yolu bu.
+> END STRING
+
+> BEGIN STRING
+…留意脚下，环顾四周
+> CONTEXT: Map073/events/1/pages/1/0/Dialogue
+...Attığın adıma dikkat et.
+> END STRING
+
+> BEGIN STRING
+…你回来做什么啊啊啊啊啊啊？！？！
+> CONTEXT: Map073/events/1/pages/3/0/Dialogue
+> CONTEXT: Map072/events/3/pages/3/0/Dialogue
+...NE YAPIYORSUN ! İNSAAAAAAN! KAFAYI MI
+YEDIN ! GERI GELMEMELIYDIN !
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

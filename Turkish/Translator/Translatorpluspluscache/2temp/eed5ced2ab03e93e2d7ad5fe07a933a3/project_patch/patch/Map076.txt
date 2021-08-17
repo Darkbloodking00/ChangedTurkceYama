@@ -1,0 +1,72 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…和我那里不一样，这里的结晶都是红色的
+> CONTEXT: Map076/events/344/pages/0/27/Dialogue
+...Bu yerdeki şey de ne böyle ?
+İlk kez böyle kristaller görüyorum.
+> END STRING
+
+> BEGIN STRING
+…但其他方面应该差不多
+> CONTEXT: Map076/events/344/pages/0/29/Dialogue
+...Hmm, bazı yönleriyle kızıl kristaller
+bizimkiler benzer olmalı.
+> END STRING
+
+> BEGIN STRING
+…这里似乎没人，也算是件好事吧
+> CONTEXT: Map076/events/344/pages/0/31/Dialogue
+...Burada da kimse yok gibi görünüyor.
+> END STRING
+
+> BEGIN STRING
+…只是你可别傻傻的撞到结晶上了，你会变身的
+> CONTEXT: Map076/events/344/pages/0/33/Dialogue
+...Salak gibi kristallere çarpma yoksa
+dönüşfürüleceksin.
+> END STRING
+
+> BEGIN STRING
+…你干嘛用那种眼神看我……我的脚爪很奇
+怪吗
+> CONTEXT: Map076/events/344/pages/0/36/Dialogue
+...Neden ayaklarıma öyle bakıyorsun ?
+Patilerim güzel, değil mi ?
+> END STRING
+
+> BEGIN STRING
+…嗯？滑？为什么会滑？
+> CONTEXT: Map076/events/344/pages/0/40/Dialogue
+...Ne, zemin kaygan mı ?
+> END STRING
+
+> BEGIN STRING
+…人类的脚底没有肉垫吗
+> CONTEXT: Map076/events/344/pages/0/42/Dialogue
+...İnsan'ın patileri yok mu ?
+> END STRING
+
+> BEGIN STRING
+…没、没有的嘛？！
+> CONTEXT: Map076/events/344/pages/0/45/Dialogue
+...Ne, hiç mi yok ?
+> END STRING
+
+> BEGIN STRING
+…这种事情我没有注意过…看来我对人类的
+了解还不够……
+> CONTEXT: Map076/events/344/pages/0/48/Dialogue
+...Gözlerim detayları çok iyi seçmez.
+Kusura bakma, fark edememişim.
+> END STRING
+
+> BEGIN STRING
+…我、我们继续前进吧！
+> CONTEXT: Map076/events/344/pages/0/51/Dialogue
+...Ben, aaa...neyse hadi gidelim.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

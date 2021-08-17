@@ -1,0 +1,337 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+打不开，自动闸门死死地关着
+> CONTEXT: Map045/events/312/pages/0/0/Dialogue
+> CONTEXT: Map045/events/313/pages/0/0/Dialogue
+> CONTEXT: Map045/events/320/pages/0/0/Dialogue
+> CONTEXT: Map045/events/322/pages/0/0/Dialogue
+> CONTEXT: Map045/events/323/pages/0/0/Dialogue
+Kapı kapalı.
+> END STRING
+
+> BEGIN STRING
+也许有了电之后就能打开
+> CONTEXT: Map045/events/312/pages/0/2/Dialogue
+> CONTEXT: Map045/events/313/pages/0/2/Dialogue
+> CONTEXT: Map045/events/320/pages/0/2/Dialogue
+> CONTEXT: Map045/events/322/pages/0/2/Dialogue
+> CONTEXT: Map045/events/323/pages/0/2/Dialogue
+Belki elektriği geri getirdiğinde açılır.
+> END STRING
+
+> BEGIN STRING
+…没找到其他路，所以就趟水过来了
+> CONTEXT: Map045/events/314/pages/1/0/Dialogue
+...Başka bir yol bulamadım. Bu yüzden
+sudan geçtim.
+> END STRING
+
+> BEGIN STRING
+…尾巴湿透了，身体一下子变得好沉……
+> CONTEXT: Map045/events/314/pages/1/2/Dialogue
+...Kuyruğum sırılsıklam oldu ve
+tüylerim de su çekmeye başladı...
+> END STRING
+
+> BEGIN STRING
+…我、我是胶兽但是我也有毛啊
+> CONTEXT: Map045/events/314/pages/1/5/Dialogue
+...B-Ben lateks bir yaratık olabilirim
+ama bilirsin, benim de tüylerim var.
+> END STRING
+
+> BEGIN STRING
+…我把水拧干就跟上你
+> CONTEXT: Map045/events/314/pages/2/0/Dialogue
+...Tüylerimi kurutmaya çalışıyorum.
+Yakında sana yetişirim.
+> END STRING
+
+> BEGIN STRING
+…遇到危险了叫我哦
+> CONTEXT: Map045/events/314/pages/2/2/Dialogue
+...Tehlikede olduğun zaman bana seslen.
+> END STRING
+
+> BEGIN STRING
+…即使拖着一吨重的尾巴！我也会飞速的去
+救你！
+> CONTEXT: Map045/events/314/pages/2/4/Dialogue
+...Bu koca ıslak kuyruğumu sürüklemem
+gerekse bile tüm gücümle seni
+kurtarmaya geleceğim !
+> END STRING
+
+> BEGIN STRING
+…ZZZZZ
+> CONTEXT: Map045/events/314/pages/3/0/Dialogue
+> CONTEXT: Map045/events/314/pages/3/5/Dialogue
+HORRRR....
+> END STRING
+
+> BEGIN STRING
+普罗睡着了
+> CONTEXT: Map045/events/314/pages/3/7/Dialogue
+Puro horul horul uyuyor.
+> END STRING
+
+> BEGIN STRING
+叫醒他
+> CONTEXT: Map045/events/314/pages/3/10/Choice/0
+Uyandır onu.
+> END STRING
+
+> BEGIN STRING
+让他休息
+> CONTEXT: Map045/events/314/pages/3/10/Choice/1
+Bırak uyusun.
+> END STRING
+
+> BEGIN STRING
+你拨弄了一下普罗的耳朵
+> CONTEXT: Map045/events/314/pages/3/13/Dialogue
+Puro'nun kulaklarını dürttün.
+> END STRING
+
+> BEGIN STRING
+………………？
+> CONTEXT: Map045/events/314/pages/3/21/Dialogue
+………………?
+> END STRING
+
+> BEGIN STRING
+…诶！我睡着了
+> CONTEXT: Map045/events/314/pages/3/26/Dialogue
+...Ha ! Uyuya mı kalmışım ?
+> END STRING
+
+> BEGIN STRING
+…在狭小的管道间里爬了那么久，我真的好
+累了
+> CONTEXT: Map045/events/314/pages/3/29/Dialogue
+...O daracık havalandırma borularında
+sürünürken baya iyi yorulmuşum
+> END STRING
+
+> BEGIN STRING
+…这里挺暖和的，就情不自禁的想小憩一会
+儿……
+> CONTEXT: Map045/events/314/pages/3/32/Dialogue
+...Burası çok sıcak. Bi' kestireyim demişim.
+Elimde değil.
+> END STRING
+
+> BEGIN STRING
+…你的脸上，那是水，还是汗水？
+> CONTEXT: Map045/events/314/pages/3/36/Dialogue
+...Bir saniye. Yüzündeki şey su mu yoksa 
+ter mi ?
+> END STRING
+
+> BEGIN STRING
+…我睡着的时候，发生什么了吗
+> CONTEXT: Map045/events/314/pages/3/38/Dialogue
+...Ben uyurken ne yaşadın ?!
+> END STRING
+
+> BEGIN STRING
+…诶？？？？！
+> CONTEXT: Map045/events/314/pages/3/41/Dialogue
+…Ne ? ? ? ? !
+> END STRING
+
+> BEGIN STRING
+…真、真的吗
+> CONTEXT: Map045/events/314/pages/3/43/Dialogue
+...C-Ciddi misin ?
+> END STRING
+
+> BEGIN STRING
+…难以想象那是有多困难呢，但你还是安然
+无恙，是吧
+> CONTEXT: Map045/events/314/pages/3/45/Dialogue
+...Bunun senin için ne kadar zor olduğunu
+hayal etmek güç ama artık güvendesin,
+değil mi ?
+> END STRING
+
+> BEGIN STRING
+…你、你好厉害啊
+> CONTEXT: Map045/events/314/pages/3/48/Dialogue
+...S-Sen muhteşemsin.
+> END STRING
+
+> BEGIN STRING
+…看来，或许你没有看起来那么弱小
+> CONTEXT: Map045/events/314/pages/3/51/Dialogue
+...Belki göründüğü kadar güçsüz değilsindir.
+> END STRING
+
+> BEGIN STRING
+…真优秀呢
+> CONTEXT: Map045/events/314/pages/3/53/Dialogue
+...güzel.
+> END STRING
+
+> BEGIN STRING
+…你、你在发抖呢，真的不要紧么
+> CONTEXT: Map045/events/314/pages/3/56/Dialogue
+...Titriyorsun. İyi misin ?
+> END STRING
+
+> BEGIN STRING
+…好像是着凉了呢
+> CONTEXT: Map045/events/314/pages/3/58/Dialogue
+...Üşütmüş gibi görünüyorsun.
+> END STRING
+
+> BEGIN STRING
+…你身上连一件衣服都没有
+> CONTEXT: Map045/events/314/pages/3/60/Dialogue
+...Vücudunu kaplayan hemen hemen hiçbir
+kıyafet yok.
+> END STRING
+
+> BEGIN STRING
+…休息下吧
+> CONTEXT: Map045/events/314/pages/3/62/Dialogue
+...Biraz dinlenmek ister misin ?
+> END STRING
+
+> BEGIN STRING
+…我的尾巴很暖和的
+> CONTEXT: Map045/events/314/pages/3/64/Dialogue
+...Kuyruğum seni sıcak tutacak.
+> END STRING
+
+> BEGIN STRING
+在普罗身旁休息一会儿？
+> CONTEXT: Map045/events/314/pages/3/67/Dialogue
+Puro'nun yanında oturmak ister misin ?
+> END STRING
+
+> BEGIN STRING
+普罗困倦的闭上了眼睛……
+> CONTEXT: Map045/events/314/pages/3/84/Dialogue
+Puro'nun gözlerine ağırlık çöküyor...
+> END STRING
+
+> BEGIN STRING
+普罗又昏睡过去了…还是不要打扰他了
+> CONTEXT: Map045/events/314/pages/3/108/Dialogue
+Puro yeniden uykuya dalıyor. Onu rahatsız
+etmek istemiyorsun.
+> END STRING
+
+> BEGIN STRING
+你站起身，把普罗的大尾巴放回原位
+> CONTEXT: Map045/events/314/pages/3/110/Dialogue
+Ayağa kalkar ve kuyruğu geri yerine
+koyarsın.
+> END STRING
+
+> BEGIN STRING
+…那，请加油
+> CONTEXT: Map045/events/314/pages/3/117/Dialogue
+...Sen gidebilirsin.
+> END STRING
+
+> BEGIN STRING
+…我、我再睡会儿……
+> CONTEXT: Map045/events/314/pages/3/119/Dialogue
+...B-Ben biraz daha kestireceğim.
+> END STRING
+
+> BEGIN STRING
+…努力保持…清醒……
+> CONTEXT: Map045/events/314/pages/4/0/Dialogue
+...Uyanık kalmaya...çalışıyorum.
+> END STRING
+
+> BEGIN STRING
+湿漉漉的大尾巴
+> CONTEXT: Map045/events/315/pages/1/0/Dialogue
+> CONTEXT: Map045/events/316/pages/1/0/Dialogue
+Koca ıslak bir kuyruk.
+> END STRING
+
+> BEGIN STRING
+蓬松的大尾巴
+> CONTEXT: Map045/events/315/pages/2/0/Dialogue
+> CONTEXT: Map045/events/316/pages/2/0/Dialogue
+Koca pofuduk bir kuyruk.
+> END STRING
+
+> BEGIN STRING
+我不明白为什么那么多人喜欢把告示随便乱贴
+> CONTEXT: Map045/events/319/pages/0/1/Dialogue
+Neden bir sürü kişinin bu notları
+bıraktığını anlamıyorum.
+> END STRING
+
+> BEGIN STRING
+所以我也装模做样的贴了一张
+> CONTEXT: Map045/events/319/pages/0/4/Dialogue
+Bu yüzden ben de bir tane yaptım.
+> END STRING
+
+> BEGIN STRING
+很有趣吧，你正在读呢
+> CONTEXT: Map045/events/319/pages/0/7/Dialogue
+Sanırım bunu okuduğuna göre
+yeterince ilginç olmalı.
+> END STRING
+
+> BEGIN STRING
+你已经满身鱼味儿了，难道你还没有受够？
+> CONTEXT: Map045/events/320/pages/2/0/Dialogue
+> CONTEXT: Map045/events/322/pages/2/0/Dialogue
+> CONTEXT: Map045/events/323/pages/2/0/Dialogue
+Leş gibi balık kokuyorsun. Onlarla
+yeterince uğraşmadın mı sanki ?
+> END STRING
+
+> BEGIN STRING
+就是普通的报纸而已
+> CONTEXT: Map045/events/321/pages/0/0/Dialogue
+Sıradan bir gazete kağıdı.
+> END STRING
+
+> BEGIN STRING
+上面全是褪色了的广告插图
+> CONTEXT: Map045/events/321/pages/0/2/Dialogue
+İlüstrasyonlar hep solmuş.
+> END STRING
+
+> BEGIN STRING
+和一些值得怀念的人类社会日常信息
+> CONTEXT: Map045/events/321/pages/0/4/Dialogue
+Ayrıca insan toplumu hakkında gündelik
+bilgiler yazıyor.
+> END STRING
+
+> BEGIN STRING
+没什么用，但你忍不住的多看了两眼
+> CONTEXT: Map045/events/321/pages/0/6/Dialogue
+Çok önemli gözükmüyor ama gene de 
+gözünü gazeteden ayıramıyorsun.
+> END STRING
+
+> BEGIN STRING
+从未感受过，能够畅快奔跑居然是这样令人开心的一
+件事
+> CONTEXT: Map045/events/324/pages/0/1/Dialogue
+Özgürce koşabildiğin için hiç bu kadar
+iyi hissetmemiştin.
+> END STRING
+
+> BEGIN STRING
+你抖了抖被水泡肿了的脚
+> CONTEXT: Map045/events/324/pages/0/5/Dialogue
+Buruşmuş ayaklarındaki suyu silkeledin.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

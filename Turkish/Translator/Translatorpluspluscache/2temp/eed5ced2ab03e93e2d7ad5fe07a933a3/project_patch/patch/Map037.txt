@@ -1,0 +1,276 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+回忆一下是否看过和密码相关的东西？试着输入看看吧
+> CONTEXT: Map037/events/3/pages/0/1/Dialogue
+Parolayı andıran herhangi bir şey gördün mü ?
+Parolayı girmeyi dene.
+> END STRING
+
+> BEGIN STRING
+没能打开
+> CONTEXT: Map037/events/3/pages/0/13/Dialogue
+> CONTEXT: Map022/events/47/pages/2/15/Dialogue
+> CONTEXT: Map020/events/45/pages/1/15/Dialogue
+Açılmadı.
+> END STRING
+
+> BEGIN STRING
+快点回忆一下……
+> CONTEXT: Map037/events/3/pages/0/15/Dialogue
+Şifreyi yeniden gir.
+> END STRING
+
+> BEGIN STRING
+已经解开了
+> CONTEXT: Map037/events/3/pages/1/0/Dialogue
+> CONTEXT: Map022/events/47/pages/3/0/Dialogue
+> CONTEXT: Map020/events/45/pages/2/0/Dialogue
+Zaten açılmış.
+> END STRING
+
+> BEGIN STRING
+呃…锁着的
+> CONTEXT: Map037/events/6/pages/0/1/Dialogue
+> CONTEXT: Map037/events/7/pages/0/1/Dialogue
+Aaa...kilitli.
+> END STRING
+
+> BEGIN STRING
+密码在前面的空调区里有，找不到的话回去看看，那个
+沟挺深的，还是别想跳过去了吧，很危险的
+> CONTEXT: Map037/events/11/pages/0/1/Dialogue
+Parola havalandırma odasında. Eğer
+bulamadıysan geri git. Ama boşluklara
+dikkat et.
+> END STRING
+
+> BEGIN STRING
+这个箱子被打开了…或许里面装的不是垃圾？
+> CONTEXT: Map037/events/14/pages/0/0/Dialogue
+Bu kutu daha önce açılmış...
+Belki içinde yararlı bir şeyler vardır.
+> END STRING
+
+> BEGIN STRING
+要看一看吗？
+> CONTEXT: Map037/events/14/pages/0/2/Dialogue
+İçine bakacak mısın ?
+> END STRING
+
+> BEGIN STRING
+你伸手拉开了虚掩着的箱子，想看个究竟
+> CONTEXT: Map037/events/14/pages/0/10/Dialogue
+Kutuyu açmak için elini uzattın. İçinde ne
+olduğunu görmek istedin.
+> END STRING
+
+> BEGIN STRING
+一股粘液，早就在箱子里等着你了，在你的脑袋伸过去
+的一瞬间，这股粘液猛地把你撞倒在地
+> CONTEXT: Map037/events/14/pages/0/13/Dialogue
+İçinde seni bekleyen az bir miktar lateks başına
+atladı. Lateks seni birden yere serdi.
+> END STRING
+
+> BEGIN STRING
+强烈的窒息感，你伸手抓脸上的粘液，但这只是让粘液
+扩散的更快而已
+> CONTEXT: Map037/events/14/pages/0/16/Dialogue
+Nefes alamıyordun.
+Yüzündeki latekse elini uzatmaya çalışıyordun
+ama bu onun daha da yayılmasına neden oldu.
+> END STRING
+
+> BEGIN STRING
+不一会儿，你终于能够呼吸了…但有些奇怪，你的鼻子
+变长了？
+> CONTEXT: Map037/events/14/pages/0/19/Dialogue
+Birkaç saniye sonra tekrar nefes almaya
+başladın...ama garip bir şekilde burnun
+uzamıştı.
+> END STRING
+
+> BEGIN STRING
+你用手抹了一把脸，勉强睁开眼看了看自己的情况
+> CONTEXT: Map037/events/14/pages/0/22/Dialogue
+Elini yüzüne koydun ve gözlerini yavaşça açtın.
+> END STRING
+
+> BEGIN STRING
+……………………？
+> CONTEXT: Map037/events/14/pages/0/27/Dialogue
+……………………?
+> END STRING
+
+> BEGIN STRING
+内心充满了疑问，你明确的知道自己被兽化了……但是
+……
+> CONTEXT: Map037/events/14/pages/0/29/Dialogue
+Aklında çok soru vardı ve bir canavar olduğunu
+anlamıştın ama...
+> END STRING
+
+> BEGIN STRING
+你变成的这个究竟是什么动物啊……
+> CONTEXT: Map037/events/14/pages/0/33/Dialogue
+Tam olarak neye dönüşmüştün...?
+> END STRING
+
+> BEGIN STRING
+上面写着全球各地都有发生不明原因的失踪案件
+> CONTEXT: Map037/events/26/pages/0/0/Dialogue
+> CONTEXT: Map033/events/32/pages/0/0/Dialogue
+Butün dünyada açıklanamayan kayıp 
+insan vakalarının olduğunu yazıyor.
+> END STRING
+
+> BEGIN STRING
+“失踪者的普遍特点是不常与人交流，宅男为主”
+> CONTEXT: Map037/events/26/pages/0/2/Dialogue
+> CONTEXT: Map033/events/32/pages/0/2/Dialogue
+"Kayıp vakaların ortak özellikleri onların
+insanlarla konuşmayan ve kendilerini
+keşiş gibi izole eden kişiler olmalarıydı."
+> END STRING
+
+> BEGIN STRING
+还有一篇是关于冰川融化的报道
+> CONTEXT: Map037/events/26/pages/0/4/Dialogue
+> CONTEXT: Map033/events/32/pages/0/4/Dialogue
+Sonraki rapor eriyen permafrost ile alakalı.
+> END STRING
+
+> BEGIN STRING
+紧挨着的就是汽车广告
+> CONTEXT: Map037/events/26/pages/0/6/Dialogue
+> CONTEXT: Map033/events/32/pages/0/6/Dialogue
+Ama ardından gelen sayfa tamamen araba
+reklamlarıyla dolu.
+> END STRING
+
+> BEGIN STRING
+………………………………………………………………
+> CONTEXT: Map037/events/29/pages/0/1/Dialogue
+………………………………………………………………
+> END STRING
+
+> BEGIN STRING
+全是故障应对方法，看不懂
+> CONTEXT: Map037/events/29/pages/0/3/Dialogue
+Arıza onarımı ile alakalı. Hiçbir şey anlamıyorsun.
+> END STRING
+
+> BEGIN STRING
+…嘿！
+> CONTEXT: Map037/events/33/pages/0/5/Dialogue
+...Buraya bak !
+> END STRING
+
+> BEGIN STRING
+…这边啦这边！！
+> CONTEXT: Map037/events/33/pages/0/16/Dialogue
+...Buraya buraya !  !
+> END STRING
+
+> BEGIN STRING
+…我啦，是我啦，普罗
+> CONTEXT: Map037/events/33/pages/0/25/Dialogue
+...Benim ben, Puro !
+> END STRING
+
+> BEGIN STRING
+…刚才我都看见了哦
+> CONTEXT: Map037/events/33/pages/0/32/Dialogue
+...Az önce seni gördüm !
+> END STRING
+
+> BEGIN STRING
+…好棒，你居然能跑那么快
+> CONTEXT: Map037/events/33/pages/0/34/Dialogue
+...Bu kadar hızlı koşabilmen iyi.
+> END STRING
+
+> BEGIN STRING
+…好优秀
+> CONTEXT: Map037/events/33/pages/0/36/Dialogue
+...Harika.
+> END STRING
+
+> BEGIN STRING
+…看来我不需要为你担心什么了
+> CONTEXT: Map037/events/33/pages/0/38/Dialogue
+...Artık seni dert etmeme gerek yok.
+> END STRING
+
+> BEGIN STRING
+…加油呢，还有大段路要走
+> CONTEXT: Map037/events/33/pages/0/40/Dialogue
+...Hadi, daha çok yolumuz var.
+> END STRING
+
+> BEGIN STRING
+…期待你的表现呢，人类
+> CONTEXT: Map037/events/33/pages/0/42/Dialogue
+...Nasıl ilerleme kaydedeceğini merakla
+bekliyorum.
+> END STRING
+
+> BEGIN STRING
+…我要走了哦
+> CONTEXT: Map037/events/33/pages/0/46/Dialogue
+...Şimdi gitmem gerek.
+> END STRING
+
+> BEGIN STRING
+…前面都是你走过的路
+> CONTEXT: Map037/events/33/pages/0/48/Dialogue
+...Bir sonraki gideceğin yeri biliyorsun.
+> END STRING
+
+> BEGIN STRING
+…应该不会有什么问题的啦
+> CONTEXT: Map037/events/33/pages/0/50/Dialogue
+...Senin için hiç sorun olmamalı.
+> END STRING
+
+> BEGIN STRING
+…那，电力室再见呐
+> CONTEXT: Map037/events/33/pages/0/52/Dialogue
+...O zaman jeneratör odasında görüşürüz.
+> END STRING
+
+> BEGIN STRING
+…一路小心！
+> CONTEXT: Map037/events/33/pages/0/54/Dialogue
+...Yolun açık olsun.
+> END STRING
+
+> BEGIN STRING
+普罗滑走了
+> CONTEXT: Map037/events/33/pages/0/58/Dialogue
+Puro oradan uzaklaştı.
+> END STRING
+
+> BEGIN STRING
+某人的私人照片散落一地
+> CONTEXT: Map037/events/36/pages/0/0/Dialogue
+Birinin özel fotografları etrafa saçılmış.
+> END STRING
+
+> BEGIN STRING
+可能是旅行时拍的，照片上的人笑得很灿烂
+> CONTEXT: Map037/events/36/pages/0/2/Dialogue
+Fotograftakiler çok mutlu görünüyor. Belki de
+bir gezi sırasında çekmişlerdir.
+> END STRING
+
+> BEGIN STRING
+但现在，他只剩下了这些照片……
+> CONTEXT: Map037/events/36/pages/0/4/Dialogue
+Fotograflar onlardan geriye kalan tek kalıntı...
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

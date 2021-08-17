@@ -1,0 +1,151 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+控制图书馆大门的装置
+> CONTEXT: Map027/events/42/pages/0/0/Dialogue
+Kütüphanenin kapısını kontrol
+eden bir cihaz.
+> END STRING
+
+> BEGIN STRING
+刚才你已经从另一侧把它打开了
+> CONTEXT: Map027/events/42/pages/0/2/Dialogue
+> CONTEXT: Map014/events/255/pages/0/2/Dialogue
+Kapıyı zaten öbür taraftan açtın.
+> END STRING
+
+> BEGIN STRING
+金天我吃了一小快尾巴怪，未道真的不咋地
+> CONTEXT: Map027/events/49/pages/0/1/Dialogue
+Bugün bir kuyuk canavarı yedim.
+Tadı çok kötüdü.
+> END STRING
+
+> BEGIN STRING
+写了一些蹩脚的文字，“这个图书管里有大亮带有红色
+花文的白胶变种，奇圣”
+> CONTEXT: Map027/events/58/pages/0/0/Dialogue
+> CONTEXT: Map027/events/65/pages/0/0/Dialogue
+> CONTEXT: Map027/events/66/pages/0/0/Dialogue
+Berbat bir el yazısıyla yazılmış
+posterde: "Kütüpenede kırmız
+çizgili çok beyaz lateks var" yazıyor.
+> END STRING
+
+> BEGIN STRING
+“我巴这个逢松的尾巴状百胶称为尾巴怪，说真的，他
+门的寄生方式挺有取的“
+> CONTEXT: Map027/events/59/pages/0/0/Dialogue
+> CONTEXT: Map027/events/67/pages/0/0/Dialogue
+> CONTEXT: Map027/events/68/pages/0/0/Dialogue
+Kuyrug canavarları oldukça pofutuk.
+Asimile etme yontemleri sıra dısı.
+> END STRING
+
+> BEGIN STRING
+画着普罗捕食白胶的画面
+> CONTEXT: Map027/events/60/pages/0/0/Dialogue
+> CONTEXT: Map027/events/69/pages/0/0/Dialogue
+> CONTEXT: Map027/events/70/pages/0/0/Dialogue
+Puro tarafından avlanmakta olan bir
+beyaz lateks.
+> END STRING
+
+> BEGIN STRING
+用“狂草”写了一些完全看不懂的字
+> CONTEXT: Map027/events/61/pages/0/0/Dialogue
+> CONTEXT: Map027/events/71/pages/0/0/Dialogue
+> CONTEXT: Map027/events/72/pages/0/0/Dialogue
+Yazı yazmak için eski bir Çin
+tekniğini kullantım. Yazılar oldukça
+dağınıg ve anladılması güc.
+> END STRING
+
+> BEGIN STRING
+不知道画的是谁
+> CONTEXT: Map027/events/63/pages/0/0/Dialogue
+> CONTEXT: Map027/events/64/pages/0/0/Dialogue
+Bunu kimin çizdiğini bilmiyorsun.
+> END STRING
+
+> BEGIN STRING
+那里的门被胶液堵住了？
+> CONTEXT: Map027/events/96/pages/0/2/Dialogue
+Kapı lateksle kaplanmış gibi görünüyor.
+> END STRING
+
+> BEGIN STRING
+怎么办……还是回去吧
+> CONTEXT: Map027/events/96/pages/0/4/Dialogue
+Ne yapacaksın...? Hadi geri gidelim.
+> END STRING
+
+> BEGIN STRING
+我雨要一个人类，一个就好
+> CONTEXT: Map027/events/134/pages/0/1/Dialogue
+Yalnızca bir insan isteyorum. Çok mu
+şey isteyorum ?
+> END STRING
+
+> BEGIN STRING
+肚子俄了
+> CONTEXT: Map027/events/136/pages/0/1/Dialogue
+Açım...
+> END STRING
+
+> BEGIN STRING
+我画了一个书上看至的卡捅人物！
+> CONTEXT: Map027/events/137/pages/0/1/Dialogue
+Kitabların birinde gördüüm bir dizgi
+film karakterin çizdim !
+> END STRING
+
+> BEGIN STRING
+写满了难以理解的文字
+> CONTEXT: Map027/events/140/pages/0/0/Dialogue
+Anlaşılmaz yazılarla dolu.
+> END STRING
+
+> BEGIN STRING
+今天我看了“怪形”
+> CONTEXT: Map027/events/145/pages/0/1/Dialogue
+Bugün "Şey" filmii izletim.
+> END STRING
+
+> BEGIN STRING
+他们和我们很相似呢，但是我们没有他们那样邪恶
+> CONTEXT: Map027/events/145/pages/0/4/Dialogue
+Bize bensiyorlar ama o kadar da
+zalim değiliz.
+> END STRING
+
+> BEGIN STRING
+我们只是为了活下去，大多数时候，被寄生的宿主还有
+自我意识
+> CONTEXT: Map027/events/145/pages/0/7/Dialogue
+Sadece hayatta kalmaya calışıyoruz.
+Çou saman konağın da kendi
+iratesi olur.
+> END STRING
+
+> BEGIN STRING
+只不过、只不过已经不是人类而已
+> CONTEXT: Map027/events/145/pages/0/11/Dialogue
+Sadece insan olmagtan cıkar onlar.
+> END STRING
+
+> BEGIN STRING
+我一定要消灭措别字！
+> CONTEXT: Map027/events/146/pages/0/1/Dialogue
+Yazım hatalarımı düseltmem gerek !
+> END STRING
+
+> BEGIN STRING
+如里那个人类不会醒了怎么办呢……
+> CONTEXT: Map027/events/148/pages/0/1/Dialogue
+Ya insan hiç uyanmasa ne olçak...?
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

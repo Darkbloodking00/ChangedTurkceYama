@@ -1,0 +1,44 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+我逃进了这个通风管，并且把入口隐藏起来了
+> CONTEXT: Map033/events/14/pages/0/1/Dialogue
+Havalandırma borularının içine
+doğru koştum ve girişinde
+saklandım.
+> END STRING
+
+> BEGIN STRING
+这里漏水很严重……
+> CONTEXT: Map033/events/14/pages/0/4/Dialogue
+Burada su çok fena sızdırıyor...
+> END STRING
+
+> BEGIN STRING
+不知道我还能撑几天，也许外面那些怪物很快就能消停
+了
+> CONTEXT: Map033/events/14/pages/0/7/Dialogue
+Ne kadar daha dayanabileceğimi
+bilmiyorum. Umarım dışarıdaki
+canavarları haklarlar...
+> END STRING
+
+> BEGIN STRING
+某人最后的挣扎
+> CONTEXT: Map033/events/15/pages/0/0/Dialogue
+> CONTEXT: Map033/events/16/pages/0/0/Dialogue
+> CONTEXT: Map033/events/17/pages/0/0/Dialogue
+Birinin son hayatta kalma çabaları.
+> END STRING
+
+> BEGIN STRING
+空容器
+> CONTEXT: Map033/events/18/pages/0/0/Dialogue
+> CONTEXT: Map033/events/19/pages/0/0/Dialogue
+> CONTEXT: Map033/events/20/pages/0/0/Dialogue
+Boş kaplar.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

@@ -1,0 +1,45 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+向下进发吧
+> CONTEXT: Map065/events/4/pages/0/0/Dialogue
+Aşağı in.
+> END STRING
+
+> BEGIN STRING
+月光映照着下方的垮塌的建筑，还是这座高塔，但你已
+经准备好迎接你面对的世界了
+> CONTEXT: Map065/events/10/pages/0/2/Dialogue
+Ay ışığı harap olmuş şehrin üstünde ışıldıyordu.
+Kule değişmiş değildi ama artık aşağıdaki
+dünya ile yüzleşmeye hazırdın.
+> END STRING
+
+> BEGIN STRING
+破碎的世界
+> CONTEXT: Map065/events/10/pages/1/0/Dialogue
+Kalbi kırık bir dünya.
+> END STRING
+
+> BEGIN STRING
+…月光，很漂亮呢……
+> CONTEXT: Map065/events/115/pages/1/0/Dialogue
+...Ay ışığı, çok güzel...
+> END STRING
+
+> BEGIN STRING
+…书上说，月和我们狼有很大的关系
+> CONTEXT: Map065/events/115/pages/1/2/Dialogue
+...Kitapta dolunayın kurtlarla ilişkili olduğu
+yazıyor...
+> END STRING
+
+> BEGIN STRING
+…但我什么也没感觉到
+> CONTEXT: Map065/events/115/pages/1/4/Dialogue
+...Ama ben hiçbir şey hissetmiyorum.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

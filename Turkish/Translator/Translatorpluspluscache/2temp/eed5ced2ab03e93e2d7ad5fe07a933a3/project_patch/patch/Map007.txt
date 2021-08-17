@@ -1,0 +1,68 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+一大叠收集好的资料，背面已经预先贴好了
+双面胶，和一路上见到的那些一模一样
+> CONTEXT: Map007/events/10/pages/0/0/Dialogue
+Bir yığın toplanmış veri buraya yerleştirilmiş.
+> END STRING
+
+> BEGIN STRING
+究竟是谁……？？
+> CONTEXT: Map007/events/10/pages/0/3/Dialogue
+Kim yaptı bunu...??
+> END STRING
+
+> BEGIN STRING
+被粘液覆盖的某种大型器械
+> CONTEXT: Map007/events/17/pages/0/0/Dialogue
+> CONTEXT: Map007/events/43/pages/0/0/Dialogue
+> CONTEXT: Map007/events/53/pages/0/0/Dialogue
+Lateksle kaplanmış devasa bir cihaz.
+> END STRING
+
+> BEGIN STRING
+这些在半空飞行的小家伙似乎…有些奇怪
+> CONTEXT: Map007/events/41/pages/0/9/Dialogue
+Havada uçan bu küçük yaratıklar... 
+biraz ilginç görünüyor.
+> END STRING
+
+> BEGIN STRING
+他们……没有扑向你，并且似乎很想和你玩的样子……
+> CONTEXT: Map007/events/41/pages/0/13/Dialogue
+Üzerine...saldırmıyorlar ve görünüşe göre bunun
+yerine seninle oynamak istiyorlar...
+> END STRING
+
+> BEGIN STRING
+不过更加令你感到奇怪的是这被胶液覆满的房间，你注
+意到地板上也全是厚厚的一层，这些粘稠的液体让你无
+法迈开步伐跑动
+> CONTEXT: Map007/events/41/pages/0/24/Dialogue
+İşin ilginç tarafı, zeminde hareketlerini kısıtlayan
+kalın bir lateks tabakası olduğunu fark ediyorsun.
+> END STRING
+
+> BEGIN STRING
+看来这奇怪的地方就是他们的“巢穴”了
+> CONTEXT: Map007/events/41/pages/0/29/Dialogue
+Bu tuhaf mekan onların "yuvası" gibi görünüyor.
+> END STRING
+
+> BEGIN STRING
+不是这里！
+> CONTEXT: Map007/events/57/pages/1/0/Dialogue
+> CONTEXT: Map007/events/58/pages/1/0/Dialogue
+> CONTEXT: Map001/events/1/pages/2/0/Dialogue
+> CONTEXT: Map001/events/2/pages/1/0/Dialogue
+> CONTEXT: Map001/events/4/pages/1/0/Dialogue
+> CONTEXT: Map001/events/5/pages/2/0/Dialogue
+> CONTEXT: Map001/events/6/pages/2/0/Dialogue
+> CONTEXT: Map001/events/7/pages/2/0/Dialogue
+Buraya değil !
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

@@ -1,0 +1,40 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+谁，你在看着这张纸做什么，你那里现在是什么年代，
+你是外星人吗，我马上就要走投无路了，我希望我至少
+能留下个曾存留于世的证明，所以我写了这个。
+> CONTEXT: Map046/events/15/pages/0/1/Dialogue
+Orada kim var ? Bu kağıt parçasına
+neden bakıyorsun ? Şimdi kaç
+yaşındasın ? Uzaylı mısın ? Yakında
+öbür tarafı boylayacağım.
+Umarım varlığıma dair dünyada 
+en azından bir iz bırakabilmişimdir. 
+Bu yüzden bunu yazdım.
+> END STRING
+
+> BEGIN STRING
+打开开关吗？
+> CONTEXT: Map046/events/69/pages/0/0/Dialogue
+> CONTEXT: Map044/events/137/pages/0/0/Dialogue
+Şalteri kaldıracak mısın ?
+> END STRING
+
+> BEGIN STRING
+电力系统打开了
+> CONTEXT: Map046/events/69/pages/0/5/Dialogue
+> CONTEXT: Map044/events/137/pages/0/5/Dialogue
+Güç sistemi açıldı.
+> END STRING
+
+> BEGIN STRING
+没有电，无法操作
+> CONTEXT: Map046/events/150/pages/0/0/Dialogue
+> CONTEXT: Map044/events/147/pages/0/0/Dialogue
+Elektrikler yok.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

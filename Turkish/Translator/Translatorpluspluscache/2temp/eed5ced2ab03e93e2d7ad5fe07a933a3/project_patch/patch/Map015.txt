@@ -1,0 +1,1294 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+在垫子上休息一会儿？
+> CONTEXT: Map015/events/1/pages/1/0/Dialogue
+Pufa oturmak istiyor musun ?
+> END STRING
+
+> BEGIN STRING
+…不知道该说什么好啦……
+> CONTEXT: Map015/events/1/pages/1/10/Dialogue
+...Ne diyeceğimi bilmiyorum...
+> END STRING
+
+> BEGIN STRING
+…那个，人类
+> CONTEXT: Map015/events/1/pages/1/12/Dialogue
+...İnsan...
+> END STRING
+
+> BEGIN STRING
+…你害怕我吗
+> CONTEXT: Map015/events/1/pages/1/15/Dialogue
+...Benimle baş başa oturmaktan korkuyor
+musun ?
+> END STRING
+
+> BEGIN STRING
+…我幻想过无数次，当你闯过来的时候会发生什么
+> CONTEXT: Map015/events/1/pages/1/20/Dialogue
+...Kütüphaneye gelişini sayısız defa aklımda
+planladım.
+> END STRING
+
+> BEGIN STRING
+…你进来的时候，那团尾巴正好挡在你的面
+前，我吓了一跳，我害怕他把你夺走了，我
+就没有机会了
+> CONTEXT: Map015/events/1/pages/1/22/Dialogue
+...Geldiğin zaman o kuyruk tam önündeydi.
+Şaşırdım kaldım. Seni benden alıp şansımı
+yok edeceğinden korktum.
+> END STRING
+
+> BEGIN STRING
+…还好他没有追的上你
+> CONTEXT: Map015/events/1/pages/1/27/Dialogue
+...İyi ki seni yakalayamadı.
+> END STRING
+
+> BEGIN STRING
+…虽然，最后，你却是个比我还矮的小家伙
+> CONTEXT: Map015/events/1/pages/1/30/Dialogue
+...Ama nihayetinde benden bile küçüktün.
+> END STRING
+
+> BEGIN STRING
+…希望，破灭了…………
+> CONTEXT: Map015/events/1/pages/1/32/Dialogue
+...Umutlarım parçalandı..
+> END STRING
+
+> BEGIN STRING
+…唔…我只是调侃一下…别那么瞪我了！
+> CONTEXT: Map015/events/1/pages/1/34/Dialogue
+...Tamam işte itiraf ettim...
+Bana öyle dik dik bakma !
+> END STRING
+
+> BEGIN STRING
+…我若想要变的强大，想要有出去探索的能力，只能寄
+希望于建筑里那个被封锁的人类，就是你
+> CONTEXT: Map015/events/1/pages/1/37/Dialogue
+...Eğer daha güçlü olmak ve buradan
+kurtulmak istiyorsam bu binada hapis kalmış
+olan insana bel bağlayabilirim. Bu kişi sensin.
+> END STRING
+
+> BEGIN STRING
+…好想，看看外面多彩的世界，好想，成为优秀的像人
+类一样的生物
+> CONTEXT: Map015/events/1/pages/1/40/Dialogue
+...Dışarıdaki renkli dünyayı görmek istiyorum.
+Harika bir insan olmak istedim...bir lateks
+canavarı değil.
+> END STRING
+
+> BEGIN STRING
+…但我没法出去，这栋建筑是封锁的
+> CONTEXT: Map015/events/1/pages/1/43/Dialogue
+...Ama buradan ayrılamam. Bu bina
+kapatılmış.
+> END STRING
+
+> BEGIN STRING
+…我还是，太弱了……
+> CONTEXT: Map015/events/1/pages/1/47/Dialogue
+...Hala...çok zayıfım...
+> END STRING
+
+> BEGIN STRING
+…害怕未知的外界，害怕尝试，害怕踏出第一步的未知
+恐惧感
+> CONTEXT: Map015/events/1/pages/1/49/Dialogue
+...Bilinmezliğe olan kaygı...
+Deneme kaygısı...
+İlk adımı atma kaygısı...
+> END STRING
+
+> BEGIN STRING
+…我思考了很多，因为既然你已经来了，我也要面对事
+实……
+> CONTEXT: Map015/events/1/pages/1/54/Dialogue
+...Yakın zamanda bunu çok düşündüm ama
+artık sen buradasın...Gerçekle yüzleşmek
+zorundayım...
+> END STRING
+
+> BEGIN STRING
+…有了优秀的宿主又怎样，我一己之力又不会让我的种
+族变得有多壮大
+> CONTEXT: Map015/events/1/pages/1/57/Dialogue
+...Harika bir konak olmadan yalnızca kendi
+gücüm, türümü daha kuvvetli yapamaz.
+> END STRING
+
+> BEGIN STRING
+…我，只是小小的，异想天开的胶兽，而且被创造的时
+候还是失败品
+> CONTEXT: Map015/events/1/pages/1/60/Dialogue
+...Sadece yaratıldığımdan beri bir hata olan
+küçük, aptal bir lateks canavarım.
+> END STRING
+
+> BEGIN STRING
+…无论是否有智慧，有多强壮的宿主，终究还是那么脆
+弱
+> CONTEXT: Map015/events/1/pages/1/63/Dialogue
+...Konak ne kadar akıllı veya güçlü olursa
+olsun, gene de kırılgan ve acizim.
+> END STRING
+
+> BEGIN STRING
+…人类，你…………
+> CONTEXT: Map015/events/1/pages/1/67/Dialogue
+...İnsan, sen...
+> END STRING
+
+> BEGIN STRING
+…你也有自己的目标吧
+> CONTEXT: Map015/events/1/pages/1/69/Dialogue
+...Senin de kendi amacın var, değil mi ?
+> END STRING
+
+> BEGIN STRING
+…去外面，看看究竟世界现在怎样
+> CONTEXT: Map015/events/1/pages/1/71/Dialogue
+...Dışarıya çık ve dünyanın nasıl bir yer
+olduğunu gör.
+> END STRING
+
+> BEGIN STRING
+…请你努力，走出这里吧
+> CONTEXT: Map015/events/1/pages/1/74/Dialogue
+...Lütfen ilerlemeye devam et ve buradan
+kurtul.
+> END STRING
+
+> BEGIN STRING
+…谢谢你陪我…谢谢你听我说完这些……
+> CONTEXT: Map015/events/1/pages/1/77/Dialogue
+...Bana eşlik ettiğin için teşekkür ederim.
+...Beni dinlediğin için sana teşekkür ederim.
+> END STRING
+
+> BEGIN STRING
+…你好啊，人类
+> CONTEXT: Map015/events/6/pages/0/6/Dialogue
+...Merhaba, İnsan.
+> END STRING
+
+> BEGIN STRING
+你为什么生活在这里？
+> CONTEXT: Map015/events/6/pages/0/8/Choice/0
+Neden burada yaşıyorsun ?
+> END STRING
+
+> BEGIN STRING
+你以后打算做什么？
+> CONTEXT: Map015/events/6/pages/0/8/Choice/1
+Amacın ne ?
+> END STRING
+
+> BEGIN STRING
+我遇到困难了
+> CONTEXT: Map015/events/6/pages/0/8/Choice/2
+Yardım et.
+> END STRING
+
+> BEGIN STRING
+…这里又有食物又有水
+> CONTEXT: Map015/events/6/pages/0/10/Dialogue
+...Burada yemek ve su var.
+> END STRING
+
+> BEGIN STRING
+…出行也很便利
+> CONTEXT: Map015/events/6/pages/0/12/Dialogue
+...Seyehat etmek de kolay.
+> END STRING
+
+> BEGIN STRING
+…还有空调，冬暖夏凉呢
+> CONTEXT: Map015/events/6/pages/0/14/Dialogue
+...Ve ayrıca klima var. Kışın sıcak, 
+yazın da soğuk oluyor.
+> END STRING
+
+> BEGIN STRING
+…无论怎么想都觉得在这里安家是个好主意
+> CONTEXT: Map015/events/6/pages/0/16/Dialogue
+...Burası hakkında ne düşünüyorsan
+düşün yaşamak için iyi bir yer.
+> END STRING
+
+> BEGIN STRING
+你不和同类住在一起吗
+> CONTEXT: Map015/events/6/pages/0/18/Choice/0
+Arkadaşların yok mu ?
+> END STRING
+
+> BEGIN STRING
+食物和水？
+> CONTEXT: Map015/events/6/pages/0/18/Choice/1
+Yemek ve su mu ?
+> END STRING
+
+> BEGIN STRING
+你无聊吗
+> CONTEXT: Map015/events/6/pages/0/18/Choice/2
+Sıkılıyor musun ?
+> END STRING
+
+> BEGIN STRING
+…唉…………
+> CONTEXT: Map015/events/6/pages/0/20/Dialogue
+...Aaa...
+> END STRING
+
+> BEGIN STRING
+…我离群了
+> CONTEXT: Map015/events/6/pages/0/22/Dialogue
+...Ben diğerleri gibi değilim.
+> END STRING
+
+> BEGIN STRING
+…我们的基因源来自于狼
+> CONTEXT: Map015/events/6/pages/0/24/Dialogue
+...Genetik kodumuz kurtlardan geliyor.
+> END STRING
+
+> BEGIN STRING
+…离群就意味着背叛
+> CONTEXT: Map015/events/6/pages/0/26/Dialogue
+...sürüden ayrılmak hoş karşılanmıyor.
+> END STRING
+
+> BEGIN STRING
+…所以我现在即使想要回去大家也不会接纳
+我了
+> CONTEXT: Map015/events/6/pages/0/28/Dialogue
+...Bu yüzden geri onlara dönsem bile
+beni hiç kimse kabul etmezdi.
+> END STRING
+
+> BEGIN STRING
+…但我一点也不后悔，我知道了其他人不知
+道的东西，见识了其他人没见识的东西
+> CONTEXT: Map015/events/6/pages/0/36/Dialogue
+...Ama hiç de pişman değilim. Diğerlerinin
+bilmediği şeyleri biliyorum. Onların
+görmedikleri şeyleri gördüm.
+> END STRING
+
+> BEGIN STRING
+…我挺快乐的
+> CONTEXT: Map015/events/6/pages/0/39/Dialogue
+...Çok mutluyum...eh işte...
+> END STRING
+
+> BEGIN STRING
+…是啊，你看，屋子里现在不就有嘛
+> CONTEXT: Map015/events/6/pages/0/43/Dialogue
+...Evet, gördüğün üzere burada biraz
+var.
+> END STRING
+
+> BEGIN STRING
+…我好不容易收集来的呢
+> CONTEXT: Map015/events/6/pages/0/51/Dialogue
+Toplaması kolay değil.
+> END STRING
+
+> BEGIN STRING
+…水是雨水，拿捡来的水晶杯子盛的！
+> CONTEXT: Map015/events/6/pages/0/53/Dialogue
+...Suyu, bu beherler yardımıyla 
+yağmur damlalarından topluyorum.
+> END STRING
+
+> BEGIN STRING
+…我对水需求量一般，但我要照顾果树
+> CONTEXT: Map015/events/6/pages/0/55/Dialogue
+...Benim suya o kadar da ihtiyacım yok ama
+yetiştirdiğim meyve ağaçlarının 
+bakımını sağlıyor.
+> END STRING
+
+> BEGIN STRING
+…果子很好吃的，但会烂掉，我从书上学了
+晾干的方法就能保存很久啦
+> CONTEXT: Map015/events/6/pages/0/57/Dialogue
+...Meyvesi leziz ama eninde sonunda
+çürüyor. Meyveleri kurutunca daha
+uzun süre dayandığını kitaplardan 
+öğrendim.
+> END STRING
+
+> BEGIN STRING
+…实在不行我会去抓那些白胶兽吃掉。狩猎
+很难，而且有风险，所以我很少那么做
+> CONTEXT: Map015/events/6/pages/0/60/Dialogue
+...Ara sıra beyaz lateks de avlıyorum.
+Buna karşın avcılık zor ve tehlikeli,
+o yüzden nadiren yapıyorum.
+> END STRING
+
+> BEGIN STRING
+…有时候的确是很无聊，我在这里不停地踱
+步，有时又整天睡觉
+> CONTEXT: Map015/events/6/pages/0/65/Dialogue
+...Bazen sıkılıyorum. Etrafta halkalar
+çiziyorum ve bazı zamanlar da bütün gün
+uyuyorum.
+> END STRING
+
+> BEGIN STRING
+…没有和我交流的人，也没有什么有趣的事
+情发生
+> CONTEXT: Map015/events/6/pages/0/68/Dialogue
+...İlginç hiçbir şey olmuyor. Konuşacak
+biri de yok.
+> END STRING
+
+> BEGIN STRING
+…根本……就如同一个孤岛一样
+> CONTEXT: Map015/events/6/pages/0/71/Dialogue
+...Küçük yalnız bir ada gibi...
+> END STRING
+
+> BEGIN STRING
+…我为什么不去其他地方？
+> CONTEXT: Map015/events/6/pages/0/74/Dialogue
+...Neden mi başka bir yere gitmiyorum ?
+> END STRING
+
+> BEGIN STRING
+…如果你是个九尺壮汉，那我就能附在你身
+上出去了
+> CONTEXT: Map015/events/6/pages/0/76/Dialogue
+...Eğer iki metrelik uzun ve güçlü bir adam
+olsaydın, seni asimile edip buradan
+ayrılabilirdim.
+> END STRING
+
+> BEGIN STRING
+…黑胶，很弱的，一定要有宿主才能强大起
+来
+> CONTEXT: Map015/events/6/pages/0/79/Dialogue
+...Siyah lateks çok zayıftır. Daha güçlü
+olmak için bir konağa ihtiyaç duyar.
+> END STRING
+
+> BEGIN STRING
+…这建筑可不是那么容易就出得去的
+> CONTEXT: Map015/events/6/pages/0/82/Dialogue
+...Bu binadan ayrılmak kolay değil...
+> END STRING
+
+> BEGIN STRING
+…嗯……因为不久之前的停电让我也有点在
+意
+> CONTEXT: Map015/events/6/pages/0/90/Dialogue
+...Pekala...yakın zamanda gerçekleşen
+bir elektrik kesintisi beni biraz endişelendirdi.
+> END STRING
+
+> BEGIN STRING
+…嗯，就是让你的醒来的那场停电
+> CONTEXT: Map015/events/6/pages/0/93/Dialogue
+...Elektrik kesintisi senin uyanmana neden 
+oldu, değil mi ?
+> END STRING
+
+> BEGIN STRING
+…书上说，停电后为了防止舱室里的人窒息
+，会自动开启舱门
+> CONTEXT: Map015/events/6/pages/0/95/Dialogue
+...Kullanım kılavuzu, muhtemel bir hata
+halinde boğulmayı önlemek amacıyla
+kapsüllerin kapağının otomatik olarak
+açılacağını belirtiyor.
+> END STRING
+
+> BEGIN STRING
+…我或许会和你一起去下面看看呢
+> CONTEXT: Map015/events/6/pages/0/98/Dialogue
+...Seninle oraya gidip bir göz atabilirim.
+> END STRING
+
+> BEGIN STRING
+…不过我会走捷径的，人类的话，虽然要绕
+远路，但这点困难一定是难不住的吧
+> CONTEXT: Map015/events/6/pages/0/100/Dialogue
+...Ama kısayolu kullanacağım. İnsanlar
+yalnızca normal yolu kullanabilir. Zor olacak.
+> END STRING
+
+> BEGIN STRING
+…加油，或许你会比我先到发电室
+> CONTEXT: Map015/events/6/pages/0/103/Dialogue
+...Hadi, belki de önce jeneratörü bulman
+gerekecek.
+> END STRING
+
+> BEGIN STRING
+停电
+> CONTEXT: Map015/events/6/pages/0/105/Choice/0
+Elektrik kesintisi mi ?
+> END STRING
+
+> BEGIN STRING
+下面
+> CONTEXT: Map015/events/6/pages/0/105/Choice/1
+Aşağı kat mı ?
+> END STRING
+
+> BEGIN STRING
+发电室
+> CONTEXT: Map015/events/6/pages/0/105/Choice/2
+Jeneratör mü ?
+> END STRING
+
+> BEGIN STRING
+…也不知道为什么会停电啦……
+> CONTEXT: Map015/events/6/pages/0/107/Dialogue
+...Neden elektrik kesintisi olduğunu
+bilmiyorum...
+> END STRING
+
+> BEGIN STRING
+…这次停电把一些灯都搞坏掉了
+> CONTEXT: Map015/events/6/pages/0/109/Dialogue
+...Elektrik kesintisi bazı lambaları yaktı.
+> END STRING
+
+> BEGIN STRING
+…希望重要的设施不要故障就好
+> CONTEXT: Map015/events/6/pages/0/111/Dialogue
+...Umarım önemli tesisler iyi durumdadır.
+> END STRING
+
+> BEGIN STRING
+…啊？上层的灯已经全部都坏了吗
+> CONTEXT: Map015/events/6/pages/0/114/Dialogue
+...Bir saniye, üstümüzdeki bütün ışıklar
+bozuk mu ?
+> END STRING
+
+> BEGIN STRING
+…同伴们还好么……
+> CONTEXT: Map015/events/6/pages/0/116/Dialogue
+...Umarım arkadaşlarım güvendedir...
+> END STRING
+
+> BEGIN STRING
+…几乎没去过，那里的“原住民”我也不太
+认识
+> CONTEXT: Map015/events/6/pages/0/120/Dialogue
+...Ne orada bulundum ne de oradaki 
+yaratıklar hakkında bir bilgim var.
+> END STRING
+
+> BEGIN STRING
+…研究室里的胶兽可都是精英中的精英了！
+> CONTEXT: Map015/events/6/pages/0/123/Dialogue
+...Ama laboratuvardaki lateks hayvanlar
+elitin de eliti.
+> END STRING
+
+> BEGIN STRING
+…不过我会小心的
+> CONTEXT: Map015/events/6/pages/0/125/Dialogue
+...Ama dikkatli olacağım.
+> END STRING
+
+> BEGIN STRING
+…人类也是哟！
+> CONTEXT: Map015/events/6/pages/0/127/Dialogue
+...Umarım sen de dikkatli olursun.
+> END STRING
+
+> BEGIN STRING
+…那当然就是那个地方啊，那个地方！
+> CONTEXT: Map015/events/6/pages/0/131/Dialogue
+...Jeneratör odası binada bulunan en önemli
+yerlerden biri.
+> END STRING
+
+> BEGIN STRING
+…源源不断地创造电能，从小小的细细的管
+子里输送过来
+> CONTEXT: Map015/events/6/pages/0/133/Dialogue
+...Elektrik, binadaki enerji ihtiyacını 
+karşılamak için...
+> END STRING
+
+> BEGIN STRING
+…给这个建筑供给能量
+> CONTEXT: Map015/events/6/pages/0/136/Dialogue
+...küçük bakır kablolardan istikrarlı
+bir şekilde akıyor.
+> END STRING
+
+> BEGIN STRING
+…向下走很长一段距离才能到呢
+> CONTEXT: Map015/events/6/pages/0/138/Dialogue
+...Oraya gitmek uzun sürecek...
+> END STRING
+
+> BEGIN STRING
+…因为路途挺长的所以我很久没去了…
+> CONTEXT: Map015/events/6/pages/0/140/Dialogue
+...Uzun zamandır oraya gitmedim çünkü
+yol çok uzun...
+> END STRING
+
+> BEGIN STRING
+…问我做什么，我只是个怪物
+> CONTEXT: Map015/events/6/pages/0/148/Dialogue
+...Neden benden yardım istiyorsun ki ? 
+Ben sıradan bir canavarım...
+> END STRING
+
+> BEGIN STRING
+…你可是个优秀的人类啊，优秀的生物就该
+自己去寻找答案不是吗
+> CONTEXT: Map015/events/6/pages/0/150/Dialogue
+...Sen akıllı bir insansın. Engelleri aşmak
+sana düşüyor, değil mi ?
+> END STRING
+
+> BEGIN STRING
+…况且，我已经在重要的地方画了提示
+> CONTEXT: Map015/events/6/pages/0/153/Dialogue
+...Zaten önemli bir yere bir ipucu çizdim.
+> END STRING
+
+> BEGIN STRING
+…你只要找到…那个密道就好
+> CONTEXT: Map015/events/6/pages/0/155/Dialogue
+...Sadece saklı olan yeri bulman gerekiyor.
+> END STRING
+
+> BEGIN STRING
+…不要什么都依赖一个刚刚认识的怪物
+> CONTEXT: Map015/events/6/pages/0/157/Dialogue
+...Yalnızca bana bel bağlama, olur mu ?
+> END STRING
+
+> BEGIN STRING
+…顺带一提，你见过豹子们了吗
+> CONTEXT: Map015/events/6/pages/0/159/Dialogue
+...Bu arada hiç leopar gördün mü ?
+> END STRING
+
+> BEGIN STRING
+…总之是一群对箱子很执着的胶兽……
+> CONTEXT: Map015/events/6/pages/0/163/Dialogue
+...Onlar bir grup lateks canavar.
+Çok inatçılardır...
+> END STRING
+
+> BEGIN STRING
+…好奇心非常旺盛，而且还很淘气
+> CONTEXT: Map015/events/6/pages/0/165/Dialogue
+...Çok meraklılar ama tam bir baş
+belasıdırlar.
+> END STRING
+
+> BEGIN STRING
+…经常绊倒我，然后跨在我身上，太可恶了
+…
+> CONTEXT: Map015/events/6/pages/0/167/Dialogue
+...Sırtımda zıplıyorlar ve beni her zaman
+çileden çıkarıyorlar. Anasını sattıklarım...
+> END STRING
+
+> BEGIN STRING
+…很久没有这样高兴过了
+> CONTEXT: Map015/events/6/pages/1/6/Dialogue
+...Uzun zamandır bu kadar mutlu
+olmamıştım.
+> END STRING
+
+> BEGIN STRING
+…一个活生生的，如同传说一般的人类！
+> CONTEXT: Map015/events/6/pages/1/8/Dialogue
+...Yaşayan, kanlı canlı bir insan karşımda 
+duruyor !
+> END STRING
+
+> BEGIN STRING
+…之前从没有人倾听过我说的话……
+> CONTEXT: Map015/events/6/pages/1/10/Dialogue
+...Daha önce söylediklerimi hiç kimse
+dinlemedi...
+> END STRING
+
+> BEGIN STRING
+…谢谢你不嫌弃
+> CONTEXT: Map015/events/6/pages/1/12/Dialogue
+...Benden ürpermediğin için teşekkür
+ederim.
+> END STRING
+
+> BEGIN STRING
+…在这里的日子很寂寞
+> CONTEXT: Map015/events/8/pages/0/0/Dialogue
+> CONTEXT: Map015/events/9/pages/0/0/Dialogue
+> CONTEXT: Map015/events/10/pages/0/0/Dialogue
+...Burada geçirdiğim günlerde çok yalnız
+hissediyorum.
+> END STRING
+
+> BEGIN STRING
+…非常、非常寂寞
+> CONTEXT: Map015/events/8/pages/0/2/Dialogue
+> CONTEXT: Map015/events/9/pages/0/2/Dialogue
+> CONTEXT: Map015/events/10/pages/0/2/Dialogue
+...Çok, çok yalnız...
+> END STRING
+
+> BEGIN STRING
+…嗯？为什么我不会掉下去？
+> CONTEXT: Map015/events/11/pages/0/0/Dialogue
+> CONTEXT: Map015/events/12/pages/0/0/Dialogue
+> CONTEXT: Map015/events/13/pages/0/0/Dialogue
+> CONTEXT: Map015/events/14/pages/0/0/Dialogue
+> CONTEXT: Map015/events/15/pages/0/0/Dialogue
+> CONTEXT: Map015/events/16/pages/0/0/Dialogue
+...Neden mi akıp gitmedim ?
+> END STRING
+
+> BEGIN STRING
+…我又不是浆糊我为什么会掉下去啊喂！
+> CONTEXT: Map015/events/11/pages/0/2/Dialogue
+> CONTEXT: Map015/events/12/pages/0/2/Dialogue
+> CONTEXT: Map015/events/13/pages/0/2/Dialogue
+> CONTEXT: Map015/events/14/pages/0/2/Dialogue
+> CONTEXT: Map015/events/15/pages/0/2/Dialogue
+> CONTEXT: Map015/events/16/pages/0/2/Dialogue
+...Yapışıyorum, neden düşeyim ?
+> END STRING
+
+> BEGIN STRING
+这里有一个通风口
+> CONTEXT: Map015/events/20/pages/0/0/Dialogue
+Burada bir havalandırma var.
+> END STRING
+
+> BEGIN STRING
+…嘿，人类，来这里！
+> CONTEXT: Map015/events/21/pages/0/7/Dialogue
+Hey, İnsan, buraya gel !
+> END STRING
+
+> BEGIN STRING
+…感谢你在此驻足！
+> CONTEXT: Map015/events/21/pages/0/25/Dialogue
+...Buraya uğradığın için teşekkür ederim !
+> END STRING
+
+> BEGIN STRING
+…这里，是我的家
+> CONTEXT: Map015/events/21/pages/0/27/Dialogue
+...Burası benim evim.
+> END STRING
+
+> BEGIN STRING
+…欢迎来到普罗的狼窝！
+> CONTEXT: Map015/events/21/pages/0/29/Dialogue
+...Puro'nun kurt mağarasına hoş geldin.
+> END STRING
+
+> BEGIN STRING
+…嗯？什么，为什么我会先出现在这里？
+> CONTEXT: Map015/events/21/pages/0/41/Dialogue
+Peki, buraya neden mi yerleştim ?
+> END STRING
+
+> BEGIN STRING
+…这里是这栋建筑内部的通风管道系统
+> CONTEXT: Map015/events/21/pages/0/43/Dialogue
+...Burası binanın havalandırma sistemi.
+> END STRING
+
+> BEGIN STRING
+…如你所见，这里四通八达
+> CONTEXT: Map015/events/21/pages/0/45/Dialogue
+...Görebileceğin üzere her tarafa erişimi var.
+> END STRING
+
+> BEGIN STRING
+…稍微熟悉一点通风口位置的话，去哪里都
+很方便
+> CONTEXT: Map015/events/21/pages/0/47/Dialogue
+...Eğer havalandırma deliklerinin yerlerini
+biraz olsun biliyorsan istediğin her yere 
+gidebilirsin.
+> END STRING
+
+> BEGIN STRING
+…不过你的话，只能从稍大一点的维修通道
+口进来呢
+> CONTEXT: Map015/events/21/pages/0/50/Dialogue
+...Ama daha uzağa gitmek istiyorsan büyük
+bakım tünelinden gitmek zorundasın.
+> END STRING
+
+> BEGIN STRING
+…我只要反身穿过一个暗道就能从图书馆到
+家里，超方便的
+> CONTEXT: Map015/events/21/pages/0/53/Dialogue
+...Kütüphaneden eve gitmek için benim
+sadece karanlık bir yoldan gitmem gerekiyor.
+> END STRING
+
+> BEGIN STRING
+…难得来了，和我坐一会儿吗
+> CONTEXT: Map015/events/21/pages/0/59/Dialogue
+...Benimle biraz oturmak ister misin ?
+> END STRING
+
+> BEGIN STRING
+漫画书
+> CONTEXT: Map015/events/22/pages/0/0/Dialogue
+> CONTEXT: Map015/events/36/pages/0/0/Dialogue
+> CONTEXT: Map015/events/37/pages/0/0/Dialogue
+> CONTEXT: Map015/events/64/pages/0/0/Dialogue
+Çizgi romanlar.
+> END STRING
+
+> BEGIN STRING
+粗制的纸篓里满满的都是风干的果子
+> CONTEXT: Map015/events/23/pages/0/0/Dialogue
+> CONTEXT: Map015/events/24/pages/0/0/Dialogue
+> CONTEXT: Map015/events/25/pages/0/0/Dialogue
+Dalgalı kese kağıdı kurutulmuş meyve
+ile dolu.
+> END STRING
+
+> BEGIN STRING
+…引为为傲的“普罗零食”！
+> CONTEXT: Map015/events/23/pages/0/2/Dialogue
+> CONTEXT: Map015/events/24/pages/0/2/Dialogue
+> CONTEXT: Map015/events/25/pages/0/2/Dialogue
+...Görkemli "Puro Çerezleri" !
+> END STRING
+
+> BEGIN STRING
+尾巴
+> CONTEXT: Map015/events/26/pages/0/0/Dialogue
+> CONTEXT: Map015/events/27/pages/0/0/Dialogue
+Kuyruk !
+> END STRING
+
+> BEGIN STRING
+看起来可以饮用的水
+> CONTEXT: Map015/events/41/pages/0/0/Dialogue
+> CONTEXT: Map015/events/47/pages/0/0/Dialogue
+> CONTEXT: Map015/events/52/pages/0/0/Dialogue
+İçilebilir su.
+> END STRING
+
+> BEGIN STRING
+…大概是干净的
+> CONTEXT: Map015/events/41/pages/0/2/Dialogue
+> CONTEXT: Map015/events/47/pages/0/2/Dialogue
+> CONTEXT: Map015/events/52/pages/0/2/Dialogue
+...Muhtemelen temiz.
+> END STRING
+
+> BEGIN STRING
+仔细调查之后发现了密道！
+> CONTEXT: Map015/events/67/pages/0/3/Dialogue
+> CONTEXT: Map015/events/89/pages/0/3/Dialogue
+Dikkatli bir yoklamanın ardından gizli bir
+geçit buldun !
+> END STRING
+
+> BEGIN STRING
+…我快要羞死了
+> CONTEXT: Map015/events/106/pages/0/23/Dialogue
+...Utançtan ölmek istiyorum...
+> END STRING
+
+> BEGIN STRING
+画着那根尾巴
+> CONTEXT: Map015/events/115/pages/0/0/Dialogue
+> CONTEXT: Map015/events/118/pages/0/0/Dialogue
+> CONTEXT: Map015/events/119/pages/0/0/Dialogue
+Bir kuyruk çizimi.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
+
+> BEGIN STRING
+
+Yaptığı seçimi anlaman gerekiyor. Yine de o bir
+insan.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

@@ -1,0 +1,116 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+猫咪很可爱，但是你可不想再回去了……
+> CONTEXT: Map013/events/3/pages/0/0/Dialogue
+> CONTEXT: Map013/events/4/pages/0/0/Dialogue
+Kedi sevimli görünüyor olabilir ama 
+tekrar oraya gitmeye hiç niyetin yok...
+> END STRING
+
+> BEGIN STRING
+你拼命的挣扎，狠狠地踢、蹬，在地上打滚
+> CONTEXT: Map013/events/7/pages/0/13/Dialogue
+Tekmeleyerek, iterek ve kendi etrafında
+dönerek umutsuzca mücadele ettin.
+> END STRING
+
+> BEGIN STRING
+在你的一番努力之下，你终于把黏在自己身上的粘液硬
+生生的扯了下来！
+> CONTEXT: Map013/events/7/pages/0/15/Dialogue
+Bütün bu çabalarına karşılık o yapışkan
+şeyi vücudundan söküp attın.
+> END STRING
+
+> BEGIN STRING
+粘液钻进了通风管里飞快的逃走了
+> CONTEXT: Map013/events/7/pages/0/18/Dialogue
+Slime kayarak boruya geri döner ve
+ortadan kaybolur.
+> END STRING
+
+> BEGIN STRING
+通风管的维修陷入僵局…有些人声称在通风管里看到了
+奇怪的影子，今天同事还和我说了实验样本逃进通风管
+的事情…
+> CONTEXT: Map013/events/9/pages/0/1/Dialogue
+Havalandırma borularını tamir etmeyi kestiler...
+bir söylentiye göre içinde hareket eden bir şey 
+gördüler. Arkadaşım bana onun firar etmiş bir 
+numune olduğunu söyledi....
+> END STRING
+
+> BEGIN STRING
+饥饿，恐惧和孤独感洪水般朝你袭来
+> CONTEXT: Map013/events/15/pages/0/5/Dialogue
+Açlık, korku ve yalnızlık seni yiyip bitiriyor.
+> END STRING
+
+> BEGIN STRING
+对于一个已经被关了那么久的可怜人来说，这差不多是
+体能和理智的极限了
+> CONTEXT: Map013/events/15/pages/0/7/Dialogue
+Yıllarca bir kapsülün içinde hapis kalmış senin
+gibi aciz biri için bu neredeyse bütün fiziksel
+sınırlarını aşıyor.
+> END STRING
+
+> BEGIN STRING
+你甚至不知道还有什么可以相信的了，那些前所未见的
+生物让你觉得在哪里都不会安全
+> CONTEXT: Map013/events/15/pages/0/10/Dialogue
+Neye inanman gerektiğini dahi bilmiyorsun.
+Burada gördüğün şeylere daha önce hiç
+rastlamadın. Yaratıklar sana hiçbir yerin 
+güvenli olmadığı hissini veriyor.
+> END STRING
+
+> BEGIN STRING
+你第一次那么的想有个人类出现，哪怕是绑匪出现了你
+也认了
+> CONTEXT: Map013/events/15/pages/0/13/Dialogue
+Hayatında ilk defa bir insanı görmek için bu
+kadar isteklisin. Seni kaçıranlar olsalar dahi.
+> END STRING
+
+> BEGIN STRING
+但这里什么都没有，连件衣服都没有，只有那些怪物
+> CONTEXT: Map013/events/15/pages/0/17/Dialogue
+Ama burada hiçbir şey yok. Bir kıyafet parçası
+dahi yok. Yalnızca şu canavarlar.
+> END STRING
+
+> BEGIN STRING
+你的腿发软，但你没有选择；你得走下去
+> CONTEXT: Map013/events/15/pages/0/19/Dialogue
+Bacakların çok zayıf ama devam etmekten
+başka seçeneğin yok.
+> END STRING
+
+> BEGIN STRING
+活着，走出这栋建筑
+> CONTEXT: Map013/events/15/pages/0/22/Dialogue
+Yaşa, bu binadan kurtul !
+> END STRING
+
+> BEGIN STRING
+呃…这道门被焊死了
+> CONTEXT: Map013/events/21/pages/0/0/Dialogue
+> CONTEXT: Map013/events/22/pages/0/0/Dialogue
+> CONTEXT: Map013/events/23/pages/0/0/Dialogue
+Aaa... bu kapı sıkıca kapalı görünüyor.
+> END STRING
+
+> BEGIN STRING
+里面有水声
+> CONTEXT: Map013/events/21/pages/0/2/Dialogue
+> CONTEXT: Map013/events/22/pages/0/2/Dialogue
+> CONTEXT: Map013/events/23/pages/0/2/Dialogue
+Kapının öbür tarafından damlayan su seslerini
+duyabiliyorsun.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

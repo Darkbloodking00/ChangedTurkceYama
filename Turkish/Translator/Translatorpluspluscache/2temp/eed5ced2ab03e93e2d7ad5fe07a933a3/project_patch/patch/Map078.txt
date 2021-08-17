@@ -1,0 +1,179 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…你简直是飞毛腿！
+> CONTEXT: Map078/events/1/pages/0/11/Dialogue
+...Müthişsin !
+> END STRING
+
+> BEGIN STRING
+…好优秀啊人类，和当初被尾巴追的时候完
+全不一样啊！
+> CONTEXT: Map078/events/1/pages/0/13/Dialogue
+...O koca kuyruğun seni kovaladığı
+zamankinden çok farklısın.
+> END STRING
+
+> BEGIN STRING
+…你也有成长了啊……
+> CONTEXT: Map078/events/1/pages/0/16/Dialogue
+...Gerçekten büyüyorsun...
+> END STRING
+
+> BEGIN STRING
+…你的脸色好差，太累了吗…辛苦你了…
+> CONTEXT: Map078/events/1/pages/0/19/Dialogue
+...Betin benzin atmış. Yoruldun mu ?
+Çok şey başardın...
+> END STRING
+
+> BEGIN STRING
+…现在，一起走吧，我记得前面就是出口！
+> CONTEXT: Map078/events/1/pages/0/21/Dialogue
+...Hadi devam edelim. Çıkış önümüzde.
+> END STRING
+
+> BEGIN STRING
+…我有点…有点……发抖啊
+> CONTEXT: Map078/events/1/pages/1/0/Dialogue
+...Biraz titremeye... başladım...
+> END STRING
+
+> BEGIN STRING
+…太激动了
+> CONTEXT: Map078/events/1/pages/1/2/Dialogue
+...Çok heyecanlıyım !
+> END STRING
+
+> BEGIN STRING
+…我已经准备好迎接未来啦！
+> CONTEXT: Map078/events/1/pages/2/0/Dialogue
+...Gelecek için hazırım !
+> END STRING
+
+> BEGIN STRING
+…之后你也可以好好休息了，人类！
+> CONTEXT: Map078/events/1/pages/2/2/Dialogue
+...Daha sonra dinlenebilirsin.
+> END STRING
+
+> BEGIN STRING
+出口就在咫尺之遥了
+> CONTEXT: Map078/events/2/pages/0/0/Dialogue
+> CONTEXT: Map078/events/3/pages/0/0/Dialogue
+...Çıkış tam önümüzde, değil mi ?
+> END STRING
+
+> BEGIN STRING
+…人类
+> CONTEXT: Map078/events/4/pages/0/0/Dialogue
+> CONTEXT: Map078/events/5/pages/0/0/Dialogue
+> CONTEXT: Map078/events/6/pages/0/0/Dialogue
+> CONTEXT: Map078/events/7/pages/0/0/Dialogue
+> CONTEXT: Map078/events/8/pages/0/0/Dialogue
+> CONTEXT: Map078/events/9/pages/0/0/Dialogue
+> CONTEXT: Map053/events/69/pages/0/45/Dialogue
+> CONTEXT: Map053/events/70/pages/0/45/Dialogue
+> CONTEXT: Map053/events/74/pages/0/45/Dialogue
+> CONTEXT: Map053/events/75/pages/0/45/Dialogue
+> CONTEXT: Map053/events/76/pages/0/45/Dialogue
+> CONTEXT: Map053/events/107/pages/0/44/Dialogue
+...İnsan.
+> END STRING
+
+> BEGIN STRING
+…谢谢你
+> CONTEXT: Map078/events/4/pages/0/6/Dialogue
+> CONTEXT: Map078/events/5/pages/0/6/Dialogue
+> CONTEXT: Map078/events/6/pages/0/6/Dialogue
+> CONTEXT: Map078/events/7/pages/0/6/Dialogue
+> CONTEXT: Map078/events/8/pages/0/6/Dialogue
+> CONTEXT: Map078/events/9/pages/0/6/Dialogue
+...Teşekkür ederim.
+> END STRING
+
+> BEGIN STRING
+…谢谢你的坚持，谢谢你的努力
+> CONTEXT: Map078/events/4/pages/0/8/Dialogue
+> CONTEXT: Map078/events/5/pages/0/8/Dialogue
+> CONTEXT: Map078/events/6/pages/0/8/Dialogue
+> CONTEXT: Map078/events/7/pages/0/8/Dialogue
+> CONTEXT: Map078/events/8/pages/0/8/Dialogue
+> CONTEXT: Map078/events/9/pages/0/8/Dialogue
+...Azmin için teşekkür ederim. Çabaların için
+sana teşekkür ederim.
+> END STRING
+
+> BEGIN STRING
+…如果没有你，我也不可能有勇气到这里
+> CONTEXT: Map078/events/4/pages/0/10/Dialogue
+> CONTEXT: Map078/events/5/pages/0/10/Dialogue
+> CONTEXT: Map078/events/6/pages/0/10/Dialogue
+> CONTEXT: Map078/events/7/pages/0/10/Dialogue
+> CONTEXT: Map078/events/8/pages/0/10/Dialogue
+> CONTEXT: Map078/events/9/pages/0/10/Dialogue
+...Sen olmasaydın burada bulunma cesaretinde
+bile olmazdım.
+> END STRING
+
+> BEGIN STRING
+…真的，非常感谢你
+> CONTEXT: Map078/events/4/pages/0/12/Dialogue
+> CONTEXT: Map078/events/5/pages/0/12/Dialogue
+> CONTEXT: Map078/events/6/pages/0/12/Dialogue
+> CONTEXT: Map078/events/7/pages/0/12/Dialogue
+> CONTEXT: Map078/events/8/pages/0/12/Dialogue
+> CONTEXT: Map078/events/9/pages/0/12/Dialogue
+Sana gerçekten çok minnettarım.
+> END STRING
+
+> BEGIN STRING
+清洁用具
+> CONTEXT: Map078/events/15/pages/0/0/Dialogue
+> CONTEXT: Map078/events/16/pages/0/0/Dialogue
+> CONTEXT: Map078/events/17/pages/0/0/Dialogue
+> CONTEXT: Map069/events/9/pages/0/0/Dialogue
+> CONTEXT: Map069/events/10/pages/0/0/Dialogue
+> CONTEXT: Map069/events/11/pages/0/0/Dialogue
+> CONTEXT: Map064/events/24/pages/0/0/Dialogue
+> CONTEXT: Map064/events/33/pages/0/0/Dialogue
+> CONTEXT: Map064/events/42/pages/0/0/Dialogue
+Temizlik malzemeleri.
+> END STRING
+
+> BEGIN STRING
+我们的研究，就是最后的希望！
+> CONTEXT: Map078/events/22/pages/0/1/Dialogue
+Araştırmalarımız son umudumuz !
+> END STRING
+
+> BEGIN STRING
+振作！牺牲代表了进步！
+> CONTEXT: Map078/events/22/pages/0/4/Dialogue
+Neşelen ! İlerlemek için fedakarlık yapmalıyız !
+> END STRING
+
+> BEGIN STRING
+我们终将成功！
+> CONTEXT: Map078/events/22/pages/0/7/Dialogue
+En sonunda başarıya kavuşacağız !
+> END STRING
+
+> BEGIN STRING
+啊，是小箱子
+> CONTEXT: Map078/events/23/pages/0/0/Dialogue
+> CONTEXT: Map078/events/24/pages/0/0/Dialogue
+> CONTEXT: Map078/events/35/pages/0/0/Dialogue
+Aaa...küçük bir kutu.
+> END STRING
+
+> BEGIN STRING
+一串弹孔……
+> CONTEXT: Map078/events/25/pages/0/0/Dialogue
+> CONTEXT: Map078/events/34/pages/0/0/Dialogue
+Ardışık kurşun delikleri...
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

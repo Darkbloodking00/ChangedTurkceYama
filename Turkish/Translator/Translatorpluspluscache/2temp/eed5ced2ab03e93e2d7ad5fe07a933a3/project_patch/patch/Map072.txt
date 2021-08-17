@@ -1,0 +1,30 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…我跟着你呢
+> CONTEXT: Map072/events/3/pages/1/2/Dialogue
+...Seni takip ediyorum.
+> END STRING
+
+> BEGIN STRING
+…快、快走
+> CONTEXT: Map072/events/3/pages/1/4/Dialogue
+...Lütfen acele et.
+> END STRING
+
+> BEGIN STRING
+…遇到危险马上靠到我、我这里哟
+> CONTEXT: Map072/events/3/pages/1/6/Dialogue
+...Ve eğer başın belaya girerse
+benim yanıma gel.
+> END STRING
+
+> BEGIN STRING
+普罗在哆嗦
+> CONTEXT: Map072/events/3/pages/1/9/Dialogue
+Puro tir tir titriyor.
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING

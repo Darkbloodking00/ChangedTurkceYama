@@ -1,0 +1,90 @@
+> RPGMAKER TRANS PATCH FILE VERSION 3.2
+> BEGIN STRING
+…同类们…去哪了
+> CONTEXT: Map077/events/2/pages/0/11/Dialogue
+...Yoldaşlarım...nereye gittiniz ?
+> END STRING
+
+> BEGIN STRING
+…为什么这里只剩下了这些结晶……
+> CONTEXT: Map077/events/2/pages/0/13/Dialogue
+...Nerede geride yalnızca kristaller
+kalmış...
+> END STRING
+
+> BEGIN STRING
+…他们已经出去了么
+> CONTEXT: Map077/events/2/pages/0/15/Dialogue
+...Dışarıya mı kaçtılar ?
+> END STRING
+
+> BEGIN STRING
+…他们，好幸运啊，出生在离外面这么近的
+地方……
+> CONTEXT: Map077/events/2/pages/0/18/Dialogue
+...Dış dünyaya yakın doğdukları için
+çok şanslılar...Kapı direkt ağızlarında...
+> END STRING
+
+> BEGIN STRING
+…先不提这些，人类你注意到地上了吗
+> CONTEXT: Map077/events/2/pages/0/24/Dialogue
+...Neyse İnsan, zeminin nasıl olduğunu
+fark ettin mi ?
+> END STRING
+
+> BEGIN STRING
+…这些小小的结晶刺…好像一触即发…
+> CONTEXT: Map077/events/2/pages/0/26/Dialogue
+...Bu ufak kristaller onlara dokunduğun
+zaman yüzeye çıkıyor...
+> END STRING
+
+> BEGIN STRING
+…他们对非同类的触动可能极其敏感…
+> CONTEXT: Map077/events/2/pages/0/28/Dialogue
+...Dokunuşlara karşı aşırı derecede
+hassaslar...
+> END STRING
+
+> BEGIN STRING
+…小心啊人类，别在终点线之前摔了跟头！
+> CONTEXT: Map077/events/2/pages/0/30/Dialogue
+...Dikkatli ol, İnsan. Bitiş çizgisine
+ulaşmadan durayım deme !
+> END STRING
+
+> BEGIN STRING
+…你不是想让我抱着你一路跑过去吧！
+> CONTEXT: Map077/events/2/pages/0/33/Dialogue
+...Seni bitiş çizgisine kadar bebek
+gibi taşımamı beklemiyorsun
+herhalde ? !
+> END STRING
+
+> BEGIN STRING
+…虽然困难重重，但最终，我也来到这里了
+> CONTEXT: Map077/events/2/pages/1/0/Dialogue
+...Çok uzun zaman oldu ama çıkışa
+ulaşmayı sonunda başardık.
+> END STRING
+
+> BEGIN STRING
+…没有人类你的话，我是绝对不可能做到的
+啊
+> CONTEXT: Map077/events/2/pages/1/2/Dialogue
+...Bunu sen olmadan başaramazdım.
+> END STRING
+
+> BEGIN STRING
+…你去哪？
+> CONTEXT: Map077/events/149/pages/0/0/Dialogue
+> CONTEXT: Map075/events/81/pages/0/0/Dialogue
+> CONTEXT: Map075/events/82/pages/0/0/Dialogue
+...Nereye gidiyorsun ?
+> END STRING
+
+> BEGIN STRING
+
+
+> END STRING
