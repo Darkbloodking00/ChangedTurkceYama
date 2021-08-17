@@ -32,7 +32,7 @@ dosyayı seçin.
 8(opsiyonel)- İşlem bittikten sonra "Changed" oyununun bir üstündeki dizinde oluşturulan "Changed_patch ve Changed_translated" adlı klasörleri
 silebilirsiniz.
 
-9-Bu adresten en güncel yamayı indirin: [Changed Gayri Resmi Türkçe Yama](https://github.com/Darkbloodking00/ChangedTurkceYama/releases). (Örnek: ChangedTurkceRev17.zip)
+9-Bu adresten en güncel yamayı indirin: [Changed Gayri Resmi Türkçe Yama](https://github.com/Darkbloodking00/ChangedTurkceYama/releases).
 
 10-İndirdiğiniz "zip" dosyasını açın ve içinde bulunan her şeyi oyunun dizini olan "Changed" klasörüne atın.
 
@@ -61,5 +61,6 @@ tam ekrana girmesini kapatabilirsiniz.)
 [Aiden](https://steamcommunity.com/id/SrgAtkns/)
 
 ## MD5
+735996399DA5663F7E0EE810EC4F353F  ChangedTurkceRev18.7z
 794C2E75B87C155BF6CB5144461E8EDE  ChangedTurkceRev17.zip
 
