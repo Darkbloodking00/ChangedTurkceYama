@@ -16,7 +16,7 @@ ederek erişebilirsiniz.
 
 1-Bu adresten "RPGMakerTransv4.5_9.7z" adlı dosyayı indirin(Program bana ait değil): [RPGMakerTransv4.5_9.7z](https://www.mediafire.com/file/6krn0lwb89054ru/RPGMakerTransv4.5_9.7z/file)
 
-2-7zip'i kurun (alternatif yazılımlar da çalışabilir).
+2-7zip'i kurun (veya 7z dosyasını açabilecek bir yazılım.)
 
 3-7zip ile "RPGMakerTransv4.5_9.7z" adlı dosyayı istediğiniz bir yere çıkartın.
 
