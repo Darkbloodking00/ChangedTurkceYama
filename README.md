@@ -54,7 +54,7 @@ tam ekrana girmesini kapatabilirsiniz.)
 
 ## Emeği Geçenler
 
-### DarkBlood_King
+### DarkBloodKing
 [Furkan Demircioğlu](https://steamcommunity.com/id/DarkBlood007/)
 
 ### Özel Teşekkürler
