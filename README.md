@@ -62,5 +62,6 @@ tam ekrana girmesini kapatabilirsiniz.)
 
 ## MD5
 735996399DA5663F7E0EE810EC4F353F  ChangedTurkceRev18.7z
+
 794C2E75B87C155BF6CB5144461E8EDE  ChangedTurkceRev17.zip
 
