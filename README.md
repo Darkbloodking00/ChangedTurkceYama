@@ -52,9 +52,6 @@ tam ekrana girmesini kapatabilirsiniz.)
 ### Discord Sunucusu
 [Dark Çeviri Kanadı](https://discord.gg/xrVPGvp6Hc)
 
-### E-Posta
-darkiletisim@protonmail.com
-
 ## Emeği Geçenler
 
 ### DarkBloodKing
